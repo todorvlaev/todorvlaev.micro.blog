@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://todorvlaev.micro.blog/2023/01/04/the-most-beautiful.html",
+				
+				"content_html": "<p>📓📷 The most beautiful heart-attack-in-a-cup. The office coffee machine considers an Americano to be a 1/2 cup espresso shot. Topped it up with hot water myself. Living on the edge in your mid-30s 😂!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📓📷 The most beautiful heart-attack-in-a-cup. The office coffee machine considers an Americano to be a 1/2 cup espresso shot. Topped it up with hot water myself. Living on the edge in your mid-30s 😂!\n\n<img src=\"uploads/2023/0e3dc3d80d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-04T10:51:34+02:00",
+				"url": "https://todorvlaev.micro.blog/2023/01/04/the-most-beautiful.html",
+				"tags": ["Casual"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2023/01/02/a-roomba-recorded.html",
+				
+				"content_html": "<p>💾💬 <a href=\"https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/19/1065306/roomba-irobot-robot-vacuums-artificial-intelligence-training-data-privacy/amp/\">A Roomba recorded a woman on the toilet. How did screenshots end up on Facebook?</a></p>\n<blockquote>\n<p>“Everybody needs to make their own privacy decisions,” she told me. “And I can tell you, overwhelmingly, people make the decision to have the features as long as they are delivered at a cost-effective price point.”</p>\n</blockquote>\n<p>While this is the way executives reason about privacy, there is little hope for improvement.</p>\n",
+				"content_text": "💾💬 [A Roomba recorded a woman on the toilet. How did screenshots end up on Facebook?](https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/19/1065306/roomba-irobot-robot-vacuums-artificial-intelligence-training-data-privacy/amp/)\n\n> “Everybody needs to make their own privacy decisions,” she told me. “And I can tell you, overwhelmingly, people make the decision to have the features as long as they are delivered at a cost-effective price point.”\n\nWhile this is the way executives reason about privacy, there is little hope for improvement.\n",
+				"date_published": "2023-01-02T23:13:24+02:00",
+				"url": "https://todorvlaev.micro.blog/2023/01/02/a-roomba-recorded.html",
+				"tags": ["Technology"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2022/12/31/last-sauna-for.html",
+				
+				"content_html": "<p>📓📷 Last sauna for 198… oh wait 📺</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\n📓📷 Last sauna for 198… oh wait 📺\n\n<img src=\"uploads/2022/acc37183b4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-31T17:56:34+02:00",
+				"url": "https://todorvlaev.micro.blog/2022/12/31/last-sauna-for.html",
+				"tags": ["Casual"]
+			},
+			{
 				"id": "http://todorvlaev.micro.blog/2022/12/29/leaving-bulgaria-after.html",
 				
 				"content_html": "<p>📓📷 Leaving Bulgaria 🇧🇬 after a Christmas family visit. Early morning flight, long transfer ahead, but feeling fulfilled.</p>\n<!-- raw HTML omitted -->\n",
@@ -64,7 +91,7 @@
 				"id": "http://todorvlaev.micro.blog/2022/12/10/visited-porvoo-today.html",
 				
 				"content_html": "<p>📓📷 Visited <a href=\"https://en.wikipedia.org/wiki/Porvoo\">Porvoo</a> today. It’s a pretty town. The photo is a little misleading - the old town was bustling with people.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📓📷 Visited [Porvoo](https://en.wikipedia.org/wiki/Porvoo) today. It’s a pretty town. The photo is a little misleading - the old town was bustling with people.\n\n<img src=\"uploads/2022/0e92a9ed9d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "📓📷 Visited [Porvoo](https://en.wikipedia.org/wiki/Porvoo) today. It’s a pretty town. The photo is a little misleading - the old town was bustling with people.\n\n<img src=\"https://cdn.uploads.micro.blog/74413/2022/0e92a9ed9d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-10T21:13:16+02:00",
 				"url": "https://todorvlaev.micro.blog/2022/12/10/visited-porvoo-today.html",
 				"tags": ["Casual"]
