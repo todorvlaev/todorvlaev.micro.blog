@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://todorvlaev.micro.blog/2023/02/26/best-dough-and.html",
+				
+				"content_html": "<p>📓 Best dough and rise so far since I started baking! It’s rewarding to see progress week after week. 🍞 This time I had shorter autolyze and a bit more rigorous stretch-and-folding.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📓 Best dough and rise so far since I started baking! It’s rewarding to see progress week after week. 🍞 This time I had shorter autolyze and a bit more rigorous stretch-and-folding.\n\n<img src=\"uploads/2023/5a90ca6ed2.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-26T13:20:40+02:00",
+				"url": "https://microblog.todor.cc/2023/02/26/best-dough-and.html",
+				"tags": ["Casual"]
+			},
+			{
 				"id": "http://todorvlaev.micro.blog/2023/02/17/progressing-with-acquiring.html",
 				
-				"content_html": "<p>💾 Progressing with acquiring parts for a  SFF PC build. One risk factor was that some older BIOS versions of the mobo I chose don’t support the CPU out of the box and there is no BIOS flashback. Happy to see the BIOS version is new enough on the one I got 🙇</p>\n",
-				"content_text": "💾 Progressing with acquiring parts for a  SFF PC build. One risk factor was that some older BIOS versions of the mobo I chose don’t support the CPU out of the box and there is no BIOS flashback. Happy to see the BIOS version is new enough on the one I got 🙇\n",
+				"content_html": "<p>💾 Progressing with acquiring parts for an  SFF PC build. One risk factor was that some older BIOS versions of the mobo I chose don’t support the CPU out of the box and there is no BIOS flashback. Happy to see the BIOS version is new enough on the one I got 🙇</p>\n",
+				"content_text": "💾 Progressing with acquiring parts for an  SFF PC build. One risk factor was that some older BIOS versions of the mobo I chose don’t support the CPU out of the box and there is no BIOS flashback. Happy to see the BIOS version is new enough on the one I got 🙇\n",
 				"date_published": "2023-02-17T16:49:25+02:00",
 				"url": "https://microblog.todor.cc/2023/02/17/progressing-with-acquiring.html",
 				"tags": ["Technology"]
@@ -46,7 +55,7 @@
 				"id": "http://todorvlaev.micro.blog/2023/01/31/i-developed-a.html",
 				
 				"content_html": "<p>📓📷 I developed a sourdough starter over last week. This culminated in a total failure to produce the intended loaf on Sunday 🍞. However, it still tasted good and  I’m willing to try again! I was so close to just throw the weak dough in the trash. Thankfully, I didn’t. 😋</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📓📷 I developed a sourdough starter over last week. This culminated in a total failure to produce the intended loaf on Sunday 🍞. However, it still tasted good and  I’m willing to try again! I was so close to just throw the weak dough in the trash. Thankfully, I didn’t. 😋\n\n<img src=\"uploads/2023/978dd201ef.jpg\" width=\"600\" height=\"395\" alt=\"Sliced dark bread sitting on a wooden cutting board\">\n",
+				"content_text": "📓📷 I developed a sourdough starter over last week. This culminated in a total failure to produce the intended loaf on Sunday 🍞. However, it still tasted good and  I’m willing to try again! I was so close to just throw the weak dough in the trash. Thankfully, I didn’t. 😋\n\n<img src=\"https://cdn.uploads.micro.blog/74413/2023/978dd201ef.jpg\" width=\"600\" height=\"395\" alt=\"Sliced dark bread sitting on a wooden cutting board\">\n",
 				"date_published": "2023-01-31T19:56:01+02:00",
 				"url": "https://microblog.todor.cc/2023/01/31/i-developed-a.html",
 				"tags": ["Casual"]
