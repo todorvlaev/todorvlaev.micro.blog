@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://todorvlaev.micro.blog/2023/03/19/visited-san-gimignano.html",
+				
+				"content_html": "<p>📓📷 Visited San Gimignano today. Grey and slow Sunday. Now back at the house, headphones on 🎧 and an equally slow evening.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📓📷 Visited San Gimignano today. Grey and slow Sunday. Now back at the house, headphones on 🎧 and an equally slow evening.\n\n<img src=\"uploads/2023/9f879fe520.jpg\" width=\"428\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-19T19:39:35+02:00",
+				"url": "https://microblog.todor.cc/2023/03/19/visited-san-gimignano.html",
+				"tags": ["Casual"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2023/03/12/riding-on-train.html",
+				
+				"content_html": "<p>📓🚄 Riding on train at 300 km/h. Paint me impressed 🏎️</p>\n",
+				"content_text": "📓🚄 Riding on train at 300 km/h. Paint me impressed 🏎️\n",
+				"date_published": "2023-03-12T13:29:34+02:00",
+				"url": "https://microblog.todor.cc/2023/03/12/riding-on-train.html",
+				"tags": ["Casual"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2023/03/12/on-the-way.html",
+				
+				"content_html": "<p>📓📷 On the way to Tuscany 🇮🇹 for a month of remote working. Day 4 of our trip from Helsinki. We see the light at the end of the tunnel - Sunday breakfast in Milan. Doggos have been brilliant 🐶🙇 Just one more train leg before we get a rental car and some 10 hours from our final destination.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📓📷 On the way to Tuscany 🇮🇹 for a month of remote working. Day 4 of our trip from Helsinki. We see the light at the end of the tunnel - Sunday breakfast in Milan. Doggos have been brilliant 🐶🙇 Just one more train leg before we get a rental car and some 10 hours from our final destination.\n\n<img src=\"uploads/2023/1e572023c3.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-12T11:54:43+02:00",
+				"url": "https://microblog.todor.cc/2023/03/12/on-the-way.html",
+				"tags": ["Casual"]
+			},
+			{
 				"id": "http://todorvlaev.micro.blog/2023/03/09/you-know-the.html",
 				
 				"content_html": "<p>📓 You know the feeling when you complete something worthwhile at work and feel like you need some extra prize for basically doing your job? That prize is called salary 😂</p>\n",
