@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://todorvlaev.micro.blog/2023/06/22/ive-been-playing.html",
+				
+				"content_html": "<p>🎮 🍿 I’ve been playing Cyberpunk 2077 recently and decided to give the Edgerunners anime a go. Super impressed, not only with the plot but how it represents the game world.</p>\n",
+				"content_text": "🎮 🍿 I’ve been playing Cyberpunk 2077 recently and decided to give the Edgerunners anime a go. Super impressed, not only with the plot but how it represents the game world.\n",
+				"date_published": "2023-06-22T17:35:56+03:00",
+				"url": "https://microblog.todor.cc/2023/06/22/ive-been-playing.html",
+				"tags": ["Gaming"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2023/05/31/finally-got-my.html",
+				
+				"content_html": "<p>📓 Finally got my partner to watch The Last of Us. We saw the first 2 episodes. I didn’t give her any warning. 👹</p>\n",
+				"content_text": "📓 Finally got my partner to watch The Last of Us. We saw the first 2 episodes. I didn’t give her any warning. 👹\n",
+				"date_published": "2023-05-31T17:06:46+03:00",
+				"url": "https://microblog.todor.cc/2023/05/31/finally-got-my.html",
+				"tags": ["Casual"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2023/05/30/there-are-some.html",
+				
+				"content_html": "<p>💾 There are (some) development experience and security posture improvements from cloud workstations. However, I feel a strong concern that the major driving forces to adoption have skewed incentives that have the capacity to endanger personal computing in the long run.</p>\n<p><a href=\"https://news.ycombinator.com/item?id=36106716\">HN discussion on Google Cloud Workstations GA</a></p>\n",
+				"content_text": "💾 There are (some) development experience and security posture improvements from cloud workstations. However, I feel a strong concern that the major driving forces to adoption have skewed incentives that have the capacity to endanger personal computing in the long run. \n\n[HN discussion on Google Cloud Workstations GA](https://news.ycombinator.com/item?id=36106716)\n",
+				"date_published": "2023-05-30T00:04:14+03:00",
+				"url": "https://microblog.todor.cc/2023/05/30/there-are-some.html",
+				"tags": ["Technology"]
+			},
+			{
 				"id": "http://todorvlaev.micro.blog/2023/05/26/in-addition-to.html",
 				
 				"content_html": "<blockquote>\n<p>In addition to a challenging health crisis, the pandemic doubled as a grand intellectual test, and most of us failed it. Not all, but most. If you want to be better prepared for the next test, and I guarantee you there&rsquo;ll be plenty more, you better begin studying now.</p>\n<p>Start by asking yourself this question more often: But what if I&rsquo;m wrong?</p>\n</blockquote>\n<p><a href=\"https://world.hey.com/dhh/but-what-if-you-re-wrong-6de2168c\">But what if you&rsquo;re wrong?</a></p>\n<p>Wait, this is exactly what made people and governments react with strict measures - they asked themselves &ldquo;What if I&rsquo;m wrong?&rdquo; and didn&rsquo;t accept the risk, had they chosen differently. 🤷🏻‍♂️</p>\n",
@@ -21,15 +48,6 @@
 				"content_text": "📚 OMG, I didn’t expect how bad [The Hard Thing About Hard Things](https://micro.blog/books/9780062273215) is. Unless you are into narcissistic writing for startup bros, steer clear. Reached Chapter 3 and just can’t go on. Wasn’t prepared for that.\n",
 				"date_published": "2023-05-23T19:57:28+03:00",
 				"url": "https://microblog.todor.cc/2023/05/23/omg-i-didnt.html"
-			},
-			{
-				"id": "http://todorvlaev.micro.blog/2023/05/23/finally-getting-a.html",
-				
-				"content_html": "<p>🎮 Finally getting a grip of Warhammer 40k: Mechanicus on the iPad so that Necrons don’t mop the floor with me on the easy missions… But damn does it crash, 20 min lost just before clearing a tomb 😖</p>\n",
-				"content_text": "🎮 Finally getting a grip of Warhammer 40k: Mechanicus on the iPad so that Necrons don’t mop the floor with me on the easy missions… But damn does it crash, 20 min lost just before clearing a tomb 😖\n",
-				"date_published": "2023-05-23T00:12:34+03:00",
-				"url": "https://microblog.todor.cc/2023/05/23/finally-getting-a.html",
-				"tags": ["Gaming"]
 			},
 			{
 				"id": "http://todorvlaev.micro.blog/2023/05/13/eurovision-final-tonight.html",
@@ -62,7 +80,7 @@
 				"id": "http://todorvlaev.micro.blog/2023/04/23/it-was-a.html",
 				
 				"content_html": "<p>📓📷 It was a tough week health- and work-wise. There were some bright rays of light to it, though. Like the visit at the re-opened <a href=\"https://en.wikipedia.org/wiki/Ateneum?wprov=sfti1\">Ateneum</a>.</p>\n<p><em>In the photo <a href=\"https://www.kansallisgalleria.fi/en/object/481880\">Esko Tirronen’s Sunrise, 1971</a></em></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📓📷 It was a tough week health- and work-wise. There were some bright rays of light to it, though. Like the visit at the re-opened [Ateneum](https://en.wikipedia.org/wiki/Ateneum?wprov=sfti1).\n\n_In the photo [Esko Tirronen’s Sunrise, 1971](https://www.kansallisgalleria.fi/en/object/481880)_\n\n\n<img src=\"uploads/2023/163b437fab.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "📓📷 It was a tough week health- and work-wise. There were some bright rays of light to it, though. Like the visit at the re-opened [Ateneum](https://en.wikipedia.org/wiki/Ateneum?wprov=sfti1).\n\n_In the photo [Esko Tirronen’s Sunrise, 1971](https://www.kansallisgalleria.fi/en/object/481880)_\n\n\n<img src=\"https://cdn.uploads.micro.blog/74413/2023/163b437fab.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-23T19:18:45+03:00",
 				"url": "https://microblog.todor.cc/2023/04/23/it-was-a.html",
 				"tags": ["Casual"]
