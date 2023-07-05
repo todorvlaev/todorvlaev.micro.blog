@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://todorvlaev.micro.blog/2023/07/05/today-is-my.html",
+				
+				"content_html": "<p>📓Today is my Micro.blog, and microblogging in general, cake day 🎂 One year ago, inspired by <a href=\"https://micro.blog/manton\">@manton</a>&rsquo;s <a href=\"https://book.micro.blog\">book</a>, I joined the community. It&rsquo;s helped me reflect a lot during the past year and engage in a healthy way with a social network. Here&rsquo;s to many more 🥂</p>\n",
+				"content_text": "📓Today is my Micro.blog, and microblogging in general, cake day 🎂 One year ago, inspired by [@manton](https://micro.blog/manton)'s [book](https://book.micro.blog), I joined the community. It's helped me reflect a lot during the past year and engage in a healthy way with a social network. Here's to many more 🥂\n",
+				"date_published": "2023-07-05T09:59:51+03:00",
+				"url": "https://microblog.todor.cc/2023/07/05/today-is-my.html",
+				"tags": ["Casual"]
+			},
+			{
 				"id": "http://todorvlaev.micro.blog/2023/06/22/ive-been-playing.html",
 				
 				"content_html": "<p>🎮 🍿 I’ve been playing Cyberpunk 2077 recently and decided to give the Edgerunners anime a go. Super impressed, not only with the plot but how it represents the game world.</p>\n",
@@ -48,6 +57,15 @@
 				"content_text": "📚 OMG, I didn’t expect how bad [The Hard Thing About Hard Things](https://micro.blog/books/9780062273215) is. Unless you are into narcissistic writing for startup bros, steer clear. Reached Chapter 3 and just can’t go on. Wasn’t prepared for that.\n",
 				"date_published": "2023-05-23T19:57:28+03:00",
 				"url": "https://microblog.todor.cc/2023/05/23/omg-i-didnt.html"
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2023/05/23/finally-getting-a.html",
+				
+				"content_html": "<p>🎮 Finally getting a grip of Warhammer 40k: Mechanicus on the iPad so that Necrons don’t mop the floor with me on the easy missions… But damn does it crash, 20 min lost just before clearing a tomb 😖</p>\n",
+				"content_text": "🎮 Finally getting a grip of Warhammer 40k: Mechanicus on the iPad so that Necrons don’t mop the floor with me on the easy missions… But damn does it crash, 20 min lost just before clearing a tomb 😖\n",
+				"date_published": "2023-05-23T00:12:34+03:00",
+				"url": "https://microblog.todor.cc/2023/05/23/finally-getting-a.html",
+				"tags": ["Gaming"]
 			},
 			{
 				"id": "http://todorvlaev.micro.blog/2023/05/13/eurovision-final-tonight.html",
