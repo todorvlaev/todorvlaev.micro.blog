@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://todorvlaev.micro.blog/2023/07/20/been-playing-totk.html",
+				
+				"content_html": "<p>🎮 Been playing TotK for about a week. Only now something in the back of my mind clicked. The construction mechanic reminds me of <a href=\"https://en.wikipedia.org/wiki/The_Incredible_Machine?wprov=sfti1\">The Incredible Machine</a> games of the past - the freedom, clunkiness and surprising effectiveness of weird contraptions 🤓</p>\n",
+				"content_text": "🎮 Been playing TotK for about a week. Only now something in the back of my mind clicked. The construction mechanic reminds me of [The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine?wprov=sfti1) games of the past - the freedom, clunkiness and surprising effectiveness of weird contraptions 🤓\n",
+				"date_published": "2023-07-20T20:25:21+03:00",
+				"url": "https://microblog.todor.cc/2023/07/20/been-playing-totk.html",
+				"tags": ["Gaming"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2023/07/09/its-been-some.html",
+				
+				"content_html": "<p>📓📷 It&rsquo;s been some time since I posted a photo. Throwback to Helsinki Pride w/ Elli and my happy shirt 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📓📷 It's been some time since I posted a photo. Throwback to Helsinki Pride w/ Elli and my happy shirt 🐶\n\n<img src=\"uploads/2023/img-0901.jpg\" width=\"399\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-09T20:02:16+03:00",
+				"url": "https://microblog.todor.cc/2023/07/09/its-been-some.html",
+				"tags": ["Casual"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2023/07/09/v-of-my.html",
+				
+				"content_html": "<p>💾 v1.1 of my SFF PC build is complete today. Swapped the PSU to a smaller one that allowed me to also put in a case fan. Not yet sure of the impact on temps, some work to do with fan curves. Next, I need a pair of these cute SFF WiFi antennas and a better couch keyboard + mouse combo.</p>\n",
+				"content_text": "💾 v1.1 of my SFF PC build is complete today. Swapped the PSU to a smaller one that allowed me to also put in a case fan. Not yet sure of the impact on temps, some work to do with fan curves. Next, I need a pair of these cute SFF WiFi antennas and a better couch keyboard + mouse combo.\n",
+				"date_published": "2023-07-09T19:56:02+03:00",
+				"url": "https://microblog.todor.cc/2023/07/09/v-of-my.html",
+				"tags": ["Technology"]
+			},
+			{
 				"id": "http://todorvlaev.micro.blog/2023/07/05/today-is-my.html",
 				
 				"content_html": "<p>📓Today is my Micro.blog, and microblogging in general, cake day 🎂 One year ago, inspired by <a href=\"https://micro.blog/manton\">@manton</a>&rsquo;s <a href=\"https://book.micro.blog\">book</a>, I joined the community. It&rsquo;s helped me reflect a lot during the past year and engage in a healthy way with a social network. Here&rsquo;s to many more 🥂</p>\n",
