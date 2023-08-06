@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://todorvlaev.micro.blog/2023/08/06/started-watching-guardians.html",
+				
+				"content_html": "<p>📓🍿Started watching Guardians of the Galaxy Vol. 3 absent-mindedly last night. Turned out to be a total blast!</p>\n",
+				"content_text": "📓🍿Started watching Guardians of the Galaxy Vol. 3 absent-mindedly last night. Turned out to be a total blast!\n",
+				"date_published": "2023-08-06T20:42:11+03:00",
+				"url": "https://microblog.todor.cc/2023/08/06/started-watching-guardians.html",
+				"tags": ["Casual"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2023/07/25/on-vacation-since.html",
+				
+				"content_html": "<p>📓On vacation since last Wednesday. My sense of what day of the week it is, is already completely ruined. Going well 👌</p>\n",
+				"content_text": "📓On vacation since last Wednesday. My sense of what day of the week it is, is already completely ruined. Going well 👌\n",
+				"date_published": "2023-07-25T00:06:23+03:00",
+				"url": "https://microblog.todor.cc/2023/07/25/on-vacation-since.html",
+				"tags": ["Casual"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2023/07/22/its-not-often.html",
+				
+				"content_html": "<p>📓 It’s not often (yet) that I can declare complete success with baking bread. Today,  however, I can say so 😋 This organic sourdough rye loaf turned out perfectly. Huge thanks to this <a href=\"https://youtu.be/Qr9ms2MsRec\">video</a>! 🍞</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📓 It’s not often (yet) that I can declare complete success with baking bread. Today,  however, I can say so 😋 This organic sourdough rye loaf turned out perfectly. Huge thanks to this [video](https://youtu.be/Qr9ms2MsRec)! 🍞 \n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"Sliced rye bread on a wooden cutting board.\">\n",
+				"date_published": "2023-07-22T14:36:32+03:00",
+				"url": "https://microblog.todor.cc/2023/07/22/its-not-often.html",
+				"tags": ["Casual"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2023/07/22/the-best-games.html",
+				
+				"content_html": "<p>🎮 <a href=\"https://youtu.be/tYxZ_LOlFnU\">The Best Games from GMTK Game Jam 2023 video</a> is out! Mind-blown by the creativity of game devs under severe time pressure 🤯</p>\n",
+				"content_text": "🎮 [The Best Games from GMTK Game Jam 2023 video](https://youtu.be/tYxZ_LOlFnU) is out! Mind-blown by the creativity of game devs under severe time pressure 🤯\n",
+				"date_published": "2023-07-22T12:56:00+03:00",
+				"url": "https://microblog.todor.cc/2023/07/22/the-best-games.html",
+				"tags": ["Gaming"]
+			},
+			{
 				"id": "http://todorvlaev.micro.blog/2023/07/20/been-playing-totk.html",
 				
 				"content_html": "<p>🎮 Been playing TotK for about a week. Only now something in the back of my mind clicked. The construction mechanic reminds me of <a href=\"https://en.wikipedia.org/wiki/The_Incredible_Machine?wprov=sfti1\">The Incredible Machine</a> games of the past - the freedom, clunkiness and surprising effectiveness of weird contraptions 🤓</p>\n",
@@ -19,7 +55,7 @@
 				"id": "http://todorvlaev.micro.blog/2023/07/09/its-been-some.html",
 				
 				"content_html": "<p>📓📷 It&rsquo;s been some time since I posted a photo. Throwback to Helsinki Pride w/ Elli and my happy shirt 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📓📷 It's been some time since I posted a photo. Throwback to Helsinki Pride w/ Elli and my happy shirt 🐶\n\n<img src=\"uploads/2023/img-0901.jpg\" width=\"399\" height=\"600\" alt=\"\">\n",
+				"content_text": "📓📷 It's been some time since I posted a photo. Throwback to Helsinki Pride w/ Elli and my happy shirt 🐶\n\n<img src=\"https://cdn.uploads.micro.blog/74413/2023/img-0901.jpg\" width=\"399\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-07-09T20:02:16+03:00",
 				"url": "https://microblog.todor.cc/2023/07/09/its-been-some.html",
 				"tags": ["Casual"]
