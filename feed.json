@@ -7,11 +7,29 @@
 	"items": [
 		
 			{
+				"id": "http://todorvlaev.micro.blog/2023/11/19/sometimes-id-like.html",
+				
+				"content_html": "<p>💾 Sometimes I&rsquo;d like to engage with online communities on specific topics. Discord feels too overwhelming and noisy (inherent to chat tools, I guess). Reddit, in theory, should be a sweet spot - but again so many distractions. Matrix, IRC, email - feel too clunky. 🤷🏻‍♂️ Digital introvert problems.</p>\n",
+				"content_text": "💾 Sometimes I'd like to engage with online communities on specific topics. Discord feels too overwhelming and noisy (inherent to chat tools, I guess). Reddit, in theory, should be a sweet spot - but again so many distractions. Matrix, IRC, email - feel too clunky. 🤷🏻‍♂️ Digital introvert problems.\n",
+				"date_published": "2023-11-19T10:49:49+02:00",
+				"url": "https://microblog.todor.cc/2023/11/19/sometimes-id-like.html",
+				"tags": ["Technology"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2023/11/05/bg-patch-notes.html",
+				
+				"content_html": "<p>🎮 BG3 patch notes read like Federal Bureau of Control documents. You wouldn’t like to know that ◼️happened to ◼️ as an unexpected spoiler. In other news progressing with Alan Wake II 🔦</p>\n",
+				"content_text": "🎮 BG3 patch notes read like Federal Bureau of Control documents. You wouldn’t like to know that ◼️happened to ◼️ as an unexpected spoiler. In other news progressing with Alan Wake II 🔦\n",
+				"date_published": "2023-11-05T12:20:47+02:00",
+				"url": "https://microblog.todor.cc/2023/11/05/bg-patch-notes.html",
+				"tags": ["Gaming"]
+			},
+			{
 				"id": "http://todorvlaev.micro.blog/2023/10/29/changed-back-to.html",
 				
 				"content_html": "<p>📓 Changed back to standard time today. The oven clock is right again and it’s dark by 17.</p>\n",
 				"content_text": "📓 Changed back to standard time today. The oven clock is right again and it’s dark by 17.\n",
-				"date_published": "2023-10-29T23:49:21+03:00",
+				"date_published": "2023-10-29T22:49:21+02:00",
 				"url": "https://microblog.todor.cc/2023/10/29/changed-back-to.html",
 				"tags": ["Casual"]
 			},
@@ -20,7 +38,7 @@
 				
 				"content_html": "<p>🎮 Good morning, 2023-10-27! Alan Wake II downloading…</p>\n",
 				"content_text": "🎮 Good morning, 2023-10-27! Alan Wake II downloading…\n",
-				"date_published": "2023-10-27T07:59:31+03:00",
+				"date_published": "2023-10-27T06:59:31+02:00",
 				"url": "https://microblog.todor.cc/2023/10/27/good-morning-alan.html",
 				"tags": ["Gaming"]
 			},
@@ -29,7 +47,7 @@
 				"title": "💻 2023 Groupthink in Tech",
 				"content_html": "<p>It may be early but somehow started thinking about 2023 in review already.</p>\n<p>So a bit tongue-in-cheek 2023 technology executives’ groupthink list:</p>\n<ul>\n<li>Efficiency = Layoffs + ? = Profit</li>\n<li>Transformation, i.e. reorg</li>\n<li>AI in strategy</li>\n<li>Return to office</li>\n</ul>\n<p>Photo: ”Let that sink in” (Oct 2022, source The Economist).</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "It may be early but somehow started thinking about 2023 in review already. \n\nSo a bit tongue-in-cheek 2023 technology executives’ groupthink list:\n\n- Efficiency = Layoffs + ? = Profit\n- Transformation, i.e. reorg\n- AI in strategy\n- Return to office\n\nPhoto: ”Let that sink in” (Oct 2022, source The Economist).\n\n<img src=\"uploads/2023/img-4190.webp\" width=\"600\" height=\"450\" alt=\"Elon Musk smiling and holding a sink at Twitter HQ\">\n",
-				"date_published": "2023-10-10T08:13:00+03:00",
+				"date_published": "2023-10-10T07:13:00+02:00",
 				"url": "https://microblog.todor.cc/2023/10/10/groupthink-in-tech.html",
 				"tags": ["Management"]
 			},
@@ -38,7 +56,7 @@
 				
 				"content_html": "<p>📓📷 This is the best sourdough loaf 🍞 I’ve baked so far! All this time I think I’ve been adding too much water. I’ve been underestimating the water content in my starter is my guess.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 This is the best sourdough loaf 🍞 I’ve baked so far! All this time I think I’ve been adding too much water. I’ve been underestimating the water content in my starter is my guess.\n\n\n\n<img src=\"uploads/2023/988700cbb7.jpg\" width=\"600\" height=\"600\" alt=\"Floured sourdough boule on a kitchen cloth.\">\n",
-				"date_published": "2023-09-29T16:54:42+03:00",
+				"date_published": "2023-09-29T15:54:42+02:00",
 				"url": "https://microblog.todor.cc/2023/09/29/this-is-the.html",
 				"tags": ["Casual"]
 			},
@@ -47,7 +65,7 @@
 				
 				"content_html": "<p>🎮 The plot lines in Baldur’s Gate 3 are so good! I’m genuinely curious what is going to happen and how it could have played out had I chosen differently. It’s so hard to discuss anything without risking spoilers - this says a lot!</p>\n",
 				"content_text": "🎮 The plot lines in Baldur’s Gate 3 are so good! I’m genuinely curious what is going to happen and how it could have played out had I chosen differently. It’s so hard to discuss anything without risking spoilers - this says a lot!\n",
-				"date_published": "2023-09-25T21:54:51+03:00",
+				"date_published": "2023-09-25T20:54:51+02:00",
 				"url": "https://microblog.todor.cc/2023/09/25/the-plot-lines.html",
 				"tags": ["Gaming"]
 			},
@@ -56,7 +74,7 @@
 				
 				"content_html": "<p>🎮 I’ve been wondering if I could let go of my Xbox Series S in favor of my PC. It’s a tough call. PCs just tend to not <em>just work</em>. Currently, it seems I have an unstable bluetooth connection. ”Mostly works” is the worst! The Xbox is seamless.</p>\n",
 				"content_text": "🎮 I’ve been wondering if I could let go of my Xbox Series S in favor of my PC. It’s a tough call. PCs just tend to not *just work*. Currently, it seems I have an unstable bluetooth connection. ”Mostly works” is the worst! The Xbox is seamless.\n",
-				"date_published": "2023-09-10T18:03:46+03:00",
+				"date_published": "2023-09-10T17:03:46+02:00",
 				"url": "https://microblog.todor.cc/2023/09/10/ive-been-wondering.html",
 				"tags": ["Gaming"]
 			},
@@ -65,7 +83,7 @@
 				
 				"content_html": "<p>📝 Finally created some evergreen notes à la Zettelkasten. Lesson learned - I should have just started without overthinking it. Here’s something that has helped me through hectic times recently:</p>\n<blockquote>\n<p><strong>Scrying your TODO list</strong></p>\n<p>Scrying is a mechanic from Magic the Gathering tabletop card came. It allows for a player to:</p>\n<ul>\n<li>look at their stack of cards</li>\n<li>decide to put cards at the bottom of the stack</li>\n<li>decide to keep cards on the top and re-order them</li>\n</ul>\n<p>Scrying your TODO list could be a useful metaphor for prioritizing tasks. The order of tasks, especially the next 2-5 tasks, is more important than completing the whole list.</p>\n<p>A useful heuristic for scrying a TODO list is deciding which tasks need doing today and which tasks will make tomorrow easier.</p>\n</blockquote>\n<p>Source: <a href=\"https://www.relay.fm/cortex/142\">Cortex - #142 Scrying Your List</a></p>\n",
 				"content_text": "📝 Finally created some evergreen notes à la Zettelkasten. Lesson learned - I should have just started without overthinking it. Here’s something that has helped me through hectic times recently:\n\n> **Scrying your TODO list**\n> \n> Scrying is a mechanic from Magic the Gathering tabletop card came. It allows for a player to:\n> - look at their stack of cards\n> - decide to put cards at the bottom of the stack\n> - decide to keep cards on the top and re-order them\n>\n> Scrying your TODO list could be a useful metaphor for prioritizing tasks. The order of tasks, especially the next 2-5 tasks, is more important than completing the whole list. \n>\n> A useful heuristic for scrying a TODO list is deciding which tasks need doing today and which tasks will make tomorrow easier.\n\nSource: [Cortex - #142 Scrying Your List](https://www.relay.fm/cortex/142)\n",
-				"date_published": "2023-09-08T14:48:29+03:00",
+				"date_published": "2023-09-08T13:48:29+02:00",
 				"url": "https://microblog.todor.cc/2023/09/08/finally-created-some.html",
 				"tags": ["Casual"]
 			},
@@ -74,7 +92,7 @@
 				
 				"content_html": "<p>🎮 Remote downloading Baldur’s Gate 3 on my way home 🧝‍♀️</p>\n",
 				"content_text": "🎮 Remote downloading Baldur’s Gate 3 on my way home 🧝‍♀️\n",
-				"date_published": "2023-09-01T16:25:03+03:00",
+				"date_published": "2023-09-01T15:25:03+02:00",
 				"url": "https://microblog.todor.cc/2023/09/01/remote-downloading-baldurs.html",
 				"tags": ["Gaming"]
 			},
@@ -83,7 +101,7 @@
 				
 				"content_html": "<p>💾 Captain&rsquo;s Log, Stardate 2023.8. I used a FAT-formatted USB stick as a last resort to make the office printer cooperate.</p>\n",
 				"content_text": "💾 Captain's Log, Stardate 2023.8. I used a FAT-formatted USB stick as a last resort to make the office printer cooperate.\n",
-				"date_published": "2023-08-31T10:07:25+03:00",
+				"date_published": "2023-08-31T09:07:25+02:00",
 				"url": "https://microblog.todor.cc/2023/08/31/captains-log-stardate.html",
 				"tags": ["Technology"]
 			},
@@ -92,7 +110,7 @@
 				
 				"content_html": "<p>💬 <a href=\"https://www.newyorker.com/culture/cultural-comment/we-dont-need-a-new-twitter\">We Don’t Need a New Twitter | The New Yorker</a></p>\n<blockquote>\n<p>Forcing millions of people into the same shared conversation is unnatural, requiring aggressive curation that in turn leads to the type of supercharged engagement that seems to leave everyone upset and exhausted. Aggregation as a goal in this context survives, instead, for the simple reason that it’s lucrative.</p>\n</blockquote>\n",
 				"content_text": "💬 [We Don’t Need a New Twitter | The New Yorker](https://www.newyorker.com/culture/cultural-comment/we-dont-need-a-new-twitter)\n\n> Forcing millions of people into the same shared conversation is unnatural, requiring aggressive curation that in turn leads to the type of supercharged engagement that seems to leave everyone upset and exhausted. Aggregation as a goal in this context survives, instead, for the simple reason that it’s lucrative.\n",
-				"date_published": "2023-08-27T13:03:28+03:00",
+				"date_published": "2023-08-27T12:03:28+02:00",
 				"url": "https://microblog.todor.cc/2023/08/27/we-dont-need.html"
 			},
 			{
@@ -100,7 +118,7 @@
 				"title": "💾 Lenovo Yoga 7 14ARB7 - Good riddance!",
 				"content_html": "<p>TLDR; Lenovo Yoga 7 14ARB7 is hot garbage, buy a Mac</p>\n<p>I need to preface this “review” with something. I’m grateful for the privilege to not be worried about my finances currently. I’m deeply aware because I have been worried in the past. So, when I get something new - I need it, I’m passionate about it, I see the positives, overlook the negatives, assume good intentions.</p>\n<p>So when I spend a non-negligable amount of money on something that disappoints me as thoroughly as the Yoga 7, I get… angry.</p>\n<p>The prelude - we need a new laptop in the household, the Macbook Air 2017 with its horrible display doesn’t cut it anymore. So I see a “back-to-school” kind of offer on the Yoga 7. Hm, OK, a recent mobile AMD APU, 16GB DDR5 6400MHz RAM, 512 GB PCIe4 SSD - should be fine. In addition 2800x1800px resolution with an OLED, convertible laptop-tablet mode, 90Hz refresh rate - I’m excited. Won’t beat my iPad Pro 2020 in terms of writing/drawing experience but should be decent as an added bonus and the Yoga should beat the iPad, not to mention the the Macbook Air, at colors and smoothness of the image. This is what is on paper - an attractive spec, substantial upgrade for, say, half the price of what I would otherwise get if I was looking at Macs.</p>\n<p>Online reviews were scarce, as the model seems to not be available in all regions, especially not in the States. Still, did some research, looked promising and disregarded some warning signs I thought of as anecdotal. After all, there is always someone with a defective device, or a skewed personal opinion… Here is mine.</p>\n<p>Did you get excited about the “beautiful 2.8k OLED display” reviews and marketing materials talk about? Hot garbage because of the touch layer. There were extremely visible artefacts already during installation, especially on bright backgrounds. I wasn’t sure what I was looking at, after all the display is a highlight of this product. After some extra research I believe what I was seeing was the touch capacitive layer matrix… apparently somewhat common with OLED touch displays according to the Internet. How does this pass quality control and any sane product designers is beyond me. The combination is not fit for purpose and especially not when you add an otherwise gorgeous high-resolution OLED panel. It makes me weep thinking about it. Strike 1.</p>\n<p>The usual Windows (11) crap kicks in - a barrage of updates. Fans are loud, I’m not worried. After a couple of hours of updates, Windows and Lenovo drivers, the background activity should get quiet. The fans, turns out, not so. With barely any activity on the device the fans spin up, even in the save battery mode. Googling more about a potential root cause and solutions… Found a Reddit thread I can’t be bothered to site but that matches my observations. The fans are not controlled by temperature but by wattage! Fan Control, well… didn’t find controls for the fans because of this. E.g. Temps are at 40-50C across the board in light usage, while all along fans are spinning based on the Watts and not temps. Strike 2.</p>\n<p>Performance. Well, not impressive. For all the APU and DDR5 RAM buzz, the experience is not nearly as snappy as on my desktop with technically lower specs. I should say I’m happy with my Windows 11 experience on the desktop. Several temporary freezes, and extremely clumsy “tablet” mode (note, I wasn’t even expecting it to be close to an iPad)… Strike 3.</p>\n<p>If this is not enough. While otherwise the build quality was good and I was willing to neglect that the touchpad is not nearly as good as, say, my MBP 16” work laptop… the F2 button on the keyboard was defective, pops out as if close to detaching in normal use. Bad luck, but… Strike “I’m not counting anymore”.</p>\n<p>Can’t fix much either - fan control, APU performance tuning and BIOS settings are severely limited.</p>\n<p>So, packed this buddy back in the box and returned it… may have to forfeit 30% of the cost for this nightmare of an evening with a defective and poorly designed Lenovo (Windows) product that retails in the 1000-1400 EUR range. No one deserves to spend this amount of their hard-earned cash to be let down like this, it’s frankly a borderline scam.</p>\n<p>In conclusion, whatever gripes I may have with Macs sometimes… I’ve used heavily just 2 Mac laptops in the last 9 years! If the Mac annoys you occasionally - remember it’s scary out there with the Windows OEMs. I’ll probably try again in 10 years.</p>\n<p>End of rant.</p>\n",
 				"content_text": "TLDR; Lenovo Yoga 7 14ARB7 is hot garbage, buy a Mac\n\nI need to preface this “review” with something. I’m grateful for the privilege to not be worried about my finances currently. I’m deeply aware because I have been worried in the past. So, when I get something new - I need it, I’m passionate about it, I see the positives, overlook the negatives, assume good intentions.\n \nSo when I spend a non-negligable amount of money on something that disappoints me as thoroughly as the Yoga 7, I get… angry.\n\nThe prelude - we need a new laptop in the household, the Macbook Air 2017 with its horrible display doesn’t cut it anymore. So I see a “back-to-school” kind of offer on the Yoga 7. Hm, OK, a recent mobile AMD APU, 16GB DDR5 6400MHz RAM, 512 GB PCIe4 SSD - should be fine. In addition 2800x1800px resolution with an OLED, convertible laptop-tablet mode, 90Hz refresh rate - I’m excited. Won’t beat my iPad Pro 2020 in terms of writing/drawing experience but should be decent as an added bonus and the Yoga should beat the iPad, not to mention the the Macbook Air, at colors and smoothness of the image. This is what is on paper - an attractive spec, substantial upgrade for, say, half the price of what I would otherwise get if I was looking at Macs.\n\nOnline reviews were scarce, as the model seems to not be available in all regions, especially not in the States. Still, did some research, looked promising and disregarded some warning signs I thought of as anecdotal. After all, there is always someone with a defective device, or a skewed personal opinion… Here is mine.\n\nDid you get excited about the “beautiful 2.8k OLED display” reviews and marketing materials talk about? Hot garbage because of the touch layer. There were extremely visible artefacts already during installation, especially on bright backgrounds. I wasn’t sure what I was looking at, after all the display is a highlight of this product. After some extra research I believe what I was seeing was the touch capacitive layer matrix… apparently somewhat common with OLED touch displays according to the Internet. How does this pass quality control and any sane product designers is beyond me. The combination is not fit for purpose and especially not when you add an otherwise gorgeous high-resolution OLED panel. It makes me weep thinking about it. Strike 1.\n\nThe usual Windows (11) crap kicks in - a barrage of updates. Fans are loud, I’m not worried. After a couple of hours of updates, Windows and Lenovo drivers, the background activity should get quiet. The fans, turns out, not so. With barely any activity on the device the fans spin up, even in the save battery mode. Googling more about a potential root cause and solutions… Found a Reddit thread I can’t be bothered to site but that matches my observations. The fans are not controlled by temperature but by wattage! Fan Control, well… didn’t find controls for the fans because of this. E.g. Temps are at 40-50C across the board in light usage, while all along fans are spinning based on the Watts and not temps. Strike 2.\n\nPerformance. Well, not impressive. For all the APU and DDR5 RAM buzz, the experience is not nearly as snappy as on my desktop with technically lower specs. I should say I’m happy with my Windows 11 experience on the desktop. Several temporary freezes, and extremely clumsy “tablet” mode (note, I wasn’t even expecting it to be close to an iPad)… Strike 3.\n\nIf this is not enough. While otherwise the build quality was good and I was willing to neglect that the touchpad is not nearly as good as, say, my MBP 16” work laptop… the F2 button on the keyboard was defective, pops out as if close to detaching in normal use. Bad luck, but… Strike “I’m not counting anymore”.\n\nCan’t fix much either - fan control, APU performance tuning and BIOS settings are severely limited.\n\nSo, packed this buddy back in the box and returned it… may have to forfeit 30% of the cost for this nightmare of an evening with a defective and poorly designed Lenovo (Windows) product that retails in the 1000-1400 EUR range. No one deserves to spend this amount of their hard-earned cash to be let down like this, it’s frankly a borderline scam.\n\nIn conclusion, whatever gripes I may have with Macs sometimes… I’ve used heavily just 2 Mac laptops in the last 9 years! If the Mac annoys you occasionally - remember it’s scary out there with the Windows OEMs. I’ll probably try again in 10 years.\n\nEnd of rant. \n",
-				"date_published": "2023-08-18T00:24:21+03:00",
+				"date_published": "2023-08-17T23:24:21+02:00",
 				"url": "https://microblog.todor.cc/2023/08/18/lenovo-yoga-arb.html",
 				"tags": ["Technology"]
 			},
@@ -109,7 +127,7 @@
 				
 				"content_html": "<p>📓🎮 Last day of summer vacation. The highlight that will stick with me is a visit to Tampere. Really liked the vibe of the city. Throwback to some retro gaming and a Stimpak cocktail at the <a href=\"https://www.lategame.fi/galleria/\">Lategame bar and cafe</a>.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓🎮 Last day of summer vacation. The highlight that will stick with me is a visit to Tampere. Really liked the vibe of the city. Throwback to some retro gaming and a Stimpak cocktail at the [Lategame bar and cafe](https://www.lategame.fi/galleria/).\n\n<img src=\"https://cdn.uploads.micro.blog/74413/2023/dd114edc77.jpg\" width=\"450\" height=\"600\" alt=\"Person in a white t-shirt sitting on a couch with two small dogs at a game bar.\">\n",
-				"date_published": "2023-08-15T22:49:23+03:00",
+				"date_published": "2023-08-15T21:49:23+02:00",
 				"url": "https://microblog.todor.cc/2023/08/15/last-day-of.html",
 				"tags": ["Casual","Gaming"]
 			},
@@ -118,7 +136,7 @@
 				
 				"content_html": "<p>📓🍿Started watching Guardians of the Galaxy Vol. 3 absent-mindedly last night. Turned out to be a total blast!</p>\n",
 				"content_text": "📓🍿Started watching Guardians of the Galaxy Vol. 3 absent-mindedly last night. Turned out to be a total blast!\n",
-				"date_published": "2023-08-06T20:42:11+03:00",
+				"date_published": "2023-08-06T19:42:11+02:00",
 				"url": "https://microblog.todor.cc/2023/08/06/started-watching-guardians.html",
 				"tags": ["Casual"]
 			},
@@ -127,7 +145,7 @@
 				
 				"content_html": "<p>📓On vacation since last Wednesday. My sense of what day of the week it is, is already completely ruined. Going well 👌</p>\n",
 				"content_text": "📓On vacation since last Wednesday. My sense of what day of the week it is, is already completely ruined. Going well 👌\n",
-				"date_published": "2023-07-25T00:06:23+03:00",
+				"date_published": "2023-07-24T23:06:23+02:00",
 				"url": "https://microblog.todor.cc/2023/07/25/on-vacation-since.html",
 				"tags": ["Casual"]
 			},
@@ -136,7 +154,7 @@
 				
 				"content_html": "<p>📓 It’s not often (yet) that I can declare complete success with baking bread. Today,  however, I can say so 😋 This organic sourdough rye loaf turned out perfectly. Huge thanks to this <a href=\"https://youtu.be/Qr9ms2MsRec\">video</a>! 🍞</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓 It’s not often (yet) that I can declare complete success with baking bread. Today,  however, I can say so 😋 This organic sourdough rye loaf turned out perfectly. Huge thanks to this [video](https://youtu.be/Qr9ms2MsRec)! 🍞 \n\n<img src=\"https://cdn.uploads.micro.blog/74413/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"Sliced rye bread on a wooden cutting board.\">\n",
-				"date_published": "2023-07-22T14:36:32+03:00",
+				"date_published": "2023-07-22T13:36:32+02:00",
 				"url": "https://microblog.todor.cc/2023/07/22/its-not-often.html",
 				"tags": ["Casual"]
 			},
@@ -145,7 +163,7 @@
 				
 				"content_html": "<p>🎮 <a href=\"https://youtu.be/tYxZ_LOlFnU\">The Best Games from GMTK Game Jam 2023 video</a> is out! Mind-blown by the creativity of game devs under severe time pressure 🤯</p>\n",
 				"content_text": "🎮 [The Best Games from GMTK Game Jam 2023 video](https://youtu.be/tYxZ_LOlFnU) is out! Mind-blown by the creativity of game devs under severe time pressure 🤯\n",
-				"date_published": "2023-07-22T12:56:00+03:00",
+				"date_published": "2023-07-22T11:56:00+02:00",
 				"url": "https://microblog.todor.cc/2023/07/22/the-best-games.html",
 				"tags": ["Gaming"]
 			},
@@ -154,7 +172,7 @@
 				
 				"content_html": "<p>🎮 Been playing TotK for about a week. Only now something in the back of my mind clicked. The construction mechanic reminds me of <a href=\"https://en.wikipedia.org/wiki/The_Incredible_Machine?wprov=sfti1\">The Incredible Machine</a> games of the past - the freedom, clunkiness and surprising effectiveness of weird contraptions 🤓</p>\n",
 				"content_text": "🎮 Been playing TotK for about a week. Only now something in the back of my mind clicked. The construction mechanic reminds me of [The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine?wprov=sfti1) games of the past - the freedom, clunkiness and surprising effectiveness of weird contraptions 🤓\n",
-				"date_published": "2023-07-20T20:25:21+03:00",
+				"date_published": "2023-07-20T19:25:21+02:00",
 				"url": "https://microblog.todor.cc/2023/07/20/been-playing-totk.html",
 				"tags": ["Gaming"]
 			},
@@ -163,7 +181,7 @@
 				
 				"content_html": "<p>📓📷 It&rsquo;s been some time since I posted a photo. Throwback to Helsinki Pride w/ Elli and my happy shirt 🐶</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 It's been some time since I posted a photo. Throwback to Helsinki Pride w/ Elli and my happy shirt 🐶\n\n<img src=\"https://cdn.uploads.micro.blog/74413/2023/img-0901.jpg\" width=\"399\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-07-09T20:02:16+03:00",
+				"date_published": "2023-07-09T19:02:16+02:00",
 				"url": "https://microblog.todor.cc/2023/07/09/its-been-some.html",
 				"tags": ["Casual"]
 			},
@@ -172,7 +190,7 @@
 				
 				"content_html": "<p>💾 v1.1 of my SFF PC build is complete today. Swapped the PSU to a smaller one that allowed me to also put in a case fan. Not yet sure of the impact on temps, some work to do with fan curves. Next, I need a pair of these cute SFF WiFi antennas and a better couch keyboard + mouse combo.</p>\n",
 				"content_text": "💾 v1.1 of my SFF PC build is complete today. Swapped the PSU to a smaller one that allowed me to also put in a case fan. Not yet sure of the impact on temps, some work to do with fan curves. Next, I need a pair of these cute SFF WiFi antennas and a better couch keyboard + mouse combo.\n",
-				"date_published": "2023-07-09T19:56:02+03:00",
+				"date_published": "2023-07-09T18:56:02+02:00",
 				"url": "https://microblog.todor.cc/2023/07/09/v-of-my.html",
 				"tags": ["Technology"]
 			},
@@ -181,7 +199,7 @@
 				
 				"content_html": "<p>📓Today is my Micro.blog, and microblogging in general, cake day 🎂 One year ago, inspired by <a href=\"https://micro.blog/manton\">@manton</a>&rsquo;s <a href=\"https://book.micro.blog\">book</a>, I joined the community. It&rsquo;s helped me reflect a lot during the past year and engage in a healthy way with a social network. Here&rsquo;s to many more 🥂</p>\n",
 				"content_text": "📓Today is my Micro.blog, and microblogging in general, cake day 🎂 One year ago, inspired by [@manton](https://micro.blog/manton)'s [book](https://book.micro.blog), I joined the community. It's helped me reflect a lot during the past year and engage in a healthy way with a social network. Here's to many more 🥂\n",
-				"date_published": "2023-07-05T09:59:51+03:00",
+				"date_published": "2023-07-05T08:59:51+02:00",
 				"url": "https://microblog.todor.cc/2023/07/05/today-is-my.html",
 				"tags": ["Casual"]
 			},
@@ -190,7 +208,7 @@
 				
 				"content_html": "<p>🎮 🍿 I’ve been playing Cyberpunk 2077 recently and decided to give the Edgerunners anime a go. Super impressed, not only with the plot but how it represents the game world.</p>\n",
 				"content_text": "🎮 🍿 I’ve been playing Cyberpunk 2077 recently and decided to give the Edgerunners anime a go. Super impressed, not only with the plot but how it represents the game world.\n",
-				"date_published": "2023-06-22T17:35:56+03:00",
+				"date_published": "2023-06-22T16:35:56+02:00",
 				"url": "https://microblog.todor.cc/2023/06/22/ive-been-playing.html",
 				"tags": ["Gaming"]
 			},
@@ -199,7 +217,7 @@
 				
 				"content_html": "<p>📓 Finally got my partner to watch The Last of Us. We saw the first 2 episodes. I didn’t give her any warning. 👹</p>\n",
 				"content_text": "📓 Finally got my partner to watch The Last of Us. We saw the first 2 episodes. I didn’t give her any warning. 👹\n",
-				"date_published": "2023-05-31T17:06:46+03:00",
+				"date_published": "2023-05-31T16:06:46+02:00",
 				"url": "https://microblog.todor.cc/2023/05/31/finally-got-my.html",
 				"tags": ["Casual"]
 			},
@@ -208,7 +226,7 @@
 				
 				"content_html": "<p>💾 There are (some) development experience and security posture improvements from cloud workstations. However, I feel a strong concern that the major driving forces to adoption have skewed incentives that have the capacity to endanger personal computing in the long run.</p>\n<p><a href=\"https://news.ycombinator.com/item?id=36106716\">HN discussion on Google Cloud Workstations GA</a></p>\n",
 				"content_text": "💾 There are (some) development experience and security posture improvements from cloud workstations. However, I feel a strong concern that the major driving forces to adoption have skewed incentives that have the capacity to endanger personal computing in the long run. \n\n[HN discussion on Google Cloud Workstations GA](https://news.ycombinator.com/item?id=36106716)\n",
-				"date_published": "2023-05-30T00:04:14+03:00",
+				"date_published": "2023-05-29T23:04:14+02:00",
 				"url": "https://microblog.todor.cc/2023/05/30/there-are-some.html",
 				"tags": ["Technology"]
 			},
@@ -217,7 +235,7 @@
 				
 				"content_html": "<blockquote>\n<p>In addition to a challenging health crisis, the pandemic doubled as a grand intellectual test, and most of us failed it. Not all, but most. If you want to be better prepared for the next test, and I guarantee you there&rsquo;ll be plenty more, you better begin studying now.</p>\n<p>Start by asking yourself this question more often: But what if I&rsquo;m wrong?</p>\n</blockquote>\n<p><a href=\"https://world.hey.com/dhh/but-what-if-you-re-wrong-6de2168c\">But what if you&rsquo;re wrong?</a></p>\n<p>Wait, this is exactly what made people and governments react with strict measures - they asked themselves &ldquo;What if I&rsquo;m wrong?&rdquo; and didn&rsquo;t accept the risk, had they chosen differently. 🤷🏻‍♂️</p>\n",
 				"content_text": "> In addition to a challenging health crisis, the pandemic doubled as a grand intellectual test, and most of us failed it. Not all, but most. If you want to be better prepared for the next test, and I guarantee you there'll be plenty more, you better begin studying now.\r\n> \r\n> Start by asking yourself this question more often: But what if I'm wrong?\r\n\r\n[But what if you're wrong?](https://world.hey.com/dhh/but-what-if-you-re-wrong-6de2168c)\r\n\r\nWait, this is exactly what made people and governments react with strict measures - they asked themselves \"What if I'm wrong?\" and didn't accept the risk, had they chosen differently. 🤷🏻‍♂️\n",
-				"date_published": "2023-05-26T12:40:02+03:00",
+				"date_published": "2023-05-26T11:40:02+02:00",
 				"url": "https://microblog.todor.cc/2023/05/26/in-addition-to.html"
 			},
 			{
@@ -225,7 +243,7 @@
 				
 				"content_html": "<p>📚 OMG, I didn’t expect how bad <a href=\"https://micro.blog/books/9780062273215\">The Hard Thing About Hard Things</a> is. Unless you are into narcissistic writing for startup bros, steer clear. Reached Chapter 3 and just can’t go on. Wasn’t prepared for that.</p>\n",
 				"content_text": "📚 OMG, I didn’t expect how bad [The Hard Thing About Hard Things](https://micro.blog/books/9780062273215) is. Unless you are into narcissistic writing for startup bros, steer clear. Reached Chapter 3 and just can’t go on. Wasn’t prepared for that.\n",
-				"date_published": "2023-05-23T19:57:28+03:00",
+				"date_published": "2023-05-23T18:57:28+02:00",
 				"url": "https://microblog.todor.cc/2023/05/23/omg-i-didnt.html"
 			},
 			{
@@ -233,7 +251,7 @@
 				
 				"content_html": "<p>🎮 Finally getting a grip of Warhammer 40k: Mechanicus on the iPad so that Necrons don’t mop the floor with me on the easy missions… But damn does it crash, 20 min lost just before clearing a tomb 😖</p>\n",
 				"content_text": "🎮 Finally getting a grip of Warhammer 40k: Mechanicus on the iPad so that Necrons don’t mop the floor with me on the easy missions… But damn does it crash, 20 min lost just before clearing a tomb 😖\n",
-				"date_published": "2023-05-23T00:12:34+03:00",
+				"date_published": "2023-05-22T23:12:34+02:00",
 				"url": "https://microblog.todor.cc/2023/05/23/finally-getting-a.html",
 				"tags": ["Gaming"]
 			},
@@ -242,7 +260,7 @@
 				
 				"content_html": "<p>📓🎵 Eurovision 2023 final tonight!</p>\n<p>🇫🇮🫲🟢🟢😎🟢🟢🫱🇫🇮</p>\n",
 				"content_text": "📓🎵 Eurovision 2023 final tonight!\n\n🇫🇮🫲🟢🟢😎🟢🟢🫱🇫🇮\n",
-				"date_published": "2023-05-13T17:13:41+03:00",
+				"date_published": "2023-05-13T16:13:41+02:00",
 				"url": "https://microblog.todor.cc/2023/05/13/eurovision-final-tonight.html",
 				"tags": ["Casual"]
 			},
@@ -251,7 +269,7 @@
 				
 				"content_html": "<p>💾 I had no idea this would stick with me but… You can use “Lumos” and “Nox” with Siri to respectively turn on and off the torch. Works well on the apple watch as well! 🧙‍♂️</p>\n",
 				"content_text": "💾 I had no idea this would stick with me but… You can use “Lumos” and “Nox” with Siri to respectively turn on and off the torch. Works well on the apple watch as well! 🧙‍♂️\n",
-				"date_published": "2023-04-30T22:57:18+03:00",
+				"date_published": "2023-04-30T21:57:18+02:00",
 				"url": "https://microblog.todor.cc/2023/04/30/i-had-no.html",
 				"tags": ["Technology"]
 			},
@@ -260,7 +278,7 @@
 				
 				"content_html": "<p>💾 <a href=\"https://micro.blog/help\">@help</a> would be great to have an UI element that indicates a thread has comments in the Micro.blog iOS beta app. Would save a bunch of swipes/taps. Gluon has this tiny but very handy feature.</p>\n",
 				"content_text": "💾 [@help](https://micro.blog/help) would be great to have an UI element that indicates a thread has comments in the Micro.blog iOS beta app. Would save a bunch of swipes/taps. Gluon has this tiny but very handy feature.\n",
-				"date_published": "2023-04-30T22:53:31+03:00",
+				"date_published": "2023-04-30T21:53:31+02:00",
 				"url": "https://microblog.todor.cc/2023/04/30/help-would-be.html",
 				"tags": ["Technology"]
 			},
@@ -269,7 +287,7 @@
 				
 				"content_html": "<p>📓📷 It was a tough week health- and work-wise. There were some bright rays of light to it, though. Like the visit at the re-opened <a href=\"https://en.wikipedia.org/wiki/Ateneum?wprov=sfti1\">Ateneum</a>.</p>\n<p><em>In the photo <a href=\"https://www.kansallisgalleria.fi/en/object/481880\">Esko Tirronen’s Sunrise, 1971</a></em></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 It was a tough week health- and work-wise. There were some bright rays of light to it, though. Like the visit at the re-opened [Ateneum](https://en.wikipedia.org/wiki/Ateneum?wprov=sfti1).\n\n_In the photo [Esko Tirronen’s Sunrise, 1971](https://www.kansallisgalleria.fi/en/object/481880)_\n\n\n<img src=\"https://cdn.uploads.micro.blog/74413/2023/163b437fab.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-04-23T19:18:45+03:00",
+				"date_published": "2023-04-23T18:18:45+02:00",
 				"url": "https://microblog.todor.cc/2023/04/23/it-was-a.html",
 				"tags": ["Casual"]
 			},
@@ -278,7 +296,7 @@
 				
 				"content_html": "<p>📓 Binge-watching the Mandalorian S3. This is the way. 📺</p>\n",
 				"content_text": "📓 Binge-watching the Mandalorian S3. This is the way. 📺\n",
-				"date_published": "2023-04-22T21:56:48+03:00",
+				"date_published": "2023-04-22T20:56:48+02:00",
 				"url": "https://microblog.todor.cc/2023/04/22/bingewatching-the-mandalorian.html",
 				"tags": ["Casual"]
 			},
@@ -287,7 +305,7 @@
 				
 				"content_html": "<p>📓📷 Opening the 2023 cottage season 🏡</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 Opening the 2023 cottage season 🏡\n\n<img src=\"https://cdn.uploads.micro.blog/74413/2023/4f5fe518db.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-04-15T15:28:01+03:00",
+				"date_published": "2023-04-15T14:28:01+02:00",
 				"url": "https://microblog.todor.cc/2023/04/15/opening-the-cottage.html",
 				"tags": ["Casual"]
 			},
@@ -296,7 +314,7 @@
 				
 				"content_html": "<p>📓 Just realized that coming back to Finland 🇫🇮 during Easter means it’s also <a href=\"https://en.wikipedia.org/wiki/M%C3%A4mmi?wprov=sfti1\">mämmi</a> season. I think it’s a polarizing opinion at least among foreigners in Finland but I ❤️ mämmi 🤤</p>\n",
 				"content_text": "📓 Just realized that coming back to Finland 🇫🇮 during Easter means it’s also [mämmi](https://en.wikipedia.org/wiki/M%C3%A4mmi?wprov=sfti1) season. I think it’s a polarizing opinion at least among foreigners in Finland but I ❤️ mämmi 🤤\n",
-				"date_published": "2023-04-07T17:38:26+03:00",
+				"date_published": "2023-04-07T16:38:26+02:00",
 				"url": "https://microblog.todor.cc/2023/04/07/just-realized-that.html",
 				"tags": ["Casual"]
 			},
@@ -305,7 +323,7 @@
 				
 				"content_html": "<p>📓 Working on my weekly review template in Obsidian. Decided to have an optional photo from the week, I hope it becomes mandatory. Here 2023-W13’s photo -  Bernie escaping a wave 🌊🐶 in Lerici 🇮🇹. Gelato🍦was also had that day.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓 Working on my weekly review template in Obsidian. Decided to have an optional photo from the week, I hope it becomes mandatory. Here 2023-W13’s photo -  Bernie escaping a wave 🌊🐶 in Lerici 🇮🇹. Gelato🍦was also had that day.\n\n<img src=\"https://cdn.uploads.micro.blog/74413/2023/b68adf33ab.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-04-02T22:38:05+03:00",
+				"date_published": "2023-04-02T21:38:05+02:00",
 				"url": "https://microblog.todor.cc/2023/04/02/working-on-my.html",
 				"tags": ["Casual"]
 			},
@@ -314,7 +332,7 @@
 				
 				"content_html": "<p>💾 Raindrop vs. Readwise? The use case I have is syncing highlights with Obsidian. I would have considered the Readwise + Reader subscription (as it comes with an official Obsidian plugin) if it could replace Feedbin. But, Reader makes my head explode vs the simplicitiy and control in Feedbin 🤯</p>\n",
 				"content_text": "💾 Raindrop vs. Readwise? The use case I have is syncing highlights with Obsidian. I would have considered the Readwise + Reader subscription (as it comes with an official Obsidian plugin) if it could replace Feedbin. But, Reader makes my head explode vs the simplicitiy and control in Feedbin 🤯\n",
-				"date_published": "2023-03-28T21:14:25+03:00",
+				"date_published": "2023-03-28T20:14:25+02:00",
 				"url": "https://microblog.todor.cc/2023/03/28/raindrop-vs-readwise.html",
 				"tags": ["Technology"]
 			},
@@ -323,7 +341,7 @@
 				
 				"content_html": "<p>📓📷 A love story in Florence 😋 Throwback to our visit last week. Thankfully, I’m not the main photographer on this trip.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 A love story in Florence 😋 Throwback to our visit last week. Thankfully, I’m not the main photographer on this trip.\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/74413/2023/aa04152ee9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-03-26T10:56:38+03:00",
+				"date_published": "2023-03-26T09:56:38+02:00",
 				"url": "https://microblog.todor.cc/2023/03/26/a-love-story.html",
 				"tags": ["Casual"]
 			},
@@ -332,7 +350,7 @@
 				
 				"content_html": "<p>📓📷 Spent the weekend in Naples. I think I gained a couple of kilos. It’s too hectic and loud city for my taste, but it’s quite a unique sight. The level of adoration for Napoli and Maradona is something I’ve never seen elsewhere. Napoli is on the way to winning Serie A after a 30+ break 🤞</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 Spent the weekend in Naples. I think I gained a couple of kilos. It’s too hectic and loud city for my taste, but it’s quite a unique sight. The level of adoration for Napoli and Maradona is something I’ve never seen elsewhere. Napoli is on the way to winning Serie A after a 30+ break 🤞\n\n<img src=\"https://cdn.uploads.micro.blog/74413/2023/41490b64f4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-03-26T10:44:44+03:00",
+				"date_published": "2023-03-26T09:44:44+02:00",
 				"url": "https://microblog.todor.cc/2023/03/26/spent-the-weekend.html",
 				"tags": ["Casual"]
 			},
@@ -341,7 +359,7 @@
 				
 				"content_html": "<p>💾 Pair a restrictive enterprise environment with Microsoft’s suite on the Apple ecosystem and you get endless misery and despair for your average productivity geek. Like, you think you can sync Obsidian via OneDrive (no Obsidian Sync cause enterprise + M$) on mobile…</p>\n<blockquote>\n<p>Computer says NO!</p>\n</blockquote>\n",
 				"content_text": "💾 Pair a restrictive enterprise environment with Microsoft’s suite on the Apple ecosystem and you get endless misery and despair for your average productivity geek. Like, you think you can sync Obsidian via OneDrive (no Obsidian Sync cause enterprise + M$) on mobile…\n\n> Computer says NO!\n",
-				"date_published": "2023-03-23T01:21:53+03:00",
+				"date_published": "2023-03-23T00:21:53+02:00",
 				"url": "https://microblog.todor.cc/2023/03/22/pair-a-restrictive.html",
 				"tags": ["Technology"]
 			},
@@ -350,7 +368,7 @@
 				
 				"content_html": "<p>📓📷 Visited San Gimignano today. Grey and slow Sunday. Now back at the house, headphones on 🎧 and an equally slow evening.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 Visited San Gimignano today. Grey and slow Sunday. Now back at the house, headphones on 🎧 and an equally slow evening.\n\n<img src=\"https://cdn.uploads.micro.blog/74413/2023/9f879fe520.jpg\" width=\"428\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-03-19T20:39:35+03:00",
+				"date_published": "2023-03-19T19:39:35+02:00",
 				"url": "https://microblog.todor.cc/2023/03/19/visited-san-gimignano.html",
 				"tags": ["Casual"]
 			},
@@ -359,7 +377,7 @@
 				
 				"content_html": "<p>📓🚄 Riding on a train at 300 km/h. Paint me impressed 🏎️</p>\n",
 				"content_text": "📓🚄 Riding on a train at 300 km/h. Paint me impressed 🏎️\n",
-				"date_published": "2023-03-12T14:29:34+03:00",
+				"date_published": "2023-03-12T13:29:34+02:00",
 				"url": "https://microblog.todor.cc/2023/03/12/riding-on-train.html",
 				"tags": ["Casual"]
 			},
@@ -368,7 +386,7 @@
 				
 				"content_html": "<p>📓📷 On the way to Tuscany 🇮🇹 for a month of remote working. Day 4 of our trip from Helsinki. We see the light at the end of the tunnel - Sunday breakfast in Milan. Doggos have been brilliant 🐶🙇 Just one more train leg before we get a rental car and some 10 hours from our final destination.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 On the way to Tuscany 🇮🇹 for a month of remote working. Day 4 of our trip from Helsinki. We see the light at the end of the tunnel - Sunday breakfast in Milan. Doggos have been brilliant 🐶🙇 Just one more train leg before we get a rental car and some 10 hours from our final destination.\n\n<img src=\"https://cdn.uploads.micro.blog/74413/2023/1e572023c3.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-03-12T12:54:43+03:00",
+				"date_published": "2023-03-12T11:54:43+02:00",
 				"url": "https://microblog.todor.cc/2023/03/12/on-the-way.html",
 				"tags": ["Casual"]
 			},
@@ -377,7 +395,7 @@
 				
 				"content_html": "<p>📓 You know the feeling when you complete something worthwhile at work and feel like you need some extra prize for basically doing your job? That prize is called salary 😂</p>\n",
 				"content_text": "📓 You know the feeling when you complete something worthwhile at work and feel like you need some extra prize for basically doing your job? That prize is called salary 😂\n",
-				"date_published": "2023-03-09T19:42:42+03:00",
+				"date_published": "2023-03-09T18:42:42+02:00",
 				"url": "https://microblog.todor.cc/2023/03/09/you-know-the.html",
 				"tags": ["Casual"]
 			},
@@ -386,7 +404,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Funnily enough this video got me more excited about the Embed feature than anything else. Anyway, thanks <a href=\"https://micro.blog/manton\">@manton</a>!</p>\n",
 				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Manton Reece\" data-avatar=\"https://micro.blog/manton/avatar.jpg\" cite=\"https://www.manton.org/2023/02/27/i-uploaded-a.html\"><p>I uploaded a very short <a href=\"https://youtu.be/wnuG-vQfOic\">21-second demo video to YouTube</a>, showing the Mac app’s updated character counter for posts with block quotes. Same behavior across all platforms as described in <a href=\"https://www.manton.org/2023/02/27/rounding-up-to.html\">this announcement post</a>.</p>\r\n<footer>Manton Reece <cite><a href=\"https://www.manton.org/2023/02/27/i-uploaded-a.html\" class=\"u-in-reply-to\">https://www.manton.org/2023/02/27/i-uploaded-a.html</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\nFunnily enough this video got me more excited about the Embed feature than anything else. Anyway, thanks [@manton](https://micro.blog/manton)!\r\n",
-				"date_published": "2023-02-27T19:42:52+03:00",
+				"date_published": "2023-02-27T18:42:52+02:00",
 				"url": "https://microblog.todor.cc/2023/02/27/i-uploaded-a.html"
 			},
 			{
@@ -394,7 +412,7 @@
 				
 				"content_html": "<p>📓 For nearly a year now I haven’t really felt the Sunday blues. I am sorry for bragging. It’s still a new thing for me to feel this way and I’m just grateful.</p>\n",
 				"content_text": "📓 For nearly a year now I haven’t really felt the Sunday blues. I am sorry for bragging. It’s still a new thing for me to feel this way and I’m just grateful.\n",
-				"date_published": "2023-02-26T23:24:22+03:00",
+				"date_published": "2023-02-26T22:24:22+02:00",
 				"url": "https://microblog.todor.cc/2023/02/26/for-nearly-a.html",
 				"tags": ["Casual"]
 			},
@@ -403,7 +421,7 @@
 				
 				"content_html": "<p>📓 Best dough and rise so far since I started baking! It’s rewarding to see progress week after week. 🍞 This time I had shorter autolyze and a bit more rigorous stretch-and-folding.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓 Best dough and rise so far since I started baking! It’s rewarding to see progress week after week. 🍞 This time I had shorter autolyze and a bit more rigorous stretch-and-folding.\n\n<img src=\"https://cdn.uploads.micro.blog/74413/2023/5a90ca6ed2.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-02-26T14:20:40+03:00",
+				"date_published": "2023-02-26T13:20:40+02:00",
 				"url": "https://microblog.todor.cc/2023/02/26/best-dough-and.html",
 				"tags": ["Casual"]
 			},
@@ -412,7 +430,7 @@
 				
 				"content_html": "<p>💾 Progressing with acquiring parts for an  SFF PC build. One risk factor was that some older BIOS versions of the mobo I chose don’t support the CPU out of the box and there is no BIOS flashback. Happy to see the BIOS version is new enough on the one I got 🙇</p>\n",
 				"content_text": "💾 Progressing with acquiring parts for an  SFF PC build. One risk factor was that some older BIOS versions of the mobo I chose don’t support the CPU out of the box and there is no BIOS flashback. Happy to see the BIOS version is new enough on the one I got 🙇\n",
-				"date_published": "2023-02-17T17:49:25+03:00",
+				"date_published": "2023-02-17T16:49:25+02:00",
 				"url": "https://microblog.todor.cc/2023/02/17/progressing-with-acquiring.html",
 				"tags": ["Technology"]
 			},
@@ -421,7 +439,7 @@
 				
 				"content_html": "<p>🎮 <a href=\"https://www.giantbomb.com/battleheart-legacy/3030-50773/\">Battleheart Legacy (2014)</a></p>\n<p>Darn where did the last couple of hours vanish just now! Available on Apple Arcade, and to my surprise I could play it with the touchpad of my iPad&rsquo;s Brydge.</p>\n",
 				"content_text": "🎮 [Battleheart Legacy (2014)](https://www.giantbomb.com/battleheart-legacy/3030-50773/)\r\n\r\nDarn where did the last couple of hours vanish just now! Available on Apple Arcade, and to my surprise I could play it with the touchpad of my iPad's Brydge.\n",
-				"date_published": "2023-02-08T00:33:13+03:00",
+				"date_published": "2023-02-07T23:33:13+02:00",
 				"url": "https://microblog.todor.cc/2023/02/07/battleheart-legacy-darn.html",
 				"tags": ["Gaming"]
 			},
@@ -430,7 +448,7 @@
 				
 				"content_html": "<p>📓📷 Last weekend’s effort 🍞. Progress! Completely changed the flour blend and got a feeling of what stretchy dough should be. For some reason, after promising stretch-and-fold reps, the dough still couldn’t hold any shape after the bulk fermentation phase 🤷🏻‍♂️</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 Last weekend’s effort 🍞. Progress! Completely changed the flour blend and got a feeling of what stretchy dough should be. For some reason, after promising stretch-and-fold reps, the dough still couldn’t hold any shape after the bulk fermentation phase 🤷🏻‍♂️\n\n<img src=\"https://cdn.uploads.micro.blog/74413/2023/75f0de2a80.jpg\" width=\"600\" height=\"400\" alt=\"Sourdough bread being cut on a wooden cutting board\">\n",
-				"date_published": "2023-02-08T00:25:07+03:00",
+				"date_published": "2023-02-07T23:25:07+02:00",
 				"url": "https://microblog.todor.cc/2023/02/07/last-weekends-effort.html",
 				"tags": ["Casual"]
 			},
@@ -439,7 +457,7 @@
 				
 				"content_html": "<blockquote>\n<p>algorithm</p>\n<p><em>noun</em></p>\n<p>a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.</p>\n<p>&ldquo;a basic algorithm for division&rdquo;</p>\n</blockquote>\n<p>Just pondering if doing anything useful is inherent to an algorithm. I maintain not. 💾</p>\n",
 				"content_text": "> algorithm\n> \n> _noun_\n> \n> a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.\n>\n> \"a basic algorithm for division\"\n\nJust pondering if doing anything useful is inherent to an algorithm. I maintain not. 💾\n",
-				"date_published": "2023-02-01T19:41:08+03:00",
+				"date_published": "2023-02-01T18:41:08+02:00",
 				"url": "https://microblog.todor.cc/2023/02/01/algorithmnouna-process-or.html",
 				"tags": ["Technology"]
 			},
@@ -448,7 +466,7 @@
 				
 				"content_html": "<p>📓📷 I developed a sourdough starter over last week. This culminated in a total failure to produce the intended loaf on Sunday 🍞. However, it still tasted good and  I’m willing to try again! I was so close to just throw the weak dough in the trash. Thankfully, I didn’t. 😋</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 I developed a sourdough starter over last week. This culminated in a total failure to produce the intended loaf on Sunday 🍞. However, it still tasted good and  I’m willing to try again! I was so close to just throw the weak dough in the trash. Thankfully, I didn’t. 😋\n\n<img src=\"https://cdn.uploads.micro.blog/74413/2023/978dd201ef.jpg\" width=\"600\" height=\"395\" alt=\"Sliced dark bread sitting on a wooden cutting board\">\n",
-				"date_published": "2023-01-31T20:56:01+03:00",
+				"date_published": "2023-01-31T19:56:01+02:00",
 				"url": "https://microblog.todor.cc/2023/01/31/i-developed-a.html",
 				"tags": ["Casual"]
 			},
@@ -457,7 +475,7 @@
 				
 				"content_html": "<p>🎮 <a href=\"https://www.giantbomb.com/red-dead-redemption-ii/3030-56725/\">Red Dead Redemption II (2018)</a></p>\n<p>Finally picked this one up on sale. Seems I prefer only occasional gun fights to everything else. Especially enjoy riding and bonding with my horse 🐴</p>\n",
 				"content_text": "🎮 [Red Dead Redemption II (2018)](https://www.giantbomb.com/red-dead-redemption-ii/3030-56725/)\r\n\r\nFinally picked this one up on sale. Seems I prefer only occasional gun fights to everything else. Especially enjoy riding and bonding with my horse 🐴\n",
-				"date_published": "2023-01-22T12:58:39+03:00",
+				"date_published": "2023-01-22T11:58:39+02:00",
 				"url": "https://microblog.todor.cc/2023/01/22/red-dead-redemption.html",
 				"tags": ["Gaming"]
 			},
@@ -466,7 +484,7 @@
 				
 				"content_html": "<p>📺 <a href=\"https://www.themoviedb.org/tv/210235\">The Bastard Son &amp; the Devil Himself (2022)</a></p>\n<p>I&rsquo;ve been watching this and enjoying it so far. Can&rsquo;t help but think that if it had been a US production (instead of a UK one), its 8 episodes would have been watered down into at least 2 seasons.</p>\n",
 				"content_text": "📺 [The Bastard Son & the Devil Himself (2022)](https://www.themoviedb.org/tv/210235)\r\n\r\nI've been watching this and enjoying it so far. Can't help but think that if it had been a US production (instead of a UK one), its 8 episodes would have been watered down into at least 2 seasons.\n",
-				"date_published": "2023-01-19T12:54:53+03:00",
+				"date_published": "2023-01-19T11:54:53+02:00",
 				"url": "https://microblog.todor.cc/2023/01/19/the-bastard-son.html"
 			},
 			{
@@ -474,7 +492,7 @@
 				
 				"content_html": "<p>💾 As part of my migration to Proton Mail, I&rsquo;m already forwarding my Gmail inbox to it and unsubscribing from a lot of junk. It&rsquo;s a cleansing experience.</p>\n",
 				"content_text": "💾 As part of my migration to Proton Mail, I'm already forwarding my Gmail inbox to it and unsubscribing from a lot of junk. It's a cleansing experience.\n",
-				"date_published": "2023-01-17T12:53:34+03:00",
+				"date_published": "2023-01-17T11:53:34+02:00",
 				"url": "https://microblog.todor.cc/2023/01/17/as-part-of.html",
 				"tags": ["Technology"]
 			},
@@ -483,7 +501,7 @@
 				
 				"content_html": "<p>📓🎵 <a href=\"https://www.last.fm/music/DIIV/Deceiver\">Deceiver - DIIV</a></p>\n<p>Something gloomy and melancholic to kick off the week.</p>\n<p><img src=\"https://lastfm.freetls.fastly.net/i/u/300x300/d6876af32ffab202e53c8b2bdd58e94d.png\" alt=\"Deceiver - DIIV poster\"></p>\n",
 				"content_text": "📓🎵 [Deceiver - DIIV](https://www.last.fm/music/DIIV/Deceiver)\r\n\r\nSomething gloomy and melancholic to kick off the week.\r\n\r\n![Deceiver - DIIV poster](https://lastfm.freetls.fastly.net/i/u/300x300/d6876af32ffab202e53c8b2bdd58e94d.png)\n",
-				"date_published": "2023-01-16T15:04:36+03:00",
+				"date_published": "2023-01-16T14:04:36+02:00",
 				"url": "https://microblog.todor.cc/2023/01/16/deceiver-diiv-something.html",
 				"tags": ["Casual"]
 			},
@@ -492,7 +510,7 @@
 				
 				"content_html": "<p>📓📺 <a href=\"https://www.themoviedb.org/tv/112581\">The Rig (2023)</a> - ★★★★☆</p>\n<p>Not sure why this has received relatively low ratings on IMDB. Totally binge-worthy!</p>\n<p>P.S.\nShoutout to @rknightuk for making <a href=\"https://lantern.rknight.me\">Lantern</a>!</p>\n<p><img src=\"https://image.tmdb.org/t/p/w780/buRe826xkgyU95nyMaDMuCNxfQn.jpg\" alt=\"The Rig poster\"></p>\n",
 				"content_text": "📓📺 [The Rig (2023)](https://www.themoviedb.org/tv/112581) - ★★★★☆\n\nNot sure why this has received relatively low ratings on IMDB. Totally binge-worthy!\n\nP.S.\nShoutout to @rknightuk for making [Lantern](https://lantern.rknight.me)!\n\n![The Rig poster](https://image.tmdb.org/t/p/w780/buRe826xkgyU95nyMaDMuCNxfQn.jpg)\n",
-				"date_published": "2023-01-15T17:01:26+03:00",
+				"date_published": "2023-01-15T16:01:26+02:00",
 				"url": "https://microblog.todor.cc/2023/01/15/the-rig-not.html",
 				"tags": ["Casual"]
 			},
@@ -501,7 +519,7 @@
 				"title": "🎮 The Callisto Protocol - better than the reviews, but still…",
 				"content_html": "<p>I had been eagerly waiting for the release of <a href=\"https://callisto.sds.com/\">The Callisto Protocol</a> in the end of 2022. From the minds of Dead Space creators, Callisto is a spiritual successor to this survival horror classic. I have to be honest - maybe too much so. After the first couple of hours, I felt that there wasn&rsquo;t enough of a novelty to have justified my pre-order. Nor to back up claims such as bringing survival horror to the 2020s. This remains a fair warning.</p>\n<p>That said, Callisto is an extremely well crafted and high quality cinematic experience. As I kept immersing myself in the world of the game, my initial sense of disappointment diminished. Still, I feel the development team overestimated the novelty of the close combat system. It is, however, really satisfying once you embrace its way of creating flow. If this was paired with a more captivating story, it would have taken the game to the next level. Alas, it is what it is.</p>\n<p>Gameplay won&rsquo;t appeal to many, but chances are if you are Dead Space fan - you&rsquo;d be fulfilled. Progression is linear, encounters scripted with little left to chance. This is perfectly fine, I enjoyed pre-planning and experimenting with difficult encounters, alongside improving my command of controls. Speaking of controls, there are a few rough edges around weapon swapping but it really forces you to remain composed and intentional under pressure.</p>\n<p>In the end, I&rsquo;m very happy with The Callisto Protocol and can absolutely recommend it. Seeing the level of polish of its visuals and fusion of cinematics with combat, it&rsquo;s frustrating the whole package has some flaws that keep the game in the &ldquo;Great&rdquo; and not &ldquo;Hall of Fame&rdquo; category.</p>\n<p><img src=\"https://www.giantbomb.com/a/uploads/original/33/338034/3397431-4456335920-EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c.jpg\" alt=\"The Callisto Protocol poster\"></p>\n",
 				"content_text": "I had been eagerly waiting for the release of [The Callisto Protocol](https://callisto.sds.com/) in the end of 2022. From the minds of Dead Space creators, Callisto is a spiritual successor to this survival horror classic. I have to be honest - maybe too much so. After the first couple of hours, I felt that there wasn't enough of a novelty to have justified my pre-order. Nor to back up claims such as bringing survival horror to the 2020s. This remains a fair warning.\n\nThat said, Callisto is an extremely well crafted and high quality cinematic experience. As I kept immersing myself in the world of the game, my initial sense of disappointment diminished. Still, I feel the development team overestimated the novelty of the close combat system. It is, however, really satisfying once you embrace its way of creating flow. If this was paired with a more captivating story, it would have taken the game to the next level. Alas, it is what it is.  \n\nGameplay won't appeal to many, but chances are if you are Dead Space fan - you'd be fulfilled. Progression is linear, encounters scripted with little left to chance. This is perfectly fine, I enjoyed pre-planning and experimenting with difficult encounters, alongside improving my command of controls. Speaking of controls, there are a few rough edges around weapon swapping but it really forces you to remain composed and intentional under pressure. \n\nIn the end, I'm very happy with The Callisto Protocol and can absolutely recommend it. Seeing the level of polish of its visuals and fusion of cinematics with combat, it's frustrating the whole package has some flaws that keep the game in the \"Great\" and not \"Hall of Fame\" category.\n\n![The Callisto Protocol poster](https://www.giantbomb.com/a/uploads/original/33/338034/3397431-4456335920-EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c.jpg)\n",
-				"date_published": "2023-01-15T13:16:17+03:00",
+				"date_published": "2023-01-15T12:16:17+02:00",
 				"url": "https://microblog.todor.cc/2023/01/15/the-callisto-protocol.html",
 				"tags": ["Gaming"]
 			},
@@ -510,7 +528,7 @@
 				
 				"content_html": "<p>💾 Contemplating a migration from Gmail to Proton Mail 📧 Searching email content is more of a hassle and I wonder if this will be a deal-breaker. I hope not.</p>\n",
 				"content_text": "💾 Contemplating a migration from Gmail to Proton Mail 📧 Searching email content is more of a hassle and I wonder if this will be a deal-breaker. I hope not.\n",
-				"date_published": "2023-01-12T17:51:59+03:00",
+				"date_published": "2023-01-12T16:51:59+02:00",
 				"url": "https://microblog.todor.cc/2023/01/12/contemplating-a-migration.html",
 				"tags": ["Technology"]
 			},
@@ -519,7 +537,7 @@
 				
 				"content_html": "<p>📓📺 Finally managed to finish the 3rd and last season of <a href=\"https://www.imdb.com/title/tt5753856/?ref_=ext_shr_lnk\">Dark</a>. I just had to  accept I can’t really follow the plot line 🤯 and enjoy the ride. I hold it a masterpiece of modern sci-fi TV. Shoutout to <a href=\"https://www.imdb.com/title/tt9319668/?ref_=ext_shr_lnk\">1899</a>.</p>\n",
 				"content_text": "📓📺 Finally managed to finish the 3rd and last season of [Dark](https://www.imdb.com/title/tt5753856/?ref_=ext_shr_lnk). I just had to  accept I can’t really follow the plot line 🤯 and enjoy the ride. I hold it a masterpiece of modern sci-fi TV. Shoutout to [1899](https://www.imdb.com/title/tt9319668/?ref_=ext_shr_lnk).\n",
-				"date_published": "2023-01-07T13:34:58+03:00",
+				"date_published": "2023-01-07T12:34:58+02:00",
 				"url": "https://microblog.todor.cc/2023/01/07/finally-managed-to.html",
 				"tags": ["Casual"]
 			},
@@ -528,7 +546,7 @@
 				
 				"content_html": "<p>📓📷 First public sauna 🧖🏻 for 2023 at <a href=\"https://uusisauna.fi/\">Uusi Sauna</a>. There’s been some changes since last time I visited. Love it!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 First public sauna 🧖🏻 for 2023 at [Uusi Sauna](https://uusisauna.fi/). There’s been some changes since last time I visited. Love it!\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2023/1d9f2b53ed.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-01-04T18:59:29+03:00",
+				"date_published": "2023-01-04T17:59:29+02:00",
 				"url": "https://microblog.todor.cc/2023/01/04/first-public-sauna.html",
 				"tags": ["Casual"]
 			},
@@ -537,7 +555,7 @@
 				
 				"content_html": "<p>📓📷 The most beautiful heart-attack-in-a-cup. The office coffee machine considers an Americano to be a 1/2 cup espresso shot. Topped it up with hot water myself. Living on the edge in your mid-30s 😂!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 The most beautiful heart-attack-in-a-cup. The office coffee machine considers an Americano to be a 1/2 cup espresso shot. Topped it up with hot water myself. Living on the edge in your mid-30s 😂!\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2023/0e3dc3d80d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-01-04T11:51:34+03:00",
+				"date_published": "2023-01-04T10:51:34+02:00",
 				"url": "https://microblog.todor.cc/2023/01/04/the-most-beautiful.html",
 				"tags": ["Casual"]
 			},
@@ -546,7 +564,7 @@
 				
 				"content_html": "<p>💾💬 <a href=\"https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/19/1065306/roomba-irobot-robot-vacuums-artificial-intelligence-training-data-privacy/amp/\">A Roomba recorded a woman on the toilet. How did screenshots end up on Facebook?</a></p>\n<blockquote>\n<p>“Everybody needs to make their own privacy decisions,” she told me. “And I can tell you, overwhelmingly, people make the decision to have the features as long as they are delivered at a cost-effective price point.”</p>\n</blockquote>\n<p>While this is the way executives reason about privacy, there is little hope for improvement.</p>\n",
 				"content_text": "💾💬 [A Roomba recorded a woman on the toilet. How did screenshots end up on Facebook?](https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/19/1065306/roomba-irobot-robot-vacuums-artificial-intelligence-training-data-privacy/amp/)\n\n> “Everybody needs to make their own privacy decisions,” she told me. “And I can tell you, overwhelmingly, people make the decision to have the features as long as they are delivered at a cost-effective price point.”\n\nWhile this is the way executives reason about privacy, there is little hope for improvement.\n",
-				"date_published": "2023-01-03T00:13:24+03:00",
+				"date_published": "2023-01-02T23:13:24+02:00",
 				"url": "https://microblog.todor.cc/2023/01/02/a-roomba-recorded.html",
 				"tags": ["Technology"]
 			},
@@ -555,7 +573,7 @@
 				
 				"content_html": "<p>📓📷 Last sauna for 198… oh wait 📺</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "\n📓📷 Last sauna for 198… oh wait 📺\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/acc37183b4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-12-31T18:56:34+03:00",
+				"date_published": "2022-12-31T17:56:34+02:00",
 				"url": "https://microblog.todor.cc/2022/12/31/last-sauna-for.html",
 				"tags": ["Casual"]
 			},
@@ -564,7 +582,7 @@
 				
 				"content_html": "<p>📓📷 Leaving Bulgaria 🇧🇬 after a Christmas family visit. Early morning flight, long transfer ahead, but feeling fulfilled.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 Leaving Bulgaria 🇧🇬 after a Christmas family visit. Early morning flight, long transfer ahead, but feeling fulfilled.\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/cfc96c457a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-12-29T17:06:23+03:00",
+				"date_published": "2022-12-29T16:06:23+02:00",
 				"url": "https://microblog.todor.cc/2022/12/29/leaving-bulgaria-after.html",
 				"tags": ["Casual"]
 			},
@@ -573,7 +591,7 @@
 				
 				"content_html": "<p>📓⚽️ Premier League is back! Skipped the Qatar World Cup, super hyped to watch some great games today!</p>\n",
 				"content_text": "📓⚽️ Premier League is back! Skipped the Qatar World Cup, super hyped to watch some great games today!\n",
-				"date_published": "2022-12-26T15:22:05+03:00",
+				"date_published": "2022-12-26T14:22:05+02:00",
 				"url": "https://microblog.todor.cc/2022/12/26/premier-league-is.html",
 				"tags": ["Casual"]
 			},
@@ -582,7 +600,7 @@
 				
 				"content_html": "<p>📓 There are 2 types of people in this world - those who tell a hairstylist they don’t like the cut, and those who don’t. 💇🏻 I’m the latter.</p>\n",
 				"content_text": "📓 There are 2 types of people in this world - those who tell a hairstylist they don’t like the cut, and those who don’t. 💇🏻 I’m the latter.\n",
-				"date_published": "2022-12-23T18:43:27+03:00",
+				"date_published": "2022-12-23T17:43:27+02:00",
 				"url": "https://microblog.todor.cc/2022/12/23/there-are-type.html",
 				"tags": ["Casual"]
 			},
@@ -591,7 +609,7 @@
 				
 				"content_html": "<p>📓🍿 Black Adam is just what I needed to unwind after a long week. Enjoying the silly humour. My favorite character might be Karim. 😀</p>\n",
 				"content_text": "📓🍿 Black Adam is just what I needed to unwind after a long week. Enjoying the silly humour. My favorite character might be Karim. 😀\n",
-				"date_published": "2022-12-17T13:46:01+03:00",
+				"date_published": "2022-12-17T12:46:01+02:00",
 				"url": "https://microblog.todor.cc/2022/12/17/black-adam-is.html",
 				"tags": ["Casual"]
 			},
@@ -600,7 +618,7 @@
 				
 				"content_html": "<p>📓🚇 Metro etiquette in rush hour - you move from aisle to window seat when the latter frees up. ☝️</p>\n",
 				"content_text": "📓🚇 Metro etiquette in rush hour - you move from aisle to window seat when the latter frees up. ☝️\n",
-				"date_published": "2022-12-15T09:43:41+03:00",
+				"date_published": "2022-12-15T08:43:41+02:00",
 				"url": "https://microblog.todor.cc/2022/12/15/metro-etiquette-in.html",
 				"tags": ["Casual"]
 			},
@@ -609,7 +627,7 @@
 				
 				"content_html": "<p>📓 One day I’ll decide that the stress of the week before vacation is not worth it… And never go on vacation ever again 😂</p>\n",
 				"content_text": "📓 One day I’ll decide that the stress of the week before vacation is not worth it… And never go on vacation ever again 😂\n",
-				"date_published": "2022-12-14T18:05:28+03:00",
+				"date_published": "2022-12-14T17:05:28+02:00",
 				"url": "https://microblog.todor.cc/2022/12/14/one-day-ill.html",
 				"tags": ["Casual"]
 			},
@@ -618,7 +636,7 @@
 				
 				"content_html": "<p>📓📷 Visited <a href=\"https://en.wikipedia.org/wiki/Porvoo\">Porvoo</a> today. It’s a pretty town. The photo is a little misleading - the old town was bustling with people.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 Visited [Porvoo](https://en.wikipedia.org/wiki/Porvoo) today. It’s a pretty town. The photo is a little misleading - the old town was bustling with people.\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/0e92a9ed9d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-12-10T22:13:16+03:00",
+				"date_published": "2022-12-10T21:13:16+02:00",
 				"url": "https://microblog.todor.cc/2022/12/10/visited-porvoo-today.html",
 				"tags": ["Casual"]
 			},
@@ -627,7 +645,7 @@
 				
 				"content_html": "<p>💾 Thanks, <a href=\"https://micro.blog/Miraz\">@Miraz</a>, for <a href=\"https://miraz.me/2019/02/06/how-to-get.html\">this post</a> from 2019. Finally fixed the lack of list markers on home page with the Marfa theme. It was so annoying but beyond my knowledge of CSS to fix.</p>\n",
 				"content_text": "💾 Thanks, [@Miraz](https://micro.blog/Miraz), for [this post](https://miraz.me/2019/02/06/how-to-get.html) from 2019. Finally fixed the lack of list markers on home page with the Marfa theme. It was so annoying but beyond my knowledge of CSS to fix.\n",
-				"date_published": "2022-12-09T00:04:36+03:00",
+				"date_published": "2022-12-08T23:04:36+02:00",
 				"url": "https://microblog.todor.cc/2022/12/08/thanks-miraz-for.html",
 				"tags": ["Technology"]
 			},
@@ -636,7 +654,7 @@
 				
 				"content_html": "<p>📓📷 My partner made themselves an early Christmas present - a new camera. And it&rsquo;s paying off already on day 1. Starring Elli 🐶❄️</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 My partner made themselves an early Christmas present - a new camera. And it's paying off already on day 1. Starring Elli 🐶❄️\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/fbbb5a4ec0.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
-				"date_published": "2022-12-06T17:39:49+03:00",
+				"date_published": "2022-12-06T16:39:49+02:00",
 				"url": "https://microblog.todor.cc/2022/12/06/my-partner-made.html",
 				"tags": ["Casual"]
 			},
@@ -645,7 +663,7 @@
 				
 				"content_html": "<p>💾🔗 I&rsquo;ve been slowly reconnecting with my inner tech nerd. If you are a recovering techie - move on 🫡 My latest rabbit hole is small form factor PCs. Doing my research and eye shopping. There&rsquo;s an amazing <a href=\"https://www.youtube.com/@OptimumTech\">YouTube channel</a> and a <a href=\"https://www.reddit.com/r/sffpc\">reddit</a> (tip: <code>https://www.reddit.com/r/sffpc/top/.rss?t=week</code>).</p>\n",
 				"content_text": "💾🔗 I've been slowly reconnecting with my inner tech nerd. If you are a recovering techie - move on 🫡 My latest rabbit hole is small form factor PCs. Doing my research and eye shopping. There's an amazing [YouTube channel](https://www.youtube.com/@OptimumTech) and a [reddit](https://www.reddit.com/r/sffpc) (tip: `https://www.reddit.com/r/sffpc/top/.rss?t=week`).\n",
-				"date_published": "2022-12-06T16:15:05+03:00",
+				"date_published": "2022-12-06T15:15:05+02:00",
 				"url": "https://microblog.todor.cc/2022/12/06/ive-been-slowly.html",
 				"tags": ["Technology"]
 			},
@@ -654,7 +672,7 @@
 				
 				"content_html": "<p>📓 Been sick over the last few days 🤧 It peaked on Sunday and today is the first day I feel my energy is coming back 💪 The feeling of ‘normal’ after enduring any sort of pain is a good reminder to be grateful for the simple things.</p>\n",
 				"content_text": "📓 Been sick over the last few days 🤧 It peaked on Sunday and today is the first day I feel my energy is coming back 💪 The feeling of ‘normal’ after enduring any sort of pain is a good reminder to be grateful for the simple things.\n",
-				"date_published": "2022-12-06T15:26:00+03:00",
+				"date_published": "2022-12-06T14:26:00+02:00",
 				"url": "https://microblog.todor.cc/2022/12/06/been-sick-over.html",
 				"tags": ["Casual"]
 			},
@@ -663,7 +681,7 @@
 				
 				"content_html": "<p>📓📷 Amazing gig yesterday by Finnish shoegaze band Ruissalo Amping! 🎵 <a href=\"https://open.spotify.com/album/39QSkqaGLHbR1WtfjcenE1?si=ILy0ceRGREOxvK3ZdiCd7Q\">Spotify</a>/<a href=\"https://music.apple.com/fi/album/t%C3%A4htien-suojatit-maan-povella/1593197969\">Apple Music</a></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 Amazing gig yesterday by Finnish shoegaze band Ruissalo Amping! 🎵 [Spotify](https://open.spotify.com/album/39QSkqaGLHbR1WtfjcenE1?si=ILy0ceRGREOxvK3ZdiCd7Q)/[Apple Music](https://music.apple.com/fi/album/t%C3%A4htien-suojatit-maan-povella/1593197969)\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/b1db4fb893.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
-				"date_published": "2022-11-20T20:49:23+03:00",
+				"date_published": "2022-11-20T19:49:23+02:00",
 				"url": "https://microblog.todor.cc/2022/11/20/amazing-gig-yesterday.html",
 				"tags": ["Casual"]
 			},
@@ -672,7 +690,7 @@
 				
 				"content_html": "<p>📓📷 On the way to public sauna 🧖 First day of snow ❄️</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 On the way to public sauna 🧖 First day of snow ❄️ \n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/dc771ed5cb.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2022-11-19T16:23:32+03:00",
+				"date_published": "2022-11-19T15:23:32+02:00",
 				"url": "https://microblog.todor.cc/2022/11/19/on-the-way.html",
 				"tags": ["Casual"]
 			},
@@ -681,7 +699,7 @@
 				
 				"content_html": "<p>📓⚽️ In a first world fit of “my thoughts and prayers”, I’ve decided not to watch the football world championship in Qatar.      The lack of actually meaningful action from the teams is also frustrating. A rainbow colored captain’s band is as useful as this post.</p>\n",
 				"content_text": "📓⚽️ In a first world fit of “my thoughts and prayers”, I’ve decided not to watch the football world championship in Qatar.      The lack of actually meaningful action from the teams is also frustrating. A rainbow colored captain’s band is as useful as this post.\n",
-				"date_published": "2022-11-16T18:29:59+03:00",
+				"date_published": "2022-11-16T17:29:59+02:00",
 				"url": "https://microblog.todor.cc/2022/11/16/in-a-first.html",
 				"tags": ["Casual"]
 			},
@@ -690,7 +708,7 @@
 				
 				"content_html": "<p>💾 The accessibility settings in iOS / iPadOS have a lot of useful features. Recently added the ’Reduce White Point’ setting to the accessibility shortcuts. It’s a nice addition on top of Night Shift for some bedtime browsing.</p>\n",
 				"content_text": "💾 The accessibility settings in iOS / iPadOS have a lot of useful features. Recently added the ’Reduce White Point’ setting to the accessibility shortcuts. It’s a nice addition on top of Night Shift for some bedtime browsing.\n",
-				"date_published": "2022-11-15T23:28:40+03:00",
+				"date_published": "2022-11-15T22:28:40+02:00",
 				"url": "https://microblog.todor.cc/2022/11/15/the-accessibility-settings.html",
 				"tags": ["Technology"]
 			},
@@ -699,7 +717,7 @@
 				
 				"content_html": "<p>💻💬 <a href=\"https://www.profgalloway.com/hubris/\">Scott Galloway: Hubris</a></p>\n<blockquote>\n<p>Every day, no matter how successful we become, we need to earn our success. We need to be kind and appreciative; we need to surround ourselves with people who will push back on us and question our beliefs and actions. We need to demonstrate humility. You are never more susceptible to a huge mistake than right after a big win, when you begin to believe the falsehood that your success is all about you. Yes, you’re brilliant and hardworking, but greatness is in the agency of others, and timing (and other features of luck) is everything.</p>\n</blockquote>\n",
 				"content_text": "💻💬 [Scott Galloway: Hubris](https://www.profgalloway.com/hubris/)\n\n> Every day, no matter how successful we become, we need to earn our success. We need to be kind and appreciative; we need to surround ourselves with people who will push back on us and question our beliefs and actions. We need to demonstrate humility. You are never more susceptible to a huge mistake than right after a big win, when you begin to believe the falsehood that your success is all about you. Yes, you’re brilliant and hardworking, but greatness is in the agency of others, and timing (and other features of luck) is everything.\n",
-				"date_published": "2022-11-13T21:26:26+03:00",
+				"date_published": "2022-11-13T20:26:26+02:00",
 				"url": "https://microblog.todor.cc/2022/11/13/scott-galloway-hubris.html",
 				"tags": ["Management"]
 			},
@@ -708,7 +726,7 @@
 				"title": "🎮 Signalis - survival horror excellence (I didn't expect)",
 				"content_html": "<p>Had someone asked me 10 minutes in, I wouldn&rsquo;t have thought <a href=\"http://rose-engine.org/signalis/\">Signalis</a> would have grasped me the way it did. Some of my favorite games of my childhood are of the likes of Resident Evil 3 and Silent Hill. Signalis inescapably reminds me of the retro survival horror classics. The game is true to its inspirations down to the sometimes clumsy mechanics and restrictions, such as no autosaves.</p>\n<p>The magnetic draw of the game, however, is far deeper than its aesthetics. The whole narrative design in my opinion is outstanding. Signalis is a true tribute to indie craftsmanship. The core game team of the <a href=\"http://rose-engine.org\">rose-engine</a> is 2 people and the care put into the game seeps through its every pore.</p>\n<p>Writing this as I just finished my run, I feel deeply satisfied with my experience. The puzzles were generally simple, yet not insultingly so. There is, of course, action in the game but far from the spotlight. The limited inventory, enforces resource scarcity even when things are good. Everything just works together, as you get sucked in the tense mystic atmosphere. And at least I feel fully rewarded for my time and attention.</p>\n<p><img src=\"https://www.giantbomb.com/a/uploads/original/33/338034/3367884-9393612969-libra.jpg\" alt=\"Signalis poster\"></p>\n",
 				"content_text": "Had someone asked me 10 minutes in, I wouldn't have thought [Signalis](http://rose-engine.org/signalis/) would have grasped me the way it did. Some of my favorite games of my childhood are of the likes of Resident Evil 3 and Silent Hill. Signalis inescapably reminds me of the retro survival horror classics. The game is true to its inspirations down to the sometimes clumsy mechanics and restrictions, such as no autosaves. \n\nThe magnetic draw of the game, however, is far deeper than its aesthetics. The whole narrative design in my opinion is outstanding. Signalis is a true tribute to indie craftsmanship. The core game team of the [rose-engine](http://rose-engine.org) is 2 people and the care put into the game seeps through its every pore.\n\nWriting this as I just finished my run, I feel deeply satisfied with my experience. The puzzles were generally simple, yet not insultingly so. There is, of course, action in the game but far from the spotlight. The limited inventory, enforces resource scarcity even when things are good. Everything just works together, as you get sucked in the tense mystic atmosphere. And at least I feel fully rewarded for my time and attention.\n\n![Signalis poster](https://www.giantbomb.com/a/uploads/original/33/338034/3367884-9393612969-libra.jpg)\n",
-				"date_published": "2022-11-12T17:39:27+03:00",
+				"date_published": "2022-11-12T16:39:27+02:00",
 				"url": "https://microblog.todor.cc/2022/11/12/signalis-survival-horror.html",
 				"tags": ["Casual","Gaming"]
 			},
@@ -717,7 +735,7 @@
 				
 				"content_html": "<p>🎮 Woah, The Return to Monkey Island popped up on Game Pass! I hold the first two games so dear, and the new one hits me right in the feels. Pity I won’t remember all the references!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "🎮 Woah, The Return to Monkey Island popped up on Game Pass! I hold the first two games so dear, and the new one hits me right in the feels. Pity I won’t remember all the references!\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/586eb36567.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
-				"date_published": "2022-11-12T09:26:15+03:00",
+				"date_published": "2022-11-12T08:26:15+02:00",
 				"url": "https://microblog.todor.cc/2022/11/12/woah-the-return.html",
 				"tags": ["Casual","Gaming"]
 			},
@@ -726,7 +744,7 @@
 				
 				"content_html": "<p>📓📷 Seen in Helsinki 🇺🇦</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 Seen in Helsinki 🇺🇦\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/bc29c8e4ac.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-11-07T17:53:13+03:00",
+				"date_published": "2022-11-07T16:53:13+02:00",
 				"url": "https://microblog.todor.cc/2022/11/07/seen-in-helsinki.html",
 				"tags": ["Casual"]
 			},
@@ -735,7 +753,7 @@
 				
 				"content_html": "<p>📓📷 A frosty Nordic morning on a doggie walk.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 A frosty Nordic morning on a doggie walk.\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/03a9a9dd32.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2022-10-31T10:44:05+03:00",
+				"date_published": "2022-10-31T09:44:05+02:00",
 				"url": "https://microblog.todor.cc/2022/10/31/a-frosty-nordic.html",
 				"tags": ["Casual"]
 			},
@@ -744,7 +762,7 @@
 				
 				"content_html": "<p>📓⚽️ Brighton - Chelsea vs. Liverpool - Leeds. A stark contrast in what a difference a goalie can make. And… what the heck did I just watch today 😳 Going to bed grumpy.</p>\n",
 				"content_text": "📓⚽️ Brighton - Chelsea vs. Liverpool - Leeds. A stark contrast in what a difference a goalie can make. And… what the heck did I just watch today 😳 Going to bed grumpy.\n",
-				"date_published": "2022-10-29T23:40:57+03:00",
+				"date_published": "2022-10-29T22:40:57+02:00",
 				"url": "https://microblog.todor.cc/2022/10/29/brighton-chelsea-vs.html",
 				"tags": ["Casual"]
 			},
@@ -753,7 +771,7 @@
 				
 				"content_html": "<p>📓 Visited the <a href=\"https://www.suomenlasimuseo.fi/museum\">Finnish Glass Museum</a> today.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓 Visited the [Finnish Glass Museum](https://www.suomenlasimuseo.fi/museum) today.\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/8ff33cd921.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2022-10-29T18:44:52+03:00",
+				"date_published": "2022-10-29T17:44:52+02:00",
 				"url": "https://microblog.todor.cc/2022/10/29/visited-the-finnish.html",
 				"tags": ["Casual"]
 			},
@@ -762,7 +780,7 @@
 				
 				"content_html": "<p>📓📷 Sunday mood 🐶</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 Sunday mood 🐶\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/07a21867aa.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-10-23T11:43:25+03:00",
+				"date_published": "2022-10-23T10:43:25+02:00",
 				"url": "https://microblog.todor.cc/2022/10/23/sunday-mood.html",
 				"tags": ["Casual"]
 			},
@@ -771,7 +789,7 @@
 				"title": "📓📷 A Friday off of work",
 				"content_html": "<p>I&rsquo;ve been waiting for a while now to take a long weekend. Finally, there was the perfect opportunity and I decided to make the most of it. Of course, this means making a list. I&rsquo;ve checked the items below. I&rsquo;m proud I managed to tick everything off, apart from ❌ taking a nap. Will catch up during the weekend 😉.</p>\n<!-- raw HTML omitted -->\n<p>I decided to ✅ walk everywhere I go on Friday, to keep me active and, well, I enjoy walking a lot. My first destination in the morning was a cozy cafe, where I had a solid breakfast set. It was super chill, I was the only customer for the most of the hour I spent there.</p>\n<!-- raw HTML omitted -->\n<p>After breakfast, on to ✅ Helsinki&rsquo;s City Library Oodi. The Finnish library system is some sort of a welfare utopia, Oodi is the cherry on top of the cake. On the way, ✅ listened to a podcast, <a href=\"https://www.game-production.com/podcast/episode/4b0f679b/a-day-in-the-life-of-producers-panel\">a panel discussion on the day in the life of game producers</a>. At the library I ✅ finished the draft of a blog post, read some magazines, had some tea and overall was sucking in the unique atmosphere of Oodi.</p>\n<!-- raw HTML omitted -->\n<p>Nothing relaxes me like ✅ a good sauna session. It was a bit early in the day, this was a bit of a challenge. Settled for Allas, which is in the heart of the city and combined it with some open air swimming (in a heated pool). There was also the option to dip in a pool of actual sea water, however the water temperature of 8 degrees Celsius, discouraged me… but not many of the other customers.</p>\n<!-- raw HTML omitted -->\n<p>On the way to an early dinner, I made an improptu stop by one of my favorite beer pubs - <a href=\"https://pien.fi/en/\">Pien</a>. This pint of Czech Pilsner brought to a spring to my step as I commuted to my next destination.</p>\n<!-- raw HTML omitted -->\n<p>✅ Dinner at a lovely wine and tapas bar with my partner. Excellent food, drinks and, of course, company 🥰.</p>\n<!-- raw HTML omitted -->\n<p>We had a nightcap on the way home in the tiniest of wine bars. Super atmospheric. By then, I was feeling the nice tinge of exhaustion from a long day well spent. 🙏</p>\n",
 				"content_text": "\nI've been waiting for a while now to take a long weekend. Finally, there was the perfect opportunity and I decided to make the most of it. Of course, this means making a list. I've checked the items below. I'm proud I managed to tick everything off, apart from ❌ taking a nap. Will catch up during the weekend 😉.\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/bf8d873552.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n\nI decided to ✅ walk everywhere I go on Friday, to keep me active and, well, I enjoy walking a lot. My first destination in the morning was a cozy cafe, where I had a solid breakfast set. It was super chill, I was the only customer for the most of the hour I spent there.\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/f8e0b8f9de.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n\nAfter breakfast, on to ✅ Helsinki's City Library Oodi. The Finnish library system is some sort of a welfare utopia, Oodi is the cherry on top of the cake. On the way, ✅ listened to a podcast, [a panel discussion on the day in the life of game producers](https://www.game-production.com/podcast/episode/4b0f679b/a-day-in-the-life-of-producers-panel). At the library I ✅ finished the draft of a blog post, read some magazines, had some tea and overall was sucking in the unique atmosphere of Oodi.\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/cd9d321c1d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n\nNothing relaxes me like ✅ a good sauna session. It was a bit early in the day, this was a bit of a challenge. Settled for Allas, which is in the heart of the city and combined it with some open air swimming (in a heated pool). There was also the option to dip in a pool of actual sea water, however the water temperature of 8 degrees Celsius, discouraged me… but not many of the other customers.\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/1469881c19.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n\nOn the way to an early dinner, I made an improptu stop by one of my favorite beer pubs - [Pien](https://pien.fi/en/). This pint of Czech Pilsner brought to a spring to my step as I commuted to my next destination.\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/f1059f41f2.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n\n✅ Dinner at a lovely wine and tapas bar with my partner. Excellent food, drinks and, of course, company 🥰.\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/7fdcdf0412.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n\nWe had a nightcap on the way home in the tiniest of wine bars. Super atmospheric. By then, I was feeling the nice tinge of exhaustion from a long day well spent. 🙏\n \n\n\n \n",
-				"date_published": "2022-10-22T18:22:18+03:00",
+				"date_published": "2022-10-22T17:22:18+02:00",
 				"url": "https://microblog.todor.cc/2022/10/22/a-friday-off.html",
 				"tags": ["Casual"]
 			},
@@ -780,7 +798,7 @@
 				"title": "💻💬 Do you challenge your beliefs often enough?",
 				"content_html": "<!-- raw HTML omitted -->\n<p>Photo by <a href=\"https://unsplash.com/@patrickperkins\">Patrick Perkins</a>.</p>\n<p>As professionals we often put ourselves in other people&rsquo;s shoes. Be it customers, peers, managers. We benefit from empathy and critical thinking. I like playing devil&rsquo;s advocate. This often requires challenging own core beliefs.</p>\n<p>Many of us are blessed with working with a team of smart people. And smart people are darn difficult to argue with. They have good arguments and often juxtaposed valid perspectives. Navigating this sometimes requires (😱) changing our own minds.</p>\n<p>Here&rsquo;s a few ideas I&rsquo;ve come across recently that have challenged some common beliefs core to my work. Have fun.</p>\n<h2 id=\"we-may-not-need-teams-anymore\">We may not need teams anymore</h2>\n<p><a href=\"https://hbr.org/2022/04/do-we-still-need-teams\">HBR: Do We Still Need Teams?</a></p>\n<blockquote>\n<p>As we’ve stated in <a href=\"https://hbr.org/2016/06/the-secrets-of-great-teamwork\">past research</a>, true teams have a shared mindset, a compelling joint mission, defined roles, stable membership, high interdependence, and clear norms.  Co-acting groups represent a loose confederation of employees who dip in and out of collaborative interactions as a project or initiative unfolds.</p>\n</blockquote>\n<p>This reminds me of the notion of &ldquo;dynamic teams&rdquo; I read about in uni. It&rsquo;s startling to say that we don&rsquo;t need teams. And it&rsquo;s also not quite like that. There are some interesting benefits, though. Co-acting groups band and disband rapidly based on desired outcomes. I&rsquo;d venture that start-ups are much better at this than larger corporations. There is potential of making disruptive re-orgs a thing of the past. Co-acting groups, or dynamic work comunities, are an enviable organizational capability.</p>\n<h2 id=\"the-open-office-is-not-great-for-workers\">The open office is not great for workers</h2>\n<p><a href=\"https://www.nytimes.com/2022/09/08/opinion/open-plan-office-awful.html\">NYT: Opinion | The Immortal Awfulness of Open Plan Workplaces</a></p>\n<blockquote>\n<p>For decades, research has found that open plan offices are bad for companies, bad for workers, bad for health and bad for morale. And yet they just won’t die.</p>\n</blockquote>\n<p>I admit this something that&rsquo;s not new to me, ever since <a href=\"https://www.oreilly.com/library/view/peopleware-productive-projects/9780133440706/\"><em>Peopleware</em></a> at least.  Yet, I also understand the challenges that drive us towards the open space multi-func spaces of today. There is no one-size-fits-all solution and we need to be respectful of this. However when was the last time your company experimented with private offices. (I&rsquo;m not laughing, you are laughing. 😀)</p>\n<h2 id=\"objectives-and-metrics-may-prevent-us-from-achieving-our-higher-goals\">Objectives and metrics may prevent us from achieving our higher goals</h2>\n<p><a href=\"https://fs.blog/knowledge-project-podcast/kenneth-stanley/\">Kenneth Stanley: Set The Right Objectives [The Knowledge Project Ep. #148]</a></p>\n<blockquote>\n<p>“Actually the subjective judgments are the interesting ones because the objective judgments are easy. You don’t need a degree to just measure something.”</p>\n</blockquote>\n<p>Objectives and metrics may restrict the required creativity when dealing with complex problems. Our good-intentioned drive for objectivity can also trip us up. Subjective judgements and experiences are super valuable. &ldquo;You can&rsquo;t improve what you don&rsquo;t measure.&rdquo;&hellip; Really?? I beg to differ. By the way, I&rsquo;m an active participant and proponent of rolling out OKRs in our organization. It definitely helps to keep the hype in check.</p>\n",
 				"content_text": "<img src=\"https://todorvlaev.micro.blog/uploads/2022/f0c7daffbd.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n\nPhoto by [Patrick Perkins](https://unsplash.com/@patrickperkins).\n\nAs professionals we often put ourselves in other people's shoes. Be it customers, peers, managers. We benefit from empathy and critical thinking. I like playing devil's advocate. This often requires challenging own core beliefs.\n\nMany of us are blessed with working with a team of smart people. And smart people are darn difficult to argue with. They have good arguments and often juxtaposed valid perspectives. Navigating this sometimes requires (😱) changing our own minds.\n\nHere's a few ideas I've come across recently that have challenged some common beliefs core to my work. Have fun.\n\n## We may not need teams anymore\n\n[HBR: Do We Still Need Teams?](https://hbr.org/2022/04/do-we-still-need-teams)\n\n> As we’ve stated in [past research](https://hbr.org/2016/06/the-secrets-of-great-teamwork), true teams have a shared mindset, a compelling joint mission, defined roles, stable membership, high interdependence, and clear norms.  Co-acting groups represent a loose confederation of employees who dip in and out of collaborative interactions as a project or initiative unfolds.\n\nThis reminds me of the notion of \"dynamic teams\" I read about in uni. It's startling to say that we don't need teams. And it's also not quite like that. There are some interesting benefits, though. Co-acting groups band and disband rapidly based on desired outcomes. I'd venture that start-ups are much better at this than larger corporations. There is potential of making disruptive re-orgs a thing of the past. Co-acting groups, or dynamic work comunities, are an enviable organizational capability.\n\n## The open office is not great for workers\n\n[NYT: Opinion | The Immortal Awfulness of Open Plan Workplaces](https://www.nytimes.com/2022/09/08/opinion/open-plan-office-awful.html)\n\n> For decades, research has found that open plan offices are bad for companies, bad for workers, bad for health and bad for morale. And yet they just won’t die. \n\nI admit this something that's not new to me, ever since [*Peopleware*](https://www.oreilly.com/library/view/peopleware-productive-projects/9780133440706/) at least.  Yet, I also understand the challenges that drive us towards the open space multi-func spaces of today. There is no one-size-fits-all solution and we need to be respectful of this. However when was the last time your company experimented with private offices. (I'm not laughing, you are laughing. 😀)\n\n## Objectives and metrics may prevent us from achieving our higher goals\n\n[Kenneth Stanley: Set The Right Objectives [The Knowledge Project Ep. #148]](https://fs.blog/knowledge-project-podcast/kenneth-stanley/)\n\n> “Actually the subjective judgments are the interesting ones because the objective judgments are easy. You don’t need a degree to just measure something.”\n\nObjectives and metrics may restrict the required creativity when dealing with complex problems. Our good-intentioned drive for objectivity can also trip us up. Subjective judgements and experiences are super valuable. \"You can't improve what you don't measure.\"... Really?? I beg to differ. By the way, I'm an active participant and proponent of rolling out OKRs in our organization. It definitely helps to keep the hype in check. \n",
-				"date_published": "2022-10-21T12:00:18+03:00",
+				"date_published": "2022-10-21T11:00:18+02:00",
 				"url": "https://microblog.todor.cc/2022/10/21/do-you-challenge.html",
 				"tags": ["Management"]
 			},
@@ -789,7 +807,7 @@
 				"title": "📓📷 About this weekend, mid-October 2022…",
 				"content_html": "<!-- raw HTML omitted -->\n<p>Visited the Billnäs Antique Days. Bought an old carpet and some trinkets. Nice atmosphere, but somehow less popular than previous years. Some chocolate directly from the factory made up for this! 😋</p>\n<hr>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>We then went to Tammisaari. A cute town with some beautiful old buildings. The day was gloomy and grey.</p>\n<hr>\n<!-- raw HTML omitted -->\n<p>This is our last weekend at the cottage before we close it down for winter. There is a bunch of things to do. Bernie here likes to supervise from his tiny window.</p>\n<!-- raw HTML omitted -->\n<p>… so I had no choice but to deliver!</p>\n<hr>\n<p>Rewarded myself with a sauna 🧖‍♂️ and watched LIV - MCI ⚽️. What a game!</p>\n",
 				"content_text": "\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/b74eadb280.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n\nVisited the Billnäs Antique Days. Bought an old carpet and some trinkets. Nice atmosphere, but somehow less popular than previous years. Some chocolate directly from the factory made up for this! 😋\n\n---\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://todorvlaev.micro.blog/uploads/2022/623726f561.mov\" preload=\"none\" width=\"400\" height=\"400\" alt=\"\"></video>\n\nWe then went to Tammisaari. A cute town with some beautiful old buildings. The day was gloomy and grey.\n\n---\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/74cb4ad0ed.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n\nThis is our last weekend at the cottage before we close it down for winter. There is a bunch of things to do. Bernie here likes to supervise from his tiny window.\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/cbc9592d24.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n\n… so I had no choice but to deliver!\n\n---\n\nRewarded myself with a sauna 🧖‍♂️ and watched LIV - MCI ⚽️. What a game!\n\n",
-				"date_published": "2022-10-16T20:42:27+03:00",
+				"date_published": "2022-10-16T19:42:27+02:00",
 				"url": "https://microblog.todor.cc/2022/10/16/about-this-weekend.html",
 				"tags": ["Casual"]
 			},
@@ -798,7 +816,7 @@
 				
 				"content_html": "<p>📓📺 Been watching the <a href=\"https://m.imdb.com/title/tt11685912\">Outer Range series</a> over this week and thoroughly enjoying it. Close to season finale, I hope it brings it home. It’ll scratch your sci-fi itch while also enjoyable for people who don’t appreciate the genre as much.</p>\n",
 				"content_text": "📓📺 Been watching the [Outer Range series](https://m.imdb.com/title/tt11685912) over this week and thoroughly enjoying it. Close to season finale, I hope it brings it home. It’ll scratch your sci-fi itch while also enjoyable for people who don’t appreciate the genre as much.\n",
-				"date_published": "2022-10-13T22:33:40+03:00",
+				"date_published": "2022-10-13T21:33:40+02:00",
 				"url": "https://microblog.todor.cc/2022/10/13/been-watching-the.html",
 				"tags": ["Casual"]
 			},
@@ -807,7 +825,7 @@
 				
 				"content_html": "<p>📓 Cast my vote in the 🇧🇬 Bulgarian parliamentary elections. Now having a coffee and by the looks of it I’ll need something much stronger in the evening. At least I’ve done my part.</p>\n",
 				"content_text": "📓 Cast my vote in the 🇧🇬 Bulgarian parliamentary elections. Now having a coffee and by the looks of it I’ll need something much stronger in the evening. At least I’ve done my part.\n",
-				"date_published": "2022-10-02T13:51:14+03:00",
+				"date_published": "2022-10-02T12:51:14+02:00",
 				"url": "https://microblog.todor.cc/2022/10/02/cast-my-vote.html",
 				"tags": ["Casual"]
 			},
@@ -816,7 +834,7 @@
 				
 				"content_html": "<p>📓📷 A beautiful foggy morning in the countryside. One of our last weekends at the cottage before we close it for winter. Nature keeps giving every time we are here.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 A beautiful foggy morning in the countryside. One of our last weekends at the cottage before we close it for winter. Nature keeps giving every time we are here.\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/f1590a5967.jpg\" width=\"600\" height=\"499\" alt=\"Countryside road, foggy morning\" title=\"Foggy morning in the countryside\" description=\"Countryside road, foggy morning\" />\n",
-				"date_published": "2022-10-02T11:20:17+03:00",
+				"date_published": "2022-10-02T10:20:17+02:00",
 				"url": "https://microblog.todor.cc/2022/10/02/a-beautiful-foggy.html",
 				"tags": ["Casual"]
 			},
@@ -825,7 +843,7 @@
 				"title": "💻 Be more than a shield to your team",
 				"content_html": "<p>It is a common notion that a manager&rsquo;s most important job is protecting their team from distractions. It popped up recently in a conversation with a teammate who thought I&rsquo;m doing it well. This triggered me in 2 ways. First, I&rsquo;m not actively shielding the team from anything. Second, I&rsquo;ve always found this idea at odds with transparency and empowerment.</p>\n<p>The key point to make here is that a change of perspective can achieve better results. Consider a shift from filtering noise to enabling working systems. By another common saying, the product of a team&rsquo;s manager is their team. Instead of being a local shield, a manager can achieve positive network effects in the wider organization by improving the system, i.e. ways of working.</p>\n<p>There is indeed a problem to solve. The cognitive demands on anyone in a highly connected workplace can be overwhelming. Therefore, a manager benefits from high tolerance to uncertainty. And their focus should be on helping the team make sense of the world. The firehose of information could be available to most in a company. The way for a manager to bring value is to give their take on a cohesive narrative.</p>\n<p>In summary, instead of being a shield to your team - be a sense-maker and enabler for the whole organization.</p>\n<p>Photo by <a href=\"https://unsplash.com/@jallison154\">Jonathan Allison</a>.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "\nIt is a common notion that a manager's most important job is protecting their team from distractions. It popped up recently in a conversation with a teammate who thought I'm doing it well. This triggered me in 2 ways. First, I'm not actively shielding the team from anything. Second, I've always found this idea at odds with transparency and empowerment.\n\nThe key point to make here is that a change of perspective can achieve better results. Consider a shift from filtering noise to enabling working systems. By another common saying, the product of a team's manager is their team. Instead of being a local shield, a manager can achieve positive network effects in the wider organization by improving the system, i.e. ways of working.\n\nThere is indeed a problem to solve. The cognitive demands on anyone in a highly connected workplace can be overwhelming. Therefore, a manager benefits from high tolerance to uncertainty. And their focus should be on helping the team make sense of the world. The firehose of information could be available to most in a company. The way for a manager to bring value is to give their take on a cohesive narrative.\n\nIn summary, instead of being a shield to your team - be a sense-maker and enabler for the whole organization.\n\nPhoto by [Jonathan Allison](https://unsplash.com/@jallison154).\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/f4f4c71842.jpg\" width=\"600\" height=\"400\" alt=\"Roundabout\" title=\"Roundabout\" description=\"Roundabout view from top.\">\n\n",
-				"date_published": "2022-09-25T17:46:13+03:00",
+				"date_published": "2022-09-25T16:46:13+02:00",
 				"url": "https://microblog.todor.cc/2022/09/25/be-more-than.html",
 				"tags": ["Management"]
 			},
@@ -834,7 +852,7 @@
 				
 				"content_html": "<p>📓📷 This is our doggie Bernie 🐶 He&rsquo;s featuring here in order to test (and demonstrate) uploading a photo from the iPad using <a href=\"https://actions.getdrafts.com/a/1zZ\">this Drafts action</a>.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 This is our doggie Bernie 🐶 He's featuring here in order to test (and demonstrate) uploading a photo from the iPad using [this Drafts action](https://actions.getdrafts.com/a/1zZ).\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/a7f6edd55f.jpg\" width=\"600\" height=\"400\" alt=\"dog\" title=\"Bernie dog\" description=\"Photo of our dog Bernie on a couch.\">\n",
-				"date_published": "2022-09-25T16:01:34+03:00",
+				"date_published": "2022-09-25T15:01:34+02:00",
 				"url": "https://microblog.todor.cc/2022/09/25/this-is-our.html",
 				"tags": ["Casual"]
 			},
@@ -843,7 +861,7 @@
 				
 				"content_html": "<p>📓📷 Sunday evening sauna at <a href=\"https://kulttuurisauna.fi/\">Kulttuurisauna</a>  for the first time. This is <strong>the</strong> public sauna to go for a serene experience in Helsinki. You are asked to come by yourself (no groups) and keep the respectful peace of the environment. Loved it. 😶‍🌫️</p>\n<p>Photo: <a href=\"https://www.instagram.com/p/CSGrju9tMBK/?igshid=YmMyMTA2M2Y=\">Kulttuurisauna IG</a></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 Sunday evening sauna at [Kulttuurisauna](https://kulttuurisauna.fi/)  for the first time. This is **the** public sauna to go for a serene experience in Helsinki. You are asked to come by yourself (no groups) and keep the respectful peace of the environment. Loved it. 😶‍🌫️\n\nPhoto: [Kulttuurisauna IG](https://www.instagram.com/p/CSGrju9tMBK/?igshid=YmMyMTA2M2Y=)\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/17caa88e69.png\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-09-18T20:25:39+03:00",
+				"date_published": "2022-09-18T19:25:39+02:00",
 				"url": "https://microblog.todor.cc/2022/09/18/sunday-evening-sauna.html",
 				"tags": ["Casual"]
 			},
@@ -852,7 +870,7 @@
 				
 				"content_html": "<p>📓 You bet I am! Have a great weekend! 🏝️</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓 You bet I am! Have a great weekend! 🏝️\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/dc71463094.png\" width=\"600\" height=\"287\" alt=\"\" />\n",
-				"date_published": "2022-09-16T17:44:46+03:00",
+				"date_published": "2022-09-16T16:44:46+02:00",
 				"url": "https://microblog.todor.cc/2022/09/16/you-bet-i.html",
 				"tags": ["Casual"]
 			},
@@ -861,7 +879,7 @@
 				
 				"content_html": "<p>🎮 The Ascent: only short of a masterpiece</p>\n<p>I&rsquo;ve been playing <a href=\"https://en.wikipedia.org/wiki/The_Ascent_(video_game)\">The Ascent</a> recently and I&rsquo;ve been enjoying it a lot. It&rsquo;s a memorable, satisfying twin-stick shooter - RPG cross. I highly recommend it! Still, it&rsquo;s not a hall-of-fame masterpiece and I can&rsquo;t quite put my finger on why. I have nothing but admiration for the small (10 people or so) development team that managed to pull off this fantastic production!</p>\n<p>The game world is beautifully crafted! This <a href=\"https://youtu.be/FodXp5BkENk\">GDC talk by Tor Frick</a>, was a pleasure to watch! <a href=\"https://www.neongiant.se\">Neon Giant</a> took a disciplined approach to simplicity, powered by practical specialized tools to ensure consistency with the art direction at all times. The end result of the team&rsquo;s effort is a stunning neon-colored sci-fi haven. I felt as if I&rsquo;m in the world of the Neuromancer. The action is satisfying, the items, enemies and quests - plentiful.</p>\n<p>So what&rsquo;s missing… Ten hours in, which is reasonably much for me, I still don&rsquo;t feel hooked to the main story and this is unlikely to change. What brings me back is the world aesthetic as a whole.</p>\n<p>While there is an impressive amount of weapons and items, I feel I&rsquo;ve quickly converged on a build and skill leveling strategy. I may be wrong, but I don&rsquo;t get the feeling I can play the game in a substantially different way. That said I&rsquo;ve watched some streamers with distinct styles of their own.</p>\n<p>The Ascent is a bit glitchy on my Xbox Series S - I don&rsquo;t think I&rsquo;ve had any other game on this console crash on me as often. But it&rsquo;s nothing that ruins my gaming experience. This is one area, perhaps, where it shows it wasn&rsquo;t the biggest team making the game. Overall performance is quite good.</p>\n<p>I&rsquo;m looking forward to future productions by Neon Giant. The Ascent is an amazing, if not outstanding, gaming experience. I haven&rsquo;t tried its multiplayer, but if this is your cup of tea - I imagine it delivers. I feel the game&rsquo;s elusive shortcomings won&rsquo;t see me complete the main story… and this is weirdly disappointing already.</p>\n",
 				"content_text": "🎮 The Ascent: only short of a masterpiece\n\nI've been playing [The Ascent](https://en.wikipedia.org/wiki/The_Ascent_(video_game)) recently and I've been enjoying it a lot. It's a memorable, satisfying twin-stick shooter - RPG cross. I highly recommend it! Still, it's not a hall-of-fame masterpiece and I can't quite put my finger on why. I have nothing but admiration for the small (10 people or so) development team that managed to pull off this fantastic production!\n\nThe game world is beautifully crafted! This [GDC talk by Tor Frick](https://youtu.be/FodXp5BkENk), was a pleasure to watch! [Neon Giant](https://www.neongiant.se) took a disciplined approach to simplicity, powered by practical specialized tools to ensure consistency with the art direction at all times. The end result of the team's effort is a stunning neon-colored sci-fi haven. I felt as if I'm in the world of the Neuromancer. The action is satisfying, the items, enemies and quests - plentiful. \n\nSo what's missing… Ten hours in, which is reasonably much for me, I still don't feel hooked to the main story and this is unlikely to change. What brings me back is the world aesthetic as a whole.\n\nWhile there is an impressive amount of weapons and items, I feel I've quickly converged on a build and skill leveling strategy. I may be wrong, but I don't get the feeling I can play the game in a substantially different way. That said I've watched some streamers with distinct styles of their own.\n\nThe Ascent is a bit glitchy on my Xbox Series S - I don't think I've had any other game on this console crash on me as often. But it's nothing that ruins my gaming experience. This is one area, perhaps, where it shows it wasn't the biggest team making the game. Overall performance is quite good.\n\nI'm looking forward to future productions by Neon Giant. The Ascent is an amazing, if not outstanding, gaming experience. I haven't tried its multiplayer, but if this is your cup of tea - I imagine it delivers. I feel the game's elusive shortcomings won't see me complete the main story… and this is weirdly disappointing already. \n\n",
-				"date_published": "2022-09-16T17:08:36+03:00",
+				"date_published": "2022-09-16T16:08:36+02:00",
 				"url": "https://microblog.todor.cc/2022/09/16/the-ascent-only.html",
 				"tags": ["Casual","Gaming"]
 			},
@@ -870,7 +888,7 @@
 				
 				"content_html": "<p>💾📝 My blog now uses the <a href=\"https://brailleinstitute.org/freefont\">Atkinson Hyperlegible font</a>. This <a href=\"https://help.micro.blog/t/can-i-use-google-fonts-with-a-custom-theme/196\">micro.blog help forum discussion</a> came in handy.</p>\n",
 				"content_text": "💾📝 My blog now uses the [Atkinson Hyperlegible font](https://brailleinstitute.org/freefont). This [micro.blog help forum discussion](https://help.micro.blog/t/can-i-use-google-fonts-with-a-custom-theme/196) came in handy.\n",
-				"date_published": "2022-09-12T22:46:10+03:00",
+				"date_published": "2022-09-12T21:46:10+02:00",
 				"url": "https://microblog.todor.cc/2022/09/12/my-blog-now.html",
 				"tags": ["Technology"]
 			},
@@ -879,7 +897,7 @@
 				
 				"content_html": "<p>📓📷 A day trip to Rauma. It’s a pleasure to wander around the old town. We found an idyllic spot where we haven’t been before.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 A day trip to Rauma. It’s a pleasure to wander around the old town. We found an idyllic spot where we haven’t been before.\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/1874632524.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-09-10T18:32:29+03:00",
+				"date_published": "2022-09-10T17:32:29+02:00",
 				"url": "https://microblog.todor.cc/2022/09/10/a-day-trip.html",
 				"tags": ["Casual"]
 			},
@@ -888,7 +906,7 @@
 				
 				"content_html": "<p>💻 What better way to spend Sunday evening&hellip; than to fiddle with cross-posting to LinkedIn. 🙃 In this iteration:</p>\n<ul>\n<li><a href=\"https://www.ifttt.com\">IFTTT</a> picks up the new post from the blog category RSS feed</li>\n<li><a href=\"https://www.ifttt.com\">IFTTT</a> sends to a <a href=\"buffer.com\">Buffer</a> queue</li>\n<li><a href=\"https://buffer.com\">Buffer</a> will eventually post to LinkedIn based on its schedule</li>\n</ul>\n<p>Curious how images and links will perform through the pipeline. If it works, this would be neat as Buffer would add an extra level of control. However, it&rsquo;a annoying and complicated to have so many tools in the process. At least, this all should work with the free tiers.</p>\n<p>Photo by <a href=\"https://unsplash.com/@szolkin?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Sergey Zolkin</a></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "💻 What better way to spend Sunday evening... than to fiddle with cross-posting to LinkedIn. 🙃 In this iteration:\r\n\r\n- [IFTTT](https://www.ifttt.com) picks up the new post from the blog category RSS feed\r\n- [IFTTT](https://www.ifttt.com) sends to a [Buffer](buffer.com) queue\r\n- [Buffer](https://buffer.com) will eventually post to LinkedIn based on its schedule\r\n\r\nCurious how images and links will perform through the pipeline. If it works, this would be neat as Buffer would add an extra level of control. However, it'a annoying and complicated to have so many tools in the process. At least, this all should work with the free tiers.\r\n\r\nPhoto by [Sergey Zolkin](https://unsplash.com/@szolkin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/3d5ef84ffc.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
-				"date_published": "2022-09-04T23:31:56+03:00",
+				"date_published": "2022-09-04T22:31:56+02:00",
 				"url": "https://microblog.todor.cc/2022/09/04/what-better-way.html",
 				"tags": ["Management"]
 			},
@@ -897,7 +915,7 @@
 				
 				"content_html": "<p>📓 Finally decided to set up cross-posting for one of my categories to LinkedIn. As I’m eagerly hitting refresh, heard from <a href=\"https://micro.blog/archimage\">@archimage</a> that cross-posts might need a bit of a kick (a follow-up post) to get going. Let’s see if this does it. 🙂</p>\n",
 				"content_text": "📓 Finally decided to set up cross-posting for one of my categories to LinkedIn. As I’m eagerly hitting refresh, heard from [@archimage](https://micro.blog/archimage) that cross-posts might need a bit of a kick (a follow-up post) to get going. Let’s see if this does it. 🙂\n",
-				"date_published": "2022-09-04T20:09:42+03:00",
+				"date_published": "2022-09-04T19:09:42+02:00",
 				"url": "https://microblog.todor.cc/2022/09/04/finally-decided-to.html",
 				"tags": ["Casual"]
 			},
@@ -906,7 +924,7 @@
 				
 				"content_html": "<p>💻🎙 <a href=\"https://fs.blog/knowledge-project-podcast/marshall-goldsmith/\">Marshall Goldsmith: The Essentials Of Leadership [The Knowledge Project Ep. #142]</a></p>\n<p>Happened to listen to this podcast episode again &ldquo;by mistake&rdquo; today. It packs a lot of wisdom on leadership and coaching. Too much to process on a single listen. It was easy to just let it play once I realized what it was. Some personal highlights:</p>\n<ul>\n<li>if you want to change be rigorous about follow-up</li>\n<li>you can make an idea 5% better by providing your input but diminish the commitment of others by 50%</li>\n<li>breathe, let it go</li>\n<li>never start a sentence with &ldquo;no&rdquo;, &ldquo;but&rdquo;, &ldquo;however&rdquo;</li>\n<li>never base your value as a human on actual outcomes; do your best</li>\n<li>we are here to make a positive difference in the world, not to prove how right or smart we are</li>\n</ul>\n<p>Photo by <a href=\"https://unsplash.com/@scarlettweiss?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Josie Weiss</a></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "💻🎙 [Marshall Goldsmith: The Essentials Of Leadership [The Knowledge Project Ep. #142]](https://fs.blog/knowledge-project-podcast/marshall-goldsmith/)\r\n\r\nHappened to listen to this podcast episode again \"by mistake\" today. It packs a lot of wisdom on leadership and coaching. Too much to process on a single listen. It was easy to just let it play once I realized what it was. Some personal highlights:\r\n\r\n- if you want to change be rigorous about follow-up\r\n- you can make an idea 5% better by providing your input but diminish the commitment of others by 50%\r\n- breathe, let it go\r\n- never start a sentence with \"no\", \"but\", \"however\" \r\n- never base your value as a human on actual outcomes; do your best\r\n- we are here to make a positive difference in the world, not to prove how right or smart we are\r\n\r\nPhoto by [Josie Weiss](https://unsplash.com/@scarlettweiss?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/cf01385577.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2022-09-04T19:56:53+03:00",
+				"date_published": "2022-09-04T18:56:53+02:00",
 				"url": "https://microblog.todor.cc/2022/09/04/marshall-goldsmith-the.html",
 				"tags": ["Management"]
 			},
@@ -915,7 +933,7 @@
 				
 				"content_html": "<p>📓🎵 <a href=\"https://music.apple.com/fi/album/war/1517639211?i=1517640144\">IDLES - War</a></p>\n<p>Gets my heartbeat going, and head bobbing! What a song, what an album!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓🎵 [IDLES - War](https://music.apple.com/fi/album/war/1517639211?i=1517640144)\n\nGets my heartbeat going, and head bobbing! What a song, what an album!\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/87f062cbfc.png\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-08-31T17:27:22+03:00",
+				"date_published": "2022-08-31T16:27:22+02:00",
 				"url": "https://microblog.todor.cc/2022/08/31/172722.html",
 				"tags": ["Casual"]
 			},
@@ -924,7 +942,7 @@
 				
 				"content_html": "<p>📓📷 Seeing this house yesterday reminded me to stay in the moment. Few precious moments to enjoy the greenery 🌱 before autumn takes over 🍂</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 Seeing this house yesterday reminded me to stay in the moment. Few precious moments to enjoy the greenery 🌱 before autumn takes over 🍂 \n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/f0fe5daa7d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-08-31T10:15:36+03:00",
+				"date_published": "2022-08-31T09:15:36+02:00",
 				"url": "https://microblog.todor.cc/2022/08/31/seeing-this-house.html",
 				"tags": ["Casual"]
 			},
@@ -933,7 +951,7 @@
 				
 				"content_html": "<p>📓 <a href=\"https://sive.rs/relax\">Relax for the same result | Derek Sivers </a></p>\n<p>Reminded me of “slow is smooth and smooth is fast”. Good advice.</p>\n",
 				"content_text": "📓 [Relax for the same result | Derek Sivers ](https://sive.rs/relax)\r\n\r\nReminded me of “slow is smooth and smooth is fast”. Good advice. \n",
-				"date_published": "2022-08-28T23:21:26+03:00",
+				"date_published": "2022-08-28T22:21:26+02:00",
 				"url": "https://microblog.todor.cc/2022/08/28/relax-for-the.html",
 				"tags": ["Casual"]
 			},
@@ -942,7 +960,7 @@
 				
 				"content_html": "<p>💾 Stealing a meme - “When my brain goes on a little adventure instead of…” getting much needed sleep. 🤦🏻‍♂️The adventure tonight was automating VM building, provisioning, orchestration and testing with industry standard tools… instead of yet another homebrew framework™️ 🙂🔫</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "💾 Stealing a meme - “When my brain goes on a little adventure instead of…” getting much needed sleep. 🤦🏻‍♂️The adventure tonight was automating VM building, provisioning, orchestration and testing with industry standard tools… instead of yet another homebrew framework™️ 🙂🔫\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/7b3b3e980a.jpg\" width=\"600\" height=\"430\" alt=\"\" />\n",
-				"date_published": "2022-08-25T07:15:43+03:00",
+				"date_published": "2022-08-25T06:15:43+02:00",
 				"url": "https://microblog.todor.cc/2022/08/25/stealing-a-meme.html",
 				"tags": ["Technology"]
 			},
@@ -951,7 +969,7 @@
 				"title": "💻 A burnout guide for managers incl. brief annotations",
 				"content_html": "<p>I recently read an overall excellent <a href=\"https://commoncog.com/g/burnout/\">guide on burnout</a> for managers. Here&rsquo;s a few of my key take-aways.</p>\n<blockquote>\n<p>Burnout is a psychological state caused by prolonged stress from a job.</p>\n<p>There are three key characteristics of burnout:</p>\n<ul>\n<li>Overwhelming exhaustion.</li>\n<li>Feelings of cynicism.</li>\n<li>And a sense of ineffectiveness.</li>\n</ul>\n</blockquote>\n<p>The above characteristics could manifest in different combinations. Also the intensity could be distributed unevenly. This was illustrated well in the stories in the guide. I suppose, ultimately, burnout incapacitates us beyond a sense of ineffectiveness.</p>\n<blockquote>\n<p>burnout is really a ‘stress experience within a social environment’.</p>\n</blockquote>\n<p>Burnout occurs in the context of one’s environment. People have different responses and levels of resilience. It is, however, unfair to put the full responsibility of burning out onto the individual.</p>\n<blockquote>\n<p>The JD-R model classifies every occupation into two general categories: job demands and job resources.</p>\n</blockquote>\n<p>This model of looking at the problem is simple. I like it because it intuitively feels as first principles. Managers can affect the context in which potential burnout occurs by affecting the job demands and job resources. This is the balancing act of every team manager. What resources can be made available for people such that we can cope with high job demands?</p>\n<blockquote>\n<p>Here’s the bad news: we know very little about recovering from burnout. What we do know are two things:</p>\n<ul>\n<li>Individual interventions don’t work — and by individual interventions we mean interventions while the person continues to be at the workplace that caused the burnout.</li>\n<li>If you remove yourself from that working environment, you will recover.</li>\n</ul>\n</blockquote>\n<p>The second point is crucial. Something needs to change and it doesn&rsquo;t mean a person needs to resign. It means adapting or changing the role of the individual significantly enough so that they can recover. You can&rsquo;t expect that a person will just regain their step in the same environment that led them to burn out in the first place.</p>\n<p>An aspect I would have wished for the guide to cover is circumstances outside of work. There is no deficit of what to worry about on an any given day. The pandemic, war, climate crisis… all cause substantial anxiety in the lives of many of us. In that sense, factors outside of the work place also could contribute to burnout.</p>\n<p>Remember to replenish your resources.</p>\n<p>Photo by <a href=\"https://unsplash.com/@steve_j\">Steve Johnson</a></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I recently read an overall excellent [guide on burnout](https://commoncog.com/g/burnout/) for managers. Here's a few of my key take-aways.\r\n\r\n> Burnout is a psychological state caused by prolonged stress from a job.\r\n> \r\n> There are three key characteristics of burnout:\r\n> \r\n> - Overwhelming exhaustion.\r\n> - Feelings of cynicism.\r\n> - And a sense of ineffectiveness.\r\n\r\nThe above characteristics could manifest in different combinations. Also the intensity could be distributed unevenly. This was illustrated well in the stories in the guide. I suppose, ultimately, burnout incapacitates us beyond a sense of ineffectiveness.\r\n\r\n> burnout is really a ‘stress experience within a social environment’.\r\n\r\nBurnout occurs in the context of one’s environment. People have different responses and levels of resilience. It is, however, unfair to put the full responsibility of burning out onto the individual. \r\n\r\n> The JD-R model classifies every occupation into two general categories: job demands and job resources.\r\n\r\nThis model of looking at the problem is simple. I like it because it intuitively feels as first principles. Managers can affect the context in which potential burnout occurs by affecting the job demands and job resources. This is the balancing act of every team manager. What resources can be made available for people such that we can cope with high job demands?\r\n\r\n> Here’s the bad news: we know very little about recovering from burnout. What we do know are two things:\r\n> - Individual interventions don’t work — and by individual interventions we mean interventions while the person continues to be at the workplace that caused the burnout.\r\n> - If you remove yourself from that working environment, you will recover.\r\n\r\nThe second point is crucial. Something needs to change and it doesn't mean a person needs to resign. It means adapting or changing the role of the individual significantly enough so that they can recover. You can't expect that a person will just regain their step in the same environment that led them to burn out in the first place.\r\n\r\nAn aspect I would have wished for the guide to cover is circumstances outside of work. There is no deficit of what to worry about on an any given day. The pandemic, war, climate crisis… all cause substantial anxiety in the lives of many of us. In that sense, factors outside of the work place also could contribute to burnout.\r\n\r\nRemember to replenish your resources.\r\n\r\nPhoto by [Steve Johnson](https://unsplash.com/@steve_j)\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/848e9e29eb.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
-				"date_published": "2022-08-22T23:08:56+03:00",
+				"date_published": "2022-08-22T22:08:56+02:00",
 				"url": "https://microblog.todor.cc/2022/08/22/a-burnout-guide.html",
 				"tags": ["Management"]
 			},
@@ -960,7 +978,7 @@
 				
 				"content_html": "<p>💾🎮 During the weekend I&rsquo;ve been setting up a cloud gaming / game development rig. So far, so good, but I haven&rsquo;t reached the summit. Currently, dismissed Azure and opted for Paperspace + Parsec / Moonlight. In my next attempt to beat latency I&rsquo;ll look into AWS G4.</p>\n",
 				"content_text": "💾🎮 During the weekend I've been setting up a cloud gaming / game development rig. So far, so good, but I haven't reached the summit. Currently, dismissed Azure and opted for Paperspace + Parsec / Moonlight. In my next attempt to beat latency I'll look into AWS G4.\n",
-				"date_published": "2022-08-22T13:49:24+03:00",
+				"date_published": "2022-08-22T12:49:24+02:00",
 				"url": "https://microblog.todor.cc/2022/08/22/during-the-weekend.html",
 				"tags": ["Casual","Technology","Gaming"]
 			},
@@ -969,7 +987,7 @@
 				
 				"content_html": "<p>💾 <a href=\"https://arstechnica.com/information-technology/2022/08/ios-vpns-still-leak-traffic-more-than-2-years-later-researcher-claims/\">iOS &amp; iPadOS VPNs leak data, issue goes unfixed by Apple for over 2 years</a>. Let’s see if the renewed public interest will do something this time…</p>\n",
 				"content_text": "💾 [iOS & iPadOS VPNs leak data, issue goes unfixed by Apple for over 2 years](https://arstechnica.com/information-technology/2022/08/ios-vpns-still-leak-traffic-more-than-2-years-later-researcher-claims/). Let’s see if the renewed public interest will do something this time…\n",
-				"date_published": "2022-08-18T18:01:02+03:00",
+				"date_published": "2022-08-18T17:01:02+02:00",
 				"url": "https://microblog.todor.cc/2022/08/18/ios-ipados-vpns.html",
 				"tags": ["Technology"]
 			},
@@ -978,7 +996,7 @@
 				
 				"content_html": "<p>💾 Just got my hands on a Brydge 11.0 Pro keyboard for my iPad. Bought a returned unit on discount, which adds to my satisfaction 🙂 First tweaks: 1️⃣ increased trackpad speed 2️⃣ enabled tap to click. Now going through the pain of getting used to it, hope I can adjust quickly.</p>\n",
 				"content_text": "💾 Just got my hands on a Brydge 11.0 Pro keyboard for my iPad. Bought a returned unit on discount, which adds to my satisfaction 🙂 First tweaks: 1️⃣ increased trackpad speed 2️⃣ enabled tap to click. Now going through the pain of getting used to it, hope I can adjust quickly. \n",
-				"date_published": "2022-08-15T19:34:51+03:00",
+				"date_published": "2022-08-15T18:34:51+02:00",
 				"url": "https://microblog.todor.cc/2022/08/15/just-got-my.html",
 				"tags": ["Technology"]
 			},
@@ -987,7 +1005,7 @@
 				
 				"content_html": "<p>📓 As a respectable member of a neighborhood with an open air public swimming pool 🏊‍♂️, I got the benefit to “commute” wearing a bathrobe in the morning🩴. Surprised but grateful I had the energy to exercise, having woken up earlier than usual 🥱</p>\n",
 				"content_text": "📓 As a respectable member of a neighborhood with an open air public swimming pool 🏊‍♂️, I got the benefit to “commute” wearing a bathrobe in the morning🩴. Surprised but grateful I had the energy to exercise, having woken up earlier than usual 🥱\n",
-				"date_published": "2022-08-09T08:57:48+03:00",
+				"date_published": "2022-08-09T07:57:48+02:00",
 				"url": "https://microblog.todor.cc/2022/08/09/as-a-respectable.html",
 				"tags": ["Casual"]
 			},
@@ -996,7 +1014,7 @@
 				
 				"content_html": "<p>🎮 <a href=\"https://dukope.com/devlogs/papers-please/mobile/\">Cramming &lsquo;Papers, Please&rsquo; Onto Phones</a></p>\n<p>What a joy to read this devlog 🙏 It’s a privilege to get a scoop of the creative process behind the game. And, in no small amount, the key technical considerations.</p>\n",
 				"content_text": "🎮 [Cramming 'Papers, Please' Onto Phones](https://dukope.com/devlogs/papers-please/mobile/)\r\n\r\nWhat a joy to read this devlog 🙏 It’s a privilege to get a scoop of the creative process behind the game. And, in no small amount, the key technical considerations.\n",
-				"date_published": "2022-08-07T16:21:48+03:00",
+				"date_published": "2022-08-07T15:21:48+02:00",
 				"url": "https://microblog.todor.cc/2022/08/07/cramming-papers-please.html",
 				"tags": ["Casual","Gaming"]
 			},
@@ -1005,7 +1023,7 @@
 				
 				"content_html": "<p>📓 <a href=\"https://www.theatlantic.com/ideas/archive/2022/08/marc-andreessens-opposition-housing-project-nimby/671061/\">The Billionaire’s Dilemma, The Atlantic</a></p>\n<blockquote>\n<p>Marc Andreessen says he’s all for more new housing, but public records tell a different story.</p>\n</blockquote>\n<p>🤢</p>\n",
 				"content_text": "📓 [The Billionaire’s Dilemma, The Atlantic](https://www.theatlantic.com/ideas/archive/2022/08/marc-andreessens-opposition-housing-project-nimby/671061/)\r\n\r\n> Marc Andreessen says he’s all for more new housing, but public records tell a different story.\r\n\r\n🤢\n",
-				"date_published": "2022-08-05T22:56:34+03:00",
+				"date_published": "2022-08-05T21:56:34+02:00",
 				"url": "https://microblog.todor.cc/2022/08/05/the-billionaires-dilemma.html",
 				"tags": ["Casual"]
 			},
@@ -1014,7 +1032,7 @@
 				
 				"content_html": "<p>📓Care-free afternoon in the yard. Next week back at work! It’s been a valuable and much needed summer holiday. I’m resisting getting analitical about it. If I take one thing from it, it’s - recharge more, every day. 🔋</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓Care-free afternoon in the yard. Next week back at work! It’s been a valuable and much needed summer holiday. I’m resisting getting analitical about it. If I take one thing from it, it’s - recharge more, every day. 🔋\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/b1a10976c5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-08-05T17:04:02+03:00",
+				"date_published": "2022-08-05T16:04:02+02:00",
 				"url": "https://microblog.todor.cc/2022/08/05/carefree-afternoon-in.html",
 				"tags": ["Casual"]
 			},
@@ -1023,7 +1041,7 @@
 				
 				"content_html": "<p>💾 @help I noticed a minor bug with running category filters. It seems filters are applied to old versions of the posts. I expected it would be to the latest version only. So some posts got assigned to multiple categories. I filter by single emoji so it was easy to spot.</p>\n",
 				"content_text": "💾 @help I noticed a minor bug with running category filters. It seems filters are applied to old versions of the posts. I expected it would be to the latest version only. So some posts got assigned to multiple categories. I filter by single emoji so it was easy to spot.\n",
-				"date_published": "2022-08-05T11:14:48+03:00",
+				"date_published": "2022-08-05T10:14:48+02:00",
 				"url": "https://microblog.todor.cc/2022/08/05/help-i-noticed.html",
 				"tags": ["Technology"]
 			},
@@ -1032,7 +1050,7 @@
 				
 				"content_html": "<p>💾 I’ve been reading Hacker News for years filtering for points over 100. Happy to have found a way to replicate that with a feed. <a href=\"https://hnrss.github.io\">HN RSS</a> is super handy, and has many options. Added bonus - fetching full content works better than with the official feed.</p>\n",
 				"content_text": "💾 I’ve been reading Hacker News for years filtering for points over 100. Happy to have found a way to replicate that with a feed. [HN RSS](https://hnrss.github.io) is super handy, and has many options. Added bonus - fetching full content works better than with the official feed.\n",
-				"date_published": "2022-08-04T23:38:18+03:00",
+				"date_published": "2022-08-04T22:38:18+02:00",
 				"url": "https://microblog.todor.cc/2022/08/04/ive-been-reading.html",
 				"tags": ["Technology"]
 			},
@@ -1041,7 +1059,7 @@
 				"title": "💾 [Feedbin Feature Request] Direct link to Micro.blog conversation",
 				"content_html": "<p>This post will be shortly sent to <a href=\"mailto:support@feedbin.com\">support@feedbin.com</a>.</p>\n<p>Here goes as per <a href=\"https://feedbin.com/help/making-a-feature-request/\">Feedbin’s feature request instructions</a>:</p>\n<p><strong>1️⃣ Sell it! Why would this make a good feature?</strong></p>\n<p>Feedbin  already has excellent Micro.blog integration! 🙏 With just a few bits of improvements, including this one, Feedbin can practically replace the native app. This makes it more likely for Feedbin to become the one place to consume content from.</p>\n<p>The request is to add a direct link to the Micro blog converstion, alongside the Thread view. This feature would:</p>\n<ul>\n<li>make the UX more consistent with the Twitter integration</li>\n<li>eliminate friction by reducing app switching</li>\n</ul>\n<p><strong>2️⃣ Good features should appeal to many. Not just you.</strong></p>\n<p>Micro.blog is also a community formed around conversations. People interact daily on the platform. Some of us find a feed reader the best way to catch up with posts (see this <a href=\"https://miraz.me/2022/07/30/after-a-few.html\">post</a>, and its <a href=\"https://micro.blog/Miraz/13204864\">conversation</a>).  Not all are Feedbin users, but those who are will love a better integration.</p>\n<p><strong>3️⃣ How do you envision the feature would work? Use descriptions, mock-ups whatever helps communicate your vision.</strong></p>\n<p><strong>4️⃣ Most of the time the hardest part of any feature is building an interface for it, so extra points if you can help out with that.</strong></p>\n<p>Combining 3️⃣&amp; 4️⃣. Let&rsquo;s take a Twitter post example, as in the screenshot below.</p>\n<!-- raw HTML omitted -->\n<p>The Micro.blog integration could work in similar fashion:</p>\n<ul>\n<li>Message bubble icon <!-- raw HTML omitted --><!-- raw HTML omitted -->  would open the Thread in Feedbin, as it works already now</li>\n<li>The service icon <!-- raw HTML omitted --><!-- raw HTML omitted -->  would open the external link to the conversation</li>\n</ul>\n<p><strong>5️⃣ Above all contributing code is the best way to get a feature started.</strong></p>\n<p>Sorry, no can do. 🙂</p>\n",
 				"content_text": "This post will be shortly sent to support@feedbin.com.\n\nHere goes as per [Feedbin’s feature request instructions](https://feedbin.com/help/making-a-feature-request/):\n\n**1️⃣ Sell it! Why would this make a good feature?**\n\nFeedbin  already has excellent Micro.blog integration! 🙏 With just a few bits of improvements, including this one, Feedbin can practically replace the native app. This makes it more likely for Feedbin to become the one place to consume content from.\n\nThe request is to add a direct link to the Micro blog converstion, alongside the Thread view. This feature would:\n- make the UX more consistent with the Twitter integration\n- eliminate friction by reducing app switching\n\n**2️⃣ Good features should appeal to many. Not just you.**\n\nMicro.blog is also a community formed around conversations. People interact daily on the platform. Some of us find a feed reader the best way to catch up with posts (see this [post](https://miraz.me/2022/07/30/after-a-few.html), and its [conversation](https://micro.blog/Miraz/13204864)).  Not all are Feedbin users, but those who are will love a better integration.\n\n**3️⃣ How do you envision the feature would work? Use descriptions, mock-ups whatever helps communicate your vision.**\n\n**4️⃣ Most of the time the hardest part of any feature is building an interface for it, so extra points if you can help out with that.**\n\nCombining 3️⃣& 4️⃣. Let's take a Twitter post example, as in the screenshot below.\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/2d3bf219bd.png\" width=\"600\" height=\"192\" alt=\"\" />\n\nThe Micro.blog integration could work in similar fashion:\n- Message bubble icon <i class=\"fa-regular fa-message\"></i>  would open the Thread in Feedbin, as it works already now\n- The service icon <i class=\"fa-brands fa-microblog\"></i>  would open the external link to the conversation\n\n**5️⃣ Above all contributing code is the best way to get a feature started.**\n\nSorry, no can do. 🙂\n",
-				"date_published": "2022-08-03T23:47:50+03:00",
+				"date_published": "2022-08-03T22:47:50+02:00",
 				"url": "https://microblog.todor.cc/2022/08/03/234750.html",
 				"tags": ["Technology"]
 			},
@@ -1050,7 +1068,7 @@
 				
 				"content_html": "<p>📓💬 <a href=\"https://psyche.co/ideas/sometimes-its-a-good-idea-to-be-angry-with-yourself-but-when?utm_source=rss-feed\">Sometimes it’s a good idea to be angry with yourself. But when?</a></p>\n<blockquote>\n<p>[…] working towards replacing feelings of shame and guilt for self-anger may be beneficial, so that we can capitalise on its motivational powers.</p>\n</blockquote>\n",
 				"content_text": "📓💬 [Sometimes it’s a good idea to be angry with yourself. But when?](https://psyche.co/ideas/sometimes-its-a-good-idea-to-be-angry-with-yourself-but-when?utm_source=rss-feed)\r\n\r\n> […] working towards replacing feelings of shame and guilt for self-anger may be beneficial, so that we can capitalise on its motivational powers.\n",
-				"date_published": "2022-08-02T20:51:07+03:00",
+				"date_published": "2022-08-02T19:51:07+02:00",
 				"url": "https://microblog.todor.cc/2022/08/02/sometimes-its-a.html",
 				"tags": ["Casual"]
 			},
@@ -1059,7 +1077,7 @@
 				
 				"content_html": "<p>💾🎙 <a href=\"https://changelog.com/podcast/499\">The Changelog Podcast #499: Long Live RSS!</a> w/ <a href=\"https://twitter.com/bsaid\">Ben Ubois</a>, maker of Feedbin and Airshow. On managing feed fatigue, a gripe with RSS, the solution discussed was to subscribe to less and quieter feeds. I was surprised the <em>Mute</em> feature of Feedbin was not brought up.</p>\n",
 				"content_text": "💾🎙 [The Changelog Podcast #499: Long Live RSS!](https://changelog.com/podcast/499) w/ [Ben Ubois](https://twitter.com/bsaid), maker of Feedbin and Airshow. On managing feed fatigue, a gripe with RSS, the solution discussed was to subscribe to less and quieter feeds. I was surprised the _Mute_ feature of Feedbin was not brought up. \n",
-				"date_published": "2022-08-02T15:20:41+03:00",
+				"date_published": "2022-08-02T14:20:41+02:00",
 				"url": "https://microblog.todor.cc/2022/08/02/the-changelog-podcast.html",
 				"tags": ["Technology"]
 			},
@@ -1068,7 +1086,7 @@
 				
 				"content_html": "<p>📓📷 Came to the cottage after a 2.5 weeks break. Picked bunches of black- and redcurrants, handful of strawberries 🍓 and just enough mushrooms for an evening toast 🍞🤤 A good start of the week!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 Came to the cottage after a 2.5 weeks break. Picked bunches of black- and redcurrants, handful of strawberries 🍓 and just enough mushrooms for an evening toast 🍞🤤 A good start of the week!\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/c0e9513a66.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-08-01T22:07:01+03:00",
+				"date_published": "2022-08-01T21:07:01+02:00",
 				"url": "https://microblog.todor.cc/2022/08/01/came-to-the.html",
 				"tags": ["Casual"]
 			},
@@ -1077,7 +1095,7 @@
 				
 				"content_html": "<p>🎮📷 Picked up <a href=\"https://tunicgame.com\">Tunic</a> today after a long break from it + a couple of weeks of no gaming. This time something tells me it will stick. Had an enjoyable evening session that wasn’t overstimulating but relaxing. No less because of the sweet soundtrack. Left a boss 👾 for tomorrow, hehe.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "🎮📷 Picked up [Tunic](https://tunicgame.com) today after a long break from it + a couple of weeks of no gaming. This time something tells me it will stick. Had an enjoyable evening session that wasn’t overstimulating but relaxing. No less because of the sweet soundtrack. Left a boss 👾 for tomorrow, hehe.\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/d05c4196fc.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
-				"date_published": "2022-07-30T01:43:43+03:00",
+				"date_published": "2022-07-30T00:43:43+02:00",
 				"url": "https://microblog.todor.cc/2022/07/30/picked-up-tunic.html",
 				"tags": ["Casual","Gaming"]
 			},
@@ -1086,7 +1104,7 @@
 				
 				"content_html": "<p><a href=\"https://feedbin.com/blog/2022/07/26/airshow-podcasts/\">Airshow: A Lightweight App for People Who Like Podcasts </a></p>\n<p>By the makers of Feedbin. Excited to try it tomorrow. Sync did’t seem to work so far, though.</p>\n",
 				"content_text": "[Airshow: A Lightweight App for People Who Like Podcasts ](https://feedbin.com/blog/2022/07/26/airshow-podcasts/)\r\n\r\nBy the makers of Feedbin. Excited to try it tomorrow. Sync did’t seem to work so far, though.\n",
-				"date_published": "2022-07-27T01:04:05+03:00",
+				"date_published": "2022-07-27T00:04:05+02:00",
 				"url": "https://microblog.todor.cc/2022/07/27/airshow-a-lightweight.html"
 			},
 			{
@@ -1094,7 +1112,7 @@
 				
 				"content_html": "<p>📓📷 Polish 🇵🇱 craft beer in Genoa 🇮🇹. On a Sunday afternoon. Several venues combined forces on a small city square. Life is good 🏖</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 Polish 🇵🇱 craft beer in Genoa 🇮🇹. On a Sunday afternoon. Several venues combined forces on a small city square. Life is good 🏖\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/4d680a8378.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-07-24T19:27:21+03:00",
+				"date_published": "2022-07-24T18:27:21+02:00",
 				"url": "https://microblog.todor.cc/2022/07/24/polish-craft-beer.html",
 				"tags": ["Casual"]
 			},
@@ -1103,7 +1121,7 @@
 				
 				"content_html": "<p>📓🎙 <a href=\"https://fs.blog/knowledge-project-podcast/david-sinclair/\">David Sinclair: Reversing the Aging Process [The Knowledge Project Ep. #136]</a></p>\n<p>Adversity is good for you. Under control, of course. A good new perspective to pick up on this topic from this podcast episode.</p>\n",
 				"content_text": "📓🎙 [David Sinclair: Reversing the Aging Process [The Knowledge Project Ep. #136]](https://fs.blog/knowledge-project-podcast/david-sinclair/)\n\nAdversity is good for you. Under control, of course. A good new perspective to pick up on this topic from this podcast episode.\n",
-				"date_published": "2022-07-24T17:24:37+03:00",
+				"date_published": "2022-07-24T16:24:37+02:00",
 				"url": "https://microblog.todor.cc/2022/07/24/david-sinclair-reversing.html",
 				"tags": ["Casual"]
 			},
@@ -1112,7 +1130,7 @@
 				"title": "💾 [Feedbin Feature Request] Show image thumbnails in Micro.blog list of entries",
 				"content_html": "<p>This post will be shortly sent to <a href=\"mailto:support@feedbin.com\">support@feedbin.com</a>.</p>\n<p>Not sure if this may be classified as an issue, but here goes as per <a href=\"https://feedbin.com/help/making-a-feature-request/\">Feedbin&rsquo;s feature request instructions</a>:</p>\n<p><strong>1️⃣ Sell it! Why would this make a good feature?</strong></p>\n<p>Feedbin  already has excellent Micro.blog integration! 🙏 With just a few bits of improvements, including this one, Feedbin can practically replace the native app. This makes it more likely for Feedbin to become the one place to consume content from.</p>\n<p>Showing images/thumbnails is fairly standard:</p>\n<ul>\n<li>helps to read micro posts faster, no need to even open the entry</li>\n<li>makes the list of entries prettier</li>\n<li>many other feeds, incl. 🐦 Twitter support image thumbnails</li>\n</ul>\n<p>This request particularly refers to the Discover and Timeline type of feeds:</p>\n<ul>\n<li><code>https://micro.blog/posts/discover</code></li>\n<li><code>https://micro.blog/feeds/username.json</code>, e.g. mine being <code>https://micro.blog/feeds/todor.json</code></li>\n</ul>\n<p><strong>2️⃣ Good features should appeal to many. Not just you.</strong></p>\n<p>The Discover and personal Timeline feeds are the core feeds on Micro.blog. I bet users spent most of their time on these feeds. This feature will improve the experience for every Micro.blog user.</p>\n<p><strong>3️⃣ How do you envision the feature would work? Use descriptions, mock-ups whatever helps communicate your vision.</strong></p>\n<p><strong>4️⃣ Most of the time the hardest part of any feature is building an interface for it, so extra points if you can help out with that.</strong></p>\n<p>Combining 3️⃣ &amp; 4️⃣. The attached images show the difference between the Discover feed and the blog&rsquo;s direct JSON feed. The thumbnail is showed in the blog&rsquo;s feed.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>The feature request is essentially to have the thumbnail visible for entries that utilize the Micro.blog integration as well.</p>\n<p>Here is a <a href=\"https://gist.github.com/todorvlaev/ffd6e51f7b89851f30b84554a024ea32\">gist with a snapshot of the Discover feed</a>. Relevant part:</p>\n<pre tabindex=\"0\"><code>    {\n      &quot;id&quot;: &quot;13176027&quot;,\n      &quot;content_html&quot;: &quot;&lt;p&gt;Pitcher plant is thriving now that itâ€™s getting much more water and humidity. ðŸª´&lt;/p&gt;\\n&lt;img src=\\&quot;https://micro.blog/photos/1000x/https%3A%2F%2Fmicro.jagtalon.com%2Fuploads%2F2022%2Ff7a3e0e05e.jpg\\&quot; width=\\&quot;600\\&quot; height=\\&quot;600\\&quot; alt=\\&quot;\\&quot; loading=\\&quot;lazy\\&quot;&gt;\\n&quot;,\n      &quot;url&quot;: &quot;https://micro.jagtalon.com/2022/07/22/pitcher-plant-is.html&quot;,\n      &quot;date_published&quot;: &quot;2022-07-22T14:49:06+00:00&quot;,\n      &quot;author&quot;: {\n        &quot;name&quot;: &quot;Jag Talon&quot;,\n        &quot;url&quot;: &quot;https://jagtalon.com/&quot;,\n        &quot;avatar&quot;: &quot;https://avatars.micro.blog/avatars/2022/100012.jpg&quot;,\n        &quot;_microblog&quot;: {\n          &quot;username&quot;: &quot;jtalon&quot;\n        }\n      },\n      &quot;_microblog&quot;: {\n        &quot;date_relative&quot;: &quot;2022-07-22  2:49 pm&quot;,\n        &quot;date_timestamp&quot;: 1658501346,\n        &quot;is_favorite&quot;: false,\n        &quot;is_bookmark&quot;: false,\n        &quot;is_deletable&quot;: false,\n        &quot;is_conversation&quot;: false,\n        &quot;is_linkpost&quot;: false,\n        &quot;is_mention&quot;: false\n      }\n    },\n</code></pre><p><strong>5️⃣ Above all contributing code is the best way to get a feature started.</strong></p>\n<p>Sorry,  no can do. 🙂</p>\n",
 				"content_text": "This post will be shortly sent to support@feedbin.com.\n\nNot sure if this may be classified as an issue, but here goes as per [Feedbin's feature request instructions](https://feedbin.com/help/making-a-feature-request/):\n\n**1️⃣ Sell it! Why would this make a good feature?**\n\nFeedbin  already has excellent Micro.blog integration! 🙏 With just a few bits of improvements, including this one, Feedbin can practically replace the native app. This makes it more likely for Feedbin to become the one place to consume content from.\n\nShowing images/thumbnails is fairly standard:\n- helps to read micro posts faster, no need to even open the entry\n- makes the list of entries prettier\n- many other feeds, incl. 🐦 Twitter support image thumbnails\n\nThis request particularly refers to the Discover and Timeline type of feeds:\n- `https://micro.blog/posts/discover`\n- `https://micro.blog/feeds/username.json`, e.g. mine being `https://micro.blog/feeds/todor.json`\n\n**2️⃣ Good features should appeal to many. Not just you.**\n\nThe Discover and personal Timeline feeds are the core feeds on Micro.blog. I bet users spent most of their time on these feeds. This feature will improve the experience for every Micro.blog user.\n \n**3️⃣ How do you envision the feature would work? Use descriptions, mock-ups whatever helps communicate your vision.**\n\n**4️⃣ Most of the time the hardest part of any feature is building an interface for it, so extra points if you can help out with that.**\n\nCombining 3️⃣ & 4️⃣. The attached images show the difference between the Discover feed and the blog's direct JSON feed. The thumbnail is showed in the blog's feed.\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/818d2a3727.png\" width=\"600\" height=\"529\" alt=\"\" />\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/e7802c8e78.png\" width=\"600\" height=\"507\" alt=\"\" />\n\nThe feature request is essentially to have the thumbnail visible for entries that utilize the Micro.blog integration as well.\n\nHere is a [gist with a snapshot of the Discover feed](https://gist.github.com/todorvlaev/ffd6e51f7b89851f30b84554a024ea32). Relevant part:\n\n```\n    {\n      \"id\": \"13176027\",\n      \"content_html\": \"<p>Pitcher plant is thriving now that itâ€™s getting much more water and humidity. ðŸª´</p>\\n<img src=\\\"https://micro.blog/photos/1000x/https%3A%2F%2Fmicro.jagtalon.com%2Fuploads%2F2022%2Ff7a3e0e05e.jpg\\\" width=\\\"600\\\" height=\\\"600\\\" alt=\\\"\\\" loading=\\\"lazy\\\">\\n\",\n      \"url\": \"https://micro.jagtalon.com/2022/07/22/pitcher-plant-is.html\",\n      \"date_published\": \"2022-07-22T14:49:06+00:00\",\n      \"author\": {\n        \"name\": \"Jag Talon\",\n        \"url\": \"https://jagtalon.com/\",\n        \"avatar\": \"https://avatars.micro.blog/avatars/2022/100012.jpg\",\n        \"_microblog\": {\n          \"username\": \"jtalon\"\n        }\n      },\n      \"_microblog\": {\n        \"date_relative\": \"2022-07-22  2:49 pm\",\n        \"date_timestamp\": 1658501346,\n        \"is_favorite\": false,\n        \"is_bookmark\": false,\n        \"is_deletable\": false,\n        \"is_conversation\": false,\n        \"is_linkpost\": false,\n        \"is_mention\": false\n      }\n    },\n```\n\n**5️⃣ Above all contributing code is the best way to get a feature started.**\n\nSorry,  no can do. 🙂\n",
-				"date_published": "2022-07-23T17:43:59+03:00",
+				"date_published": "2022-07-23T16:43:59+02:00",
 				"url": "https://microblog.todor.cc/2022/07/23/feedbin-feature-request.html",
 				"tags": ["Technology"]
 			},
@@ -1121,7 +1139,7 @@
 				"title": "💾 Down the  RSS reader rabbit hole",
 				"content_html": "<p>I&rsquo;ve been rebuilding my RSS reader setup over the last few days and I&rsquo;m loving it. I was an avid Google Reader user (RIP) back in the day. After its demise I switched over to newsletters, except for a minor flirt with <a href=\"https://feedly.com/\">Feedly</a>. Newsletters hardly ever worked for me as I&rsquo;m not email-oriented at all. Some posts on <a href=\"https://micro.blog\">✴️ Micro.blog</a> inspired me to check again the state of RSS readers and I&rsquo;m super excited about what I found. Nowadays, I would call them feed readers - there are more options than RSS and this is amazing - JSON, Atom, email (!), podcasts, and I suppose some custom integrations.</p>\n<p>After exploring several options I settled for <a href=\"https://feedbin.com/\">🍔 Feedbin</a>. <a href=\"https://netnewswire.com/\">NetNewsWire</a> and <a href=\"https://reederapp.com/\">Reeder</a>, while refreshingly straightforward, felt insufficient for my needs. Unfortunately, I don&rsquo;t remember the details anymore after so much digging and comparing. I may still return to them in the future. The last contender was <a href=\"https://www.inoreader.com/language/english\">Inoreader</a>. It has a dazzling amount of options, so many as to confuse you in the beginning. Yet, most of the configurability was cruft to me, and the one thing I found useful for viewing didn&rsquo;t have feature parity on iPad. I can&rsquo;t stress how much it annoys me when the mobile apps are too crippled vs web.</p>\n<p>Here&rsquo;s a list of the top things I appreciated in <a href=\"https://feedbin.com/\">🍔 Feedbin</a>, mixed with my workflow preferences:</p>\n<ul>\n<li><strong>Aesthetics</strong> The app is sleek-looking and current. If I&rsquo;m to stick with a reader, aesthetics are not a superficial requirement. I&rsquo;m giving up the curated design of many services. I should like what I look at.</li>\n<li><strong>Fetching full content</strong> Feeds are often truncated. <a href=\"https://feedbin.com/\">🍔 Feedbin</a> does a stunning job at fetching the full content. It&rsquo;s also a persistent setting per feed. So it works seamlessly. E.g. <a href=\"https://www.inoreader.com/language/english\">Inoreader</a> required one extra click every time. Added bonus is how all the ads and useless elements get stripped away.</li>\n<li><strong>Mute</strong> I&rsquo;m an inbox 0 person. Unread counts stress me a lot. For the highest volume feeds, mainly news-type, I just mute the feeds. In any case, I read news on-demand even now. <a href=\"https://feedbin.com/\">🍔 Feedbin</a> gives you stats for feed volume which simplifies managing this.</li>\n<li><strong>Micro.blog integration</strong> This is very important to me currently. There is excellent integration - you can even read the whole conversation from within <a href=\"https://feedbin.com/\">🍔 Feedbin</a>. One thing that is lacking is a direct link to the conversation for ease of replying. A feature request is on my list.</li>\n<li><strong><a href=\"https://feedbin.com/\">🍔 Feedbin</a> is not after my data</strong> From what I can tell the app is maintained by a small team of 2. There is no magic algorithm, suggestions, ads, i.e. suspicious intelligence. Furthermore, the project is <a href=\"https://github.com/feedbin/feedbin\">open source</a>, though it&rsquo;s not recommended to run your own instance. And even then, no one is stopping you - just don&rsquo;t expect official support.</li>\n</ul>\n<p>I&rsquo;ve been steadily migrating what I follow from a zillion of places to the feed reader - email, bookmarks, Twitter, Medium. It&rsquo;s been extremely smooth. Only in one case I needed to use a feed generator (<a href=\"http://fetchrss.com/\">FetchRSS</a>), yet to see if this works well enough - but, hey, there is this option for stubborn sites, too.</p>\n<p>That&rsquo;s it for now. Hope someone found something useful. If you have any tips, hit me up 🙏</p>\n",
 				"content_text": "I've been rebuilding my RSS reader setup over the last few days and I'm loving it. I was an avid Google Reader user (RIP) back in the day. After its demise I switched over to newsletters, except for a minor flirt with [Feedly](https://feedly.com/). Newsletters hardly ever worked for me as I'm not email-oriented at all. Some posts on [✴️ Micro.blog](https://micro.blog) inspired me to check again the state of RSS readers and I'm super excited about what I found. Nowadays, I would call them feed readers - there are more options than RSS and this is amazing - JSON, Atom, email (!), podcasts, and I suppose some custom integrations.\n\nAfter exploring several options I settled for [🍔 Feedbin](https://feedbin.com/). [NetNewsWire](https://netnewswire.com/) and [Reeder](https://reederapp.com/), while refreshingly straightforward, felt insufficient for my needs. Unfortunately, I don't remember the details anymore after so much digging and comparing. I may still return to them in the future. The last contender was [Inoreader](https://www.inoreader.com/language/english). It has a dazzling amount of options, so many as to confuse you in the beginning. Yet, most of the configurability was cruft to me, and the one thing I found useful for viewing didn't have feature parity on iPad. I can't stress how much it annoys me when the mobile apps are too crippled vs web.\n\nHere's a list of the top things I appreciated in [🍔 Feedbin](https://feedbin.com/), mixed with my workflow preferences:\n\n- **Aesthetics** The app is sleek-looking and current. If I'm to stick with a reader, aesthetics are not a superficial requirement. I'm giving up the curated design of many services. I should like what I look at.\n- **Fetching full content** Feeds are often truncated. [🍔 Feedbin](https://feedbin.com/) does a stunning job at fetching the full content. It's also a persistent setting per feed. So it works seamlessly. E.g. [Inoreader](https://www.inoreader.com/language/english) required one extra click every time. Added bonus is how all the ads and useless elements get stripped away.\n- **Mute** I'm an inbox 0 person. Unread counts stress me a lot. For the highest volume feeds, mainly news-type, I just mute the feeds. In any case, I read news on-demand even now. [🍔 Feedbin](https://feedbin.com/) gives you stats for feed volume which simplifies managing this.\n- **Micro.blog integration** This is very important to me currently. There is excellent integration - you can even read the whole conversation from within [🍔 Feedbin](https://feedbin.com/). One thing that is lacking is a direct link to the conversation for ease of replying. A feature request is on my list.\n- **[🍔 Feedbin](https://feedbin.com/) is not after my data** From what I can tell the app is maintained by a small team of 2. There is no magic algorithm, suggestions, ads, i.e. suspicious intelligence. Furthermore, the project is [open source](https://github.com/feedbin/feedbin), though it's not recommended to run your own instance. And even then, no one is stopping you - just don't expect official support.\n \nI've been steadily migrating what I follow from a zillion of places to the feed reader - email, bookmarks, Twitter, Medium. It's been extremely smooth. Only in one case I needed to use a feed generator ([FetchRSS](http://fetchrss.com/)), yet to see if this works well enough - but, hey, there is this option for stubborn sites, too.\n\nThat's it for now. Hope someone found something useful. If you have any tips, hit me up 🙏\n",
-				"date_published": "2022-07-23T12:17:01+03:00",
+				"date_published": "2022-07-23T11:17:01+02:00",
 				"url": "https://microblog.todor.cc/2022/07/23/down-the-rss.html",
 				"tags": ["Technology"]
 			},
@@ -1130,7 +1148,7 @@
 				
 				"content_html": "<p>💾 <a href=\"https://micro.blog/help\">@help</a> [Feature request] Would be useful to have a link to the corresponding conversations from Posts and Replies. Similar to Mentions. It will make it easier to refer to related conversations in current and future discussions.</p>\n",
 				"content_text": "💾 [@help](https://micro.blog/help) [Feature request] Would be useful to have a link to the corresponding conversations from Posts and Replies. Similar to Mentions. It will make it easier to refer to related conversations in current and future discussions.\n",
-				"date_published": "2022-07-22T12:33:25+03:00",
+				"date_published": "2022-07-22T11:33:25+02:00",
 				"url": "https://microblog.todor.cc/2022/07/22/help-feature-request.html",
 				"tags": ["Technology"]
 			},
@@ -1139,7 +1157,7 @@
 				
 				"content_html": "<p>💻💬 <a href=\"https://www.profgalloway.com/enablers/\">Scott Galloway, Enablers</a>:</p>\n<blockquote>\n<p>The “idolatry of innovators,” leads to the misguided notion that people (usually men) of great achievement (usually in tech) should not be criticized, are not bound by a code of ethics, and are above the law.</p>\n</blockquote>\n",
 				"content_text": "💻💬 [Scott Galloway, Enablers](https://www.profgalloway.com/enablers/):\n\n> The “idolatry of innovators,” leads to the misguided notion that people (usually men) of great achievement (usually in tech) should not be criticized, are not bound by a code of ethics, and are above the law.\n",
-				"date_published": "2022-07-22T11:27:40+03:00",
+				"date_published": "2022-07-22T10:27:40+02:00",
 				"url": "https://microblog.todor.cc/2022/07/22/102740.html",
 				"tags": ["Management"]
 			},
@@ -1148,7 +1166,7 @@
 				
 				"content_html": "<p>💾❓🍔 Feedbin + ✴️ Micro.blog query. There is already pretty nice integration. Only thing lacking is interaction. Is it possible to reply to a conversation directly from Feedbin? If not, is there an easy way to navigate to the conversation as to reply from Micro.blog?</p>\n",
 				"content_text": "💾❓🍔 Feedbin + ✴️ Micro.blog query. There is already pretty nice integration. Only thing lacking is interaction. Is it possible to reply to a conversation directly from Feedbin? If not, is there an easy way to navigate to the conversation as to reply from Micro.blog?\n",
-				"date_published": "2022-07-19T23:48:03+03:00",
+				"date_published": "2022-07-19T22:48:03+02:00",
 				"url": "https://microblog.todor.cc/2022/07/19/feedbin-microblog-query.html",
 				"tags": ["Technology"]
 			},
@@ -1157,7 +1175,7 @@
 				
 				"content_html": "<p>📓 In the morning as I was dressing up, I saw a little snake 🐍 crawl into our suitcase 😱Released it smoothly. It made a second attempt to get through the window later on. Poor snake wants to escape the unnatural heat. Reminder to leave a bowl of water 💦 outside for wildlife.</p>\n",
 				"content_text": "📓 In the morning as I was dressing up, I saw a little snake 🐍 crawl into our suitcase 😱Released it smoothly. It made a second attempt to get through the window later on. Poor snake wants to escape the unnatural heat. Reminder to leave a bowl of water 💦 outside for wildlife.\n",
-				"date_published": "2022-07-19T13:23:43+03:00",
+				"date_published": "2022-07-19T12:23:43+02:00",
 				"url": "https://microblog.todor.cc/2022/07/19/in-the-morning.html",
 				"tags": ["Casual"]
 			},
@@ -1166,7 +1184,7 @@
 				
 				"content_html": "<p>🎮 Remember <a href=\"https://www.imdb.com/title/tt1942884\">Indie Game: The Movie</a>? It’s been 10 years. Dare I say it feels even longer. This documentary told such emotional stories.  Need to dig up my Humble Bundle (remember when that was cool, too) account and watch it again.</p>\n",
 				"content_text": "🎮 Remember [Indie Game: The Movie](https://www.imdb.com/title/tt1942884)? It’s been 10 years. Dare I say it feels even longer. This documentary told such emotional stories.  Need to dig up my Humble Bundle (remember when that was cool, too) account and watch it again.\n",
-				"date_published": "2022-07-18T11:38:14+03:00",
+				"date_published": "2022-07-18T10:38:14+02:00",
 				"url": "https://microblog.todor.cc/2022/07/18/remember-indie-game.html",
 				"tags": ["Casual","Gaming"]
 			},
@@ -1175,7 +1193,7 @@
 				
 				"content_html": "<p>📓📷 Lourmarin is beautiful, hot 🥵 and we’re moving slowly… for other reasons. 🐈</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷 Lourmarin is beautiful, hot 🥵 and we’re moving slowly… for other reasons. 🐈 \n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/4ee2940074.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-07-15T13:36:41+03:00",
+				"date_published": "2022-07-15T12:36:41+02:00",
 				"url": "https://microblog.todor.cc/2022/07/15/lourmarin-is-beautiful.html",
 				"tags": ["Casual"]
 			},
@@ -1184,7 +1202,7 @@
 				
 				"content_html": "<p>💾 Found another use for my iPad - a power bank. Don’t have my iPhone’s power brick on me, but the USB-C Digital AV multiport adapter made it possible to charge my phone from the iPad. Pity the adapter is too smart to just work with the iPad’s power brick. 👨🏻‍🔧</p>\n",
 				"content_text": "💾 Found another use for my iPad - a power bank. Don’t have my iPhone’s power brick on me, but the USB-C Digital AV multiport adapter made it possible to charge my phone from the iPad. Pity the adapter is too smart to just work with the iPad’s power brick. 👨🏻‍🔧\n",
-				"date_published": "2022-07-15T12:31:21+03:00",
+				"date_published": "2022-07-15T11:31:21+02:00",
 				"url": "https://microblog.todor.cc/2022/07/15/found-another-use.html",
 				"tags": ["Technology"]
 			},
@@ -1193,7 +1211,7 @@
 				
 				"content_html": "<p>💾📝 Shoutout to <a href=\"https://micro.blog/sod\">@sod</a> for the amazing <a href=\"https://github.com/svendahlstrand/plugin-conversation-on-mb\">🏕 Conversation on Micro.blog</a> and <a href=\"https://github.com/svendahlstrand/plugin-reply-by-email\">✍️ Reply by email for Micro.blog</a> plug-ins! Absolute ✴️ Micro.blog essentials!</p>\n",
 				"content_text": "💾📝 Shoutout to [@sod](https://micro.blog/sod) for the amazing [🏕 Conversation on Micro.blog](https://github.com/svendahlstrand/plugin-conversation-on-mb) and [✍️ Reply by email for Micro.blog](https://github.com/svendahlstrand/plugin-reply-by-email) plug-ins! Absolute ✴️ Micro.blog essentials!\n",
-				"date_published": "2022-07-12T15:04:22+03:00",
+				"date_published": "2022-07-12T14:04:22+02:00",
 				"url": "https://microblog.todor.cc/2022/07/12/shoutout-to-sod.html",
 				"tags": ["Technology"]
 			},
@@ -1202,7 +1220,7 @@
 				
 				"content_html": "<p>💻 If you are interested in the topic of diversity quotas, check out this short <a href=\"https://web.archive.org/web/20220710103853/https://www.economist.com/graphic-detail/2022/06/30/young-children-may-benefit-from-having-more-male-teachers\">Economist article (Internet Archive)</a>. My takeaways: 1️⃣ effects of quotas can be substantial, and in this case, positive 2️⃣ quotas can be a corrective yet discriminative tool.</p>\n<p>Photo:  <a href=\"https://unsplash.com/@diesektion\">Robert Anasch</a></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "💻 If you are interested in the topic of diversity quotas, check out this short [Economist article (Internet Archive)](https://web.archive.org/web/20220710103853/https://www.economist.com/graphic-detail/2022/06/30/young-children-may-benefit-from-having-more-male-teachers). My takeaways: 1️⃣ effects of quotas can be substantial, and in this case, positive 2️⃣ quotas can be a corrective yet discriminative tool.\n\nPhoto:  [Robert Anasch](https://unsplash.com/@diesektion)\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/7d203cefdf.jpg\" width=\"600\" height=\"408\" alt=\"\" />\n",
-				"date_published": "2022-07-11T17:43:20+03:00",
+				"date_published": "2022-07-11T16:43:20+02:00",
 				"url": "https://microblog.todor.cc/2022/07/11/if-you-are.html",
 				"tags": ["Management"]
 			},
@@ -1211,7 +1229,7 @@
 				
 				"content_html": "<p>📓📷🌱After a multi-day weeding sesh, there’s resemblance of pathways in our vegetable patch. Feels rewarding to see immediate outcomes and <a href=\"https://youtu.be/_Jm9FjpWO-0\">reclaim some nutrients</a> for the compost pile 👨🏻‍🌾</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓📷🌱After a multi-day weeding sesh, there’s resemblance of pathways in our vegetable patch. Feels rewarding to see immediate outcomes and [reclaim some nutrients](https://youtu.be/_Jm9FjpWO-0 ) for the compost pile 👨🏻‍🌾\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/921e3d2856.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-07-11T15:15:29+03:00",
+				"date_published": "2022-07-11T14:15:29+02:00",
 				"url": "https://microblog.todor.cc/2022/07/11/after-a-multiday.html",
 				"tags": ["Casual"]
 			},
@@ -1220,7 +1238,7 @@
 				
 				"content_html": "<p>📓 Starting vacation on an overcast, shortly rainy, day with a satisfying Americano and a piece of dark chocolate, nam! ☕️</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📓 Starting vacation on an overcast, shortly rainy, day with a satisfying Americano and a piece of dark chocolate, nam! ☕️\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/451a5ea27b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-07-09T12:27:39+03:00",
+				"date_published": "2022-07-09T11:27:39+02:00",
 				"url": "https://microblog.todor.cc/2022/07/09/starting-vacation-on.html",
 				"tags": ["Casual"]
 			},
@@ -1229,7 +1247,7 @@
 				
 				"content_html": "<p>💻 Commendable <a href=\"https://www.kela.fi/web/en/parental-allowances-after-4-9-2022\">reform of parental allowances in Finland</a>. The flexibility of transferrable days, however, still keeps the door open for negative effects. Cultural biases and unequal pay can still swing the balance wrong. Steps in the right direction nevertheless! 👨‍👨‍👧</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "💻 Commendable [reform of parental allowances in Finland](https://www.kela.fi/web/en/parental-allowances-after-4-9-2022). The flexibility of transferrable days, however, still keeps the door open for negative effects. Cultural biases and unequal pay can still swing the balance wrong. Steps in the right direction nevertheless! 👨‍👨‍👧\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/fd49b574e2.png\" width=\"600\" height=\"397\" alt=\"\" />\n",
-				"date_published": "2022-07-08T11:34:46+03:00",
+				"date_published": "2022-07-08T10:34:46+02:00",
 				"url": "https://microblog.todor.cc/2022/07/08/commendable-reform-of.html",
 				"tags": ["Management"]
 			},
@@ -1238,7 +1256,7 @@
 				
 				"content_html": "<p>💾📝 New to micro.blog. Can I cross-post only certain categories? E.g. I wouldn’t like to cross-post category “Personal” to LinkedIn.</p>\n",
 				"content_text": "💾📝 New to micro.blog. Can I cross-post only certain categories? E.g. I wouldn’t like to cross-post category “Personal” to LinkedIn.\n",
-				"date_published": "2022-07-05T20:08:10+03:00",
+				"date_published": "2022-07-05T19:08:10+02:00",
 				"url": "https://microblog.todor.cc/2022/07/05/new-to-microblog.html",
 				"tags": ["Technology"]
 			},
@@ -1247,7 +1265,7 @@
 				
 				"content_html": "<p>💻 Companies embrace hybrid and gather a lot of feedback. Yet there seems to be little new in design for software teams. More of open floor plans and, if lucky, a bit less overbooked &ldquo;booths&rdquo; and collaboration spaces. Any dev here loving their office space? Why?</p>\n<p>Photo: <a href=\"https://unsplash.com/@anniespratt\">Annie Spratt</a></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "💻 Companies embrace hybrid and gather a lot of feedback. Yet there seems to be little new in design for software teams. More of open floor plans and, if lucky, a bit less overbooked \"booths\" and collaboration spaces. Any dev here loving their office space? Why?\n\nPhoto: [Annie Spratt](https://unsplash.com/@anniespratt)\n\n<img src=\"https://todorvlaev.micro.blog/uploads/2022/4c239da95b.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n",
-				"date_published": "2022-07-05T16:47:52+03:00",
+				"date_published": "2022-07-05T15:47:52+02:00",
 				"url": "https://microblog.todor.cc/2022/07/05/companies-embrace-hybrid.html",
 				"tags": ["Management"]
 			}
