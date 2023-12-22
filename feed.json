@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://todorvlaev.micro.blog/2023/12/22/its-hard-to.html",
+				
+				"content_html": "<p>💻 It&rsquo;s hard to get company&rsquo;s year-end messages right this year. Especially when many people lost their jobs and colleagues to layoffs. My LinkedIn feed is a mixture of #opentowork posts and &ldquo;profound&rdquo; reflections of great achievements&hellip; coming from the same companies. It stings. While life goes on and we should celebrate another trip around the Sun, I think we can benefit from more humility.</p>\n",
+				"content_text": "💻 It's hard to get company's year-end messages right this year. Especially when many people lost their jobs and colleagues to layoffs. My LinkedIn feed is a mixture of #opentowork posts and \"profound\" reflections of great achievements... coming from the same companies. It stings. While life goes on and we should celebrate another trip around the Sun, I think we can benefit from more humility.\n",
+				"date_published": "2023-12-22T10:32:43+02:00",
+				"url": "https://microblog.todor.cc/2023/12/22/its-hard-to.html",
+				"tags": ["Management"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2023/12/17/i-am-on.html",
+				
+				"content_html": "<p>🎮 I am on a trip for 10 days which means I left my PC behind. Figured I’d try GeForce Now on a Samsung TV. It’s running Alan Wake II better than my home setup. 😐 Sure, the underlying cloud rig is better than what I have, 4080 vs 4070, but the quality still leaves me stunned.</p>\n",
+				"content_text": "🎮 I am on a trip for 10 days which means I left my PC behind. Figured I’d try GeForce Now on a Samsung TV. It’s running Alan Wake II better than my home setup. 😐 Sure, the underlying cloud rig is better than what I have, 4080 vs 4070, but the quality still leaves me stunned.\n",
+				"date_published": "2023-12-17T23:55:19+02:00",
+				"url": "https://microblog.todor.cc/2023/12/17/i-am-on.html",
+				"tags": ["Gaming"]
+			},
+			{
 				"id": "http://todorvlaev.micro.blog/2023/12/16/one-of-the.html",
 				
 				"content_html": "<p>One of the nine hells is perpetual flight travel with connecting flights 🛫 And most importantly - filled with people flying for the first time.</p>\n",
