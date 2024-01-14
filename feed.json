@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://todorvlaev.micro.blog/2024/01/14/streaks-is-an.html",
+				
+				"content_html": "<p>💾 <a href=\"https://streaksapp.com\">Streaks</a> is an amazing app. Every NY I return to it (for obvious reasons 😅). Its super power is simplicity. Super impressed with the team who manage to add more continuously, while keeping complexity in check. I’ve now slotted Streaks snuggly in my daily workflow.</p>\n",
+				"content_text": "💾 [Streaks](https://streaksapp.com) is an amazing app. Every NY I return to it (for obvious reasons 😅). Its super power is simplicity. Super impressed with the team who manage to add more continuously, while keeping complexity in check. I’ve now slotted Streaks snuggly in my daily workflow.\n",
+				"date_published": "2024-01-14T12:23:33+02:00",
+				"url": "https://microblog.todor.cc/2024/01/14/streaks-is-an.html",
+				"tags": ["Technology"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2024/01/08/after-a-week.html",
+				
+				"content_html": "<p>📓 After a week of temperatures closer to -20C, walking the dogs at -5C feels like spring is coming. 😅 Snapshot from the wintery city landscape in Helsinki from last weekend. 📷 Alt text courtesy of Bing chat 🤷🏻‍♂️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📓 After a week of temperatures closer to -20C, walking the dogs at -5C feels like spring is coming. 😅 Snapshot from the wintery city landscape in Helsinki from last weekend. 📷 Alt text courtesy of Bing chat 🤷🏻‍♂️\n\n<img src=\"uploads/2024/c7f5fba68c.jpg\" width=\"600\" height=\"450\" alt=\"A snow-covered city with buildings and construction cranes silhouetted against a blue and orange sunset sky.\">\n",
+				"date_published": "2024-01-08T23:45:04+02:00",
+				"url": "https://microblog.todor.cc/2024/01/08/after-a-week.html",
+				"tags": ["Casual"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2024/01/07/flow-metrics-for.html",
+				
+				"content_html": "<p>💻 <a href=\"https://prokanban.org/wp-content/uploads/2022/08/flowmetricsforscrumteams.pdf\">Flow Metrics for Scrum Teams (PDF)</a></p>\n<blockquote>\n<p>The dirty little secret of MCS [Monte Carlo Simulation] is that we are assuming that the future we are modeling roughly looks like the past we have data for. The beauty of using professional Scrum is that in most contexts this is a safe assumption.</p>\n</blockquote>\n<p>You call it a &ldquo;dirty little secret&rdquo;, I call it a major stink 🤷🏻‍♂️ Anyway, still keeping an open mind, this book is a very good resource if you find yourself in the midst of an agile transformation (especially one that puts emphasis on estimates). Like we all do every few years. Ha. ha. ha. 🥁</p>\n",
+				"content_text": "💻 [Flow Metrics for Scrum Teams \\(PDF\\)](https://prokanban.org/wp-content/uploads/2022/08/flowmetricsforscrumteams.pdf)\n\n> The dirty little secret of MCS \\[Monte Carlo Simulation\\] is that we are assuming that the future we are modeling roughly looks like the past we have data for. The beauty of using professional Scrum is that in most contexts this is a safe assumption.\n\nYou call it a \"dirty little secret\", I call it a major stink 🤷🏻‍♂️ Anyway, still keeping an open mind, this book is a very good resource if you find yourself in the midst of an agile transformation (especially one that puts emphasis on estimates). Like we all do every few years. Ha. ha. ha. 🥁\n",
+				"date_published": "2024-01-07T19:06:47+02:00",
+				"url": "https://microblog.todor.cc/2024/01/07/flow-metrics-for.html",
+				"tags": ["Management"]
+			},
+			{
 				"id": "http://todorvlaev.micro.blog/2024/01/07/homemade-chai-latte.html",
 				
 				"content_html": "<p>📓 Home-made chai latte, incense stick, headphones on - it&rsquo;s going to be a particularly zen weekly review. 🧘‍♂️</p>\n",
