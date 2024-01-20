@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://todorvlaev.micro.blog/2024/01/18/how-i-miss.html",
+				
+				"content_html": "<p>💾 How I miss <a href=\"https://culturedcode.com/things/\">Things</a>. It&rsquo;s truly a usability masterpiece. Decided to drop it for 2 reasons - not cleared at work (especially the cloud bit); too separate from my notes and writing. Imagine if they entered the editor space and integrated the tasks alongside notes seamlessly. One can dream.</p>\n",
+				"content_text": "💾 How I miss [Things](https://culturedcode.com/things/). It's truly a usability masterpiece. Decided to drop it for 2 reasons - not cleared at work (especially the cloud bit); too separate from my notes and writing. Imagine if they entered the editor space and integrated the tasks alongside notes seamlessly. One can dream.\n",
+				"date_published": "2024-01-18T23:05:31+02:00",
+				"url": "https://microblog.todor.cc/2024/01/18/how-i-miss.html",
+				"tags": ["Technology"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2024/01/14/together-we-are.html",
+				
+				"content_html": "<p>📓📷 Together we are safe (from the vacuum cleaner)!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📓📷 Together we are safe (from the vacuum cleaner)!\n\n<img src=\"uploads/2024/3ba2d0cf05.jpg\" width=\"600\" height=\"450\" alt=\"Two dogs resting on a cozy couch surrounded by patterned cushions.\">\n",
+				"date_published": "2024-01-14T17:58:35+02:00",
+				"url": "https://microblog.todor.cc/2024/01/14/together-we-are.html",
+				"tags": ["Casual"]
+			},
+			{
 				"id": "http://todorvlaev.micro.blog/2024/01/14/streaks-is-an.html",
 				
 				"content_html": "<p>💾 <a href=\"https://streaksapp.com\">Streaks</a> is an amazing app. Every NY I return to it (for obvious reasons 😅). Its super power is simplicity. Super impressed with the team who manage to add more continuously, while keeping complexity in check. I’ve now slotted Streaks snuggly in my daily workflow.</p>\n",
