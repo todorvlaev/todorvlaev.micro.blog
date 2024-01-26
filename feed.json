@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://todorvlaev.micro.blog/2024/01/26/if-the-feedback.html",
+				
+				"content_html": "<blockquote>\n<p>&ldquo;If the feedback takes more than a few minutes, add more machines. CPU hours are cheaper than developer context switches and idle time.&rdquo;</p>\n</blockquote>\n<ul>\n<li>James A. Whittaker, Jason Arbon, Jeff Carollo, How Google Tests Software</li>\n</ul>\n<p>Those were the times. Now we live in a culture of cost-efficiency that sacrifices developer experience without batting an eye. Cloud bills are much more tangible cost than loss of productivity to the average exec. This trend also tells an unpalatable story about the amount of work without impact.</p>\n",
+				"content_text": "> \"If the feedback takes more than a few minutes, add more machines. CPU hours are cheaper than developer context switches and idle time.\"\n\n- James A. Whittaker, Jason Arbon, Jeff Carollo, How Google Tests Software\n\nThose were the times. Now we live in a culture of cost-efficiency that sacrifices developer experience without batting an eye. Cloud bills are much more tangible cost than loss of productivity to the average exec. This trend also tells an unpalatable story about the amount of work without impact.\n",
+				"date_published": "2024-01-26T22:22:31+02:00",
+				"url": "https://microblog.todor.cc/2024/01/26/if-the-feedback.html",
+				"tags": ["Management"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2024/01/21/once-upon-a.html",
+				
+				"content_html": "<p>💾 Once upon a time, I was interested in writing reliable and efficient shell scripts. Using shell builtins was an eye-opener. Today I remembered about <a href=\"https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html#tag_18_06_02\">parameter expansion</a>:</p>\n<pre><code>mystr=&quot;$(uname -o)&quot;\n\n# If we find &quot;Linux&quot;, we get an empty string\n[ ! -n &quot;${mystr##*Linux*}&quot; ] &amp;&amp; printf &quot;We are on Linux.\\n&quot;\n</code></pre>\n",
+				"content_text": "💾 Once upon a time, I was interested in writing reliable and efficient shell scripts. Using shell builtins was an eye-opener. Today I remembered about [parameter expansion](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html#tag_18_06_02):\n\n    mystr=\"$(uname -o)\"\n\n    # If we find \"Linux\", we get an empty string\n    [ ! -n \"${mystr##*Linux*}\" ] && printf \"We are on Linux.\\n\"\n",
+				"date_published": "2024-01-21T12:43:13+02:00",
+				"url": "https://microblog.todor.cc/2024/01/21/once-upon-a.html",
+				"tags": ["Technology"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2024/01/20/kudos-to-mikehaynes.html",
+				
+				"content_html": "<p>💾 Kudos to <a href=\"https://micro.blog/mikehaynes\">@mikehaynes</a> for the excellent <a href=\"https://github.com/heymikehaynes/theme-outpost\">Outpost theme</a>! Just the refresh I was looking for, and it was so easy to customize based on my previous theme.</p>\n",
+				"content_text": "💾 Kudos to [@mikehaynes](https://micro.blog/mikehaynes) for the excellent [Outpost theme](https://github.com/heymikehaynes/theme-outpost)! Just the refresh I was looking for, and it was so easy to customize based on my previous theme.\n",
+				"date_published": "2024-01-20T22:24:04+02:00",
+				"url": "https://microblog.todor.cc/2024/01/20/kudos-to-mikehaynes.html",
+				"tags": ["Technology"]
+			},
+			{
 				"id": "http://todorvlaev.micro.blog/2024/01/18/how-i-miss.html",
 				
 				"content_html": "<p>💾 How I miss <a href=\"https://culturedcode.com/things/\">Things</a>. It&rsquo;s truly a usability masterpiece. Decided to drop it for 2 reasons - not cleared at work (especially the cloud bit); too separate from my notes and writing. Imagine if they entered the editor space and integrated the tasks alongside notes seamlessly. One can dream.</p>\n",
