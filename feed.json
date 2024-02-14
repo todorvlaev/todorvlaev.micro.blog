@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://todorvlaev.micro.blog/2024/02/14/bullet-train-is.html",
+				
+				"content_html": "<p>🍿 Bullet Train 🚅 is the right kind of silly I needed today.</p>\n",
+				"content_text": "🍿 Bullet Train 🚅 is the right kind of silly I needed today.\n",
+				"date_published": "2024-02-14T23:45:09+02:00",
+				"url": "https://microblog.todor.cc/2024/02/14/bullet-train-is.html"
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2024/02/11/when-i-ask.html",
+				
+				"content_html": "<p>📓 When I ask for a shopping list from my partner, invariably there is 1 “impossible” ingredient. It’s either not available in every store, it’s sold out, or it requires next level treasure hunting skills to find the right isle. Either way - one does not simply get everything on the list. 👌</p>\n",
+				"content_text": "📓 When I ask for a shopping list from my partner, invariably there is 1 “impossible” ingredient. It’s either not available in every store, it’s sold out, or it requires next level treasure hunting skills to find the right isle. Either way - one does not simply get everything on the list. 👌\n",
+				"date_published": "2024-02-11T15:31:31+02:00",
+				"url": "https://microblog.todor.cc/2024/02/11/when-i-ask.html",
+				"tags": ["Casual"]
+			},
+			{
 				"id": "http://todorvlaev.micro.blog/2024/02/09/i-cant-believe.html",
 				
 				"content_html": "<p>📱 I can’t believe it - I can’t close all my Activity rings because of 1 stand hour, multiple days in row 🤦🏻‍♂️ It will break my weekly streak and most likely it’s due to having the watch off charging here and there 😡</p>\n",
@@ -26,8 +43,8 @@
 			{
 				"id": "http://todorvlaev.micro.blog/2024/02/04/its-been-a.html",
 				
-				"content_html": "<p>📓 It&rsquo;s been a week that feels like a month. Reviewing my daily journal helped me recollect a lot, even though I felt it in my bones. One theme I&rsquo;ve paid special attention to is what recharged me 🔋:</p>\n<ul>\n<li>Walks, strictly not in a rush</li>\n<li>Deep work - thinking and &ldquo;designing&rdquo;</li>\n<li>Solid mid-day brakes</li>\n</ul>\n",
-				"content_text": "📓 It's been a week that feels like a month. Reviewing my daily journal helped me recollect a lot, even though I felt it in my bones. One theme I've paid special attention to is what recharged me 🔋:\n\n- Walks, strictly not in a rush\n- Deep work - thinking and \"designing\"\n- Solid mid-day brakes\n",
+				"content_html": "<p>📓 It&rsquo;s been a week that feels like a month. Reviewing my daily journal helped me recollect a lot, even though I felt it in my bones. One theme I&rsquo;ve paid special attention to is what recharged me 🔋:</p>\n<ul>\n<li>Walks, strictly not in a rush</li>\n<li>Deep work - thinking and &ldquo;designing&rdquo;</li>\n<li>Solid mid-day breaks</li>\n</ul>\n",
+				"content_text": "📓 It's been a week that feels like a month. Reviewing my daily journal helped me recollect a lot, even though I felt it in my bones. One theme I've paid special attention to is what recharged me 🔋:\n\n- Walks, strictly not in a rush\n- Deep work - thinking and \"designing\"\n- Solid mid-day breaks\n",
 				"date_published": "2024-02-04T21:50:37+02:00",
 				"url": "https://microblog.todor.cc/2024/02/04/its-been-a.html",
 				"tags": ["Casual"]
