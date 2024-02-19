@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://todorvlaev.micro.blog/2024/02/19/i-value-the.html",
+				
+				"content_html": "<p>📓 I value The Economist as publication but their subscription cancellation process uses several dark patterns. 🙅🏻‍♂️ For example, they offer you a discount for renewal (could be nice but still) and just now I had to chat with a person to cancel (who tried to offer me discounts).</p>\n",
+				"content_text": "📓 I value The Economist as publication but their subscription cancellation process uses several dark patterns. 🙅🏻‍♂️ For example, they offer you a discount for renewal (could be nice but still) and just now I had to chat with a person to cancel (who tried to offer me discounts).\n",
+				"date_published": "2024-02-19T18:12:55+02:00",
+				"url": "https://microblog.todor.cc/2024/02/19/i-value-the.html",
+				"tags": ["Casual"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2024/02/15/conversed-a-bit.html",
+				
+				"content_html": "<p>💾 Conversed a bit with ChatGPT about GPU rendering pipelines. Now that I&rsquo;m testing Pro, figured I&rsquo;d ask it to generate a diagram as well. DALL-E has a different &ldquo;brain&rdquo;. Welp, I guess it makes for a nice T-shirt design&hellip; from afar.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "💾 Conversed a bit with ChatGPT about GPU rendering pipelines. Now that I'm testing Pro, figured I'd ask it to generate a diagram as well. DALL-E has a different \"brain\". Welp, I guess it makes for a nice T-shirt design... from afar.\n\n<img src=\"uploads/2024/b9f83505ba.jpg\" width=\"600\" height=\"600\" alt=\"AI-generated diagram of a GPU rendering pipeline showing complete gibberish of connected boxes and misspelled text.\">\n",
+				"date_published": "2024-02-15T23:47:55+02:00",
+				"url": "https://microblog.todor.cc/2024/02/15/conversed-a-bit.html",
+				"tags": ["Technology"]
+			},
+			{
 				"id": "http://todorvlaev.micro.blog/2024/02/14/bullet-train-is.html",
 				
 				"content_html": "<p>🍿 Bullet Train 🚅 is the right kind of silly I needed today.</p>\n",
