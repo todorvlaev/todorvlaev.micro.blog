@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://todorvlaev.micro.blog/2024/06/08/i-had-to.html",
+				
+				"content_html": "<p>📓I had to make several difficult decisions during the past week. Needed to lean more on my analitical self than my heart. I just have to trust that the time for pursuing one of my dreams had simply not come. It felt very close. Playing the long game.</p>\n",
+				"content_text": "📓I had to make several difficult decisions during the past week. Needed to lean more on my analitical self than my heart. I just have to trust that the time for pursuing one of my dreams had simply not come. It felt very close. Playing the long game.\n",
+				"date_published": "2024-06-08T11:22:55+03:00",
+				"url": "https://microblog.todor.cc/2024/06/08/i-had-to.html",
+				"tags": ["Casual"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2024/05/27/there-is-more.html",
+				
+				"content_html": "<p>💾 There is more to artificial general intelligence, and my own human intelligence, than putting the most likely word in front of the other. Yes, it&rsquo;s a reductive comment.</p>\n",
+				"content_text": "💾 There is more to artificial general intelligence, and my own human intelligence, than putting the most likely word in front of the other. Yes, it's a reductive comment.\n",
+				"date_published": "2024-05-27T10:58:50+03:00",
+				"url": "https://microblog.todor.cc/2024/05/27/there-is-more.html",
+				"tags": ["Technology"]
+			},
+			{
 				"id": "http://todorvlaev.micro.blog/2024/05/26/reminder-to-self.html",
 				"title": "💾 Reminder to self: don't buy cheapo SD cards",
-				"content_html": "<p>We needed an SD card urgently and just bought a cheap one from a basic department store. I should know better, as I&rsquo;ve worked professionally with SD card benchmarking and filesystems&hellip; but still thought &ldquo;We just need a few photos, how bad can it be?&rdquo;. Turns out - really bad.</p>\n<p>The card got corrupted after first use, refused reformatting and repartitioning (only 2/32GB were useable). Luckily, I managed to salvage the photos from this first photo session - total luck. Btw, not all repair tools are made equal. The macOS built-in <code>fsck</code> didn&rsquo;t do the job, but the one from <code>dosfstools</code> did the trick.</p>\n<p>Anyway - don&rsquo;t buy the cheapest card you find from your department store, if you care about what you keep on it that is.</p>\n",
-				"content_text": "We needed an SD card urgently and just bought a cheap one from a basic department store. I should know better, as I've worked professionally with SD card benchmarking and filesystems... but still thought \"We just need a few photos, how bad can it be?\". Turns out - really bad.\r\n\r\nThe card got corrupted after first use, refused reformatting and repartitioning (only 2/32GB were useable). Luckily, I managed to salvage the photos from this first photo session - total luck. Btw, not all repair tools are made equal. The macOS built-in `fsck` didn't do the job, but the one from `dosfstools` did the trick.\r\n\r\nAnyway - don't buy the cheapest card you find from your department store, if you care about what you keep on it that is.\n",
+				"content_html": "<p>We needed an SD card urgently and just bought a cheap one from a basic department store. I should know better, as I&rsquo;ve worked professionally with SD card benchmarking and filesystems&hellip; but still thought &ldquo;We just need a few photos, how bad can it be?&rdquo;. Turns out - really bad.</p>\n<p>The card got corrupted after first use, refused reformatting and repartitioning (only 2/32GB were useable). I managed to salvage the photos from this first photo session - total luck. Btw, not all repair tools are made equal. The macOS built-in <code>fsck</code> didn&rsquo;t do the job, but the one from <code>dosfstools</code> did the trick.</p>\n<p>Anyway - don&rsquo;t buy the cheapest card you find from your department store, if you care about what you keep on it that is.</p>\n",
+				"content_text": "We needed an SD card urgently and just bought a cheap one from a basic department store. I should know better, as I've worked professionally with SD card benchmarking and filesystems... but still thought \"We just need a few photos, how bad can it be?\". Turns out - really bad.\r\n\r\nThe card got corrupted after first use, refused reformatting and repartitioning (only 2/32GB were useable). I managed to salvage the photos from this first photo session - total luck. Btw, not all repair tools are made equal. The macOS built-in `fsck` didn't do the job, but the one from `dosfstools` did the trick.\r\n\r\nAnyway - don't buy the cheapest card you find from your department store, if you care about what you keep on it that is.\n",
 				"date_published": "2024-05-26T22:17:22+03:00",
 				"url": "https://microblog.todor.cc/2024/05/26/reminder-to-self.html",
 				"tags": ["Technology"]
@@ -90,8 +108,8 @@
 			{
 				"id": "http://todorvlaev.micro.blog/2024/03/19/theres-a-correlation.html",
 				
-				"content_html": "<p>📓 There’s a correlation between my dogs barking in their sleep and them spotting a rabbit on our evening walk. 🐶🐇</p>\n",
-				"content_text": "📓 There’s a correlation between my dogs barking in their sleep and them spotting a rabbit on our evening walk. 🐶🐇\n",
+				"content_html": "<p>📓 There’s correlation between my dogs barking in their sleep and them spotting a rabbit on our evening walk. 🐶🐇</p>\n",
+				"content_text": "📓 There’s correlation between my dogs barking in their sleep and them spotting a rabbit on our evening walk. 🐶🐇\n",
 				"date_published": "2024-03-19T02:03:08+03:00",
 				"url": "https://microblog.todor.cc/2024/03/19/theres-a-correlation.html",
 				"tags": ["Casual"]
