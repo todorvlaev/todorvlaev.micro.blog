@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://todorvlaev.micro.blog/2024/06/13/many-exciting-and.html",
+				
+				"content_html": "<p>💾 Many exciting and deeply technical news from WWDC&hellip; But you know what simple usability improvement I&rsquo;m excited about - native window tiling in Sequoia, with keyboard shortcuts. We&rsquo;ve suffered for so long. Rectangle did wonders but it had its hiccups.</p>\n",
+				"content_text": "💾 Many exciting and deeply technical news from WWDC... But you know what simple usability improvement I'm excited about - native window tiling in Sequoia, with keyboard shortcuts. We've suffered for so long. Rectangle did wonders but it had its hiccups.\n",
+				"date_published": "2024-06-13T12:52:25+03:00",
+				"url": "https://microblog.todor.cc/2024/06/13/many-exciting-and.html",
+				"tags": ["Technology"]
+			},
+			{
+				"id": "http://todorvlaev.micro.blog/2024/06/10/helsinki-has-nature.html",
+				
+				"content_html": "<p>📓 Helsinki has nature even close to the heart of the city. As I’m enjoying one such oasis, what is not seen in a photo is noise pollution. You can always hear the monotonous grind of the roads. I wonder if we’ll ever solve this problem in the future.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📓 Helsinki has nature even close to the heart of the city. As I’m enjoying one such oasis, what is not seen in a photo is noise pollution. You can always hear the monotonous grind of the roads. I wonder if we’ll ever solve this problem in the future.\n\n<img src=\"uploads/2024/50bbcfc83c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-06-10T13:53:25+03:00",
+				"url": "https://microblog.todor.cc/2024/06/10/helsinki-has-nature.html",
+				"tags": ["Casual"]
+			},
+			{
 				"id": "http://todorvlaev.micro.blog/2024/06/08/i-had-to.html",
 				
-				"content_html": "<p>📓I had to make several difficult decisions during the past week. Needed to lean more on my analitical self than my heart. I just have to trust that the time for pursuing one of my dreams had simply not come. It felt very close. Playing the long game.</p>\n",
-				"content_text": "📓I had to make several difficult decisions during the past week. Needed to lean more on my analitical self than my heart. I just have to trust that the time for pursuing one of my dreams had simply not come. It felt very close. Playing the long game.\n",
+				"content_html": "<p>📓Had to make several difficult decisions during the past week. Needed to lean more on my analitical self than my heart. I just have to trust that the time for pursuing one of my dreams had simply not come. It felt very close. Playing the long game.</p>\n",
+				"content_text": "📓Had to make several difficult decisions during the past week. Needed to lean more on my analitical self than my heart. I just have to trust that the time for pursuing one of my dreams had simply not come. It felt very close. Playing the long game.\n",
 				"date_published": "2024-06-08T11:22:55+03:00",
 				"url": "https://microblog.todor.cc/2024/06/08/i-had-to.html",
 				"tags": ["Casual"]
