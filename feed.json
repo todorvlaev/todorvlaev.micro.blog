@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://todorvlaev.micro.blog/2024/09/01/cleaning-before-the.html",
+				
+				"content_html": "<p>📓 Cleaning before the party, cleaning after the party, but it was worth it. Sending off our summer vacation in style and with a bang.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📓 Cleaning before the party, cleaning after the party, but it was worth it. Sending off our summer vacation in style and with a bang.\n\n<img src=\"uploads/2024/75f9a9ac49.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-09-01T23:47:44+03:00",
+				"url": "https://microblog.todor.cc/2024/09/01/cleaning-before-the.html",
+				"tags": ["Casual"]
+			},
+			{
 				"id": "http://todorvlaev.micro.blog/2024/08/08/the-latest-df.html",
 				
 				"content_html": "<p>🎮 The latest <a href=\"https://www.digitalfoundry.net/df-direct-weekly-174-star-wars-outlaws-ea-sports-rt-amd-afmf-2-tested-psvr-2-discounted\">DF Direct Weekly #174</a> is fire 🔥 Especially enjoyed the discussion about bespoke console tech and its intersection with PC. Spoiler - they haven’t fully converged. TIL current gen consoles have a dedicated hardware decompression unit.</p>\n",
@@ -46,7 +55,7 @@
 				"id": "http://todorvlaev.micro.blog/2024/07/05/as-is-tradition.html",
 				
 				"content_html": "<p>📓 As is tradition - my second Micro.blog cake day post 🎂 Just a random photo from Monday when we moved to a new home. Bernie’s “TV” was upgraded significantly.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📓 As is tradition - my second Micro.blog cake day post 🎂 Just a random photo from Monday when we moved to a new home. Bernie’s “TV” was upgraded significantly.\n\n<img src=\"uploads/2024/32e121f062.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "📓 As is tradition - my second Micro.blog cake day post 🎂 Just a random photo from Monday when we moved to a new home. Bernie’s “TV” was upgraded significantly.\n\n<img src=\"https://cdn.uploads.micro.blog/74413/2024/32e121f062.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-07-05T10:49:39+03:00",
 				"url": "https://microblog.todor.cc/2024/07/05/as-is-tradition.html",
 				"tags": ["Casual"]
