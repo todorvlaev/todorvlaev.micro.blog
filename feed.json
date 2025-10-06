@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://todorvlaev.micro.blog/2025/10/06/people-dream-of-multiuser-support.html",
+				
+				"content_html": "<p>💾 People dream of multi-user support on iPad&hellip; I don&rsquo;t think macOS has its shit together either. I constantly run into annoying issues with the shared home laptop. E.g. external drives mounting for the wrong user, networking issues (VPN or other weirdness). No problems with a single user. #endofrant</p>\n",
+				"content_text": "💾 People dream of multi-user support on iPad... I don't think macOS has its shit together either. I constantly run into annoying issues with the shared home laptop. E.g. external drives mounting for the wrong user, networking issues (VPN or other weirdness). No problems with a single user. #endofrant\n",
+				"date_published": "2025-10-06T15:58:58+03:00",
+				"url": "https://microblog.todor.cc/2025/10/06/people-dream-of-multiuser-support.html",
+				"tags": ["Technology"]
+			},
+			{
 				"id": "http://todorvlaev.micro.blog/2025/09/14/so-proud-of-finlands-team.html",
 				
 				"content_html": "<p>📓 So proud of Finland’s team in the basketball europeans 🇫🇮🏀. A dramatic loss to Greece in the bronze medals game. The final seconds reinforced the display of full dedication and maximum effort throughout the whole tournament.</p>\n",
@@ -1004,8 +1013,8 @@
 			{
 				"id": "http://todorvlaev.micro.blog/2023/05/23/omg-i-didnt.html",
 				
-				"content_html": "<p>📚 OMG, I didn’t expect how bad <a href=\"https://micro.blog/books/9780062273215\">The Hard Thing About Hard Things</a> is. Unless you are into narcissistic writing for startup bros, steer clear. Reached Chapter 3 and just can’t go on. Wasn’t prepared for that.</p>\n",
-				"content_text": "📚 OMG, I didn’t expect how bad [The Hard Thing About Hard Things](https://micro.blog/books/9780062273215) is. Unless you are into narcissistic writing for startup bros, steer clear. Reached Chapter 3 and just can’t go on. Wasn’t prepared for that.\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780062273215/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>📚 OMG, I didn’t expect how bad <a href=\"https://micro.blog/books/9780062273215\">The Hard Thing About Hard Things</a> is. Unless you are into narcissistic writing for startup bros, steer clear. Reached Chapter 3 and just can’t go on. Wasn’t prepared for that.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780062273215/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n📚 OMG, I didn’t expect how bad [The Hard Thing About Hard Things](https://micro.blog/books/9780062273215) is. Unless you are into narcissistic writing for startup bros, steer clear. Reached Chapter 3 and just can’t go on. Wasn’t prepared for that.\n",
 				"date_published": "2023-05-23T19:57:28+03:00",
 				"url": "https://microblog.todor.cc/2023/05/23/omg-i-didnt.html"
 			},
